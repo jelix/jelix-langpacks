@@ -1,23 +1,19 @@
 # 
 # Translators:
-# Alessandro Fanna <alex@rospus.org>, 2016
-# marta puppo <marta.puppo@gmail.com>, 2016
-# Paolo Cavallini <cavallini@faunalia.it>, 2016-2017,2019
-# Pietro Rossin <pietro.rossin@gmail.com>, 2016
-# rldhont <rldhont@gmail.com>, 2016
-# Stefano Campus <skampus@gmail.com>, 2020
+# Laurent Jouanneau <dev@ljouanneau.com>, 2021
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: Lizmap locales\n"
+"Project-Id-Version: Lizmap Web Client jelix 3.4.2-pre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-23 17:43++0100\n"
-"PO-Revision-Date: 2020-11-25 12:06+0000\n"
-"Last-Translator: Stefano Campus <skampus@gmail.com>\n"
-"Language-Team: Italian (http://www.transifex.com/3liz-1/lizmap-locales/language/it/)\n"
+"POT-Creation-Date: 2021-02-26 14:54++0100\n"
+"PO-Revision-Date: 2021-02-26 16:03+0000\n"
+"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
+"Language-Team: Italian (Italy) (https://www.transifex.com/3liz-1/teams/117634/it_IT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: it\n"
+"Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: jelix~auth.acl.grp.user.management
@@ -75,7 +71,9 @@ msgctxt "jelix~auth.error.bcrypt.bad.salt"
 msgid ""
 "(611) The salt for bcrypt algorithm must be alphanumeric [0-9A-Za-z] and "
 "have 22 characters"
-msgstr "(611) Il salt per l'algoritmo bcrypt dev'essere alfanumerico [0-9A-Za-z] ed avere 22 caratteri"
+msgstr ""
+"(611) Il salt per l'algoritmo bcrypt dev'essere alfanumerico [0-9A-Za-z] ed "
+"avere 22 caratteri"
 
 #: jelix~auth.error.bcrypt.inexistant
 msgctxt "jelix~auth.error.bcrypt.inexistant"
@@ -182,21 +180,27 @@ msgctxt "jelix~cache.error.invalid.key"
 msgid ""
 "(901) error key %s, use only alphanumeric characters and the character '_' "
 "and maximum length 255"
-msgstr "(901) carattere errato %s, usa solamente caratteri alfanumerici ed il carattere '_', lunghezza massima 255 caratteri"
+msgstr ""
+"(901) carattere errato %s, usa solamente caratteri alfanumerici ed il "
+"carattere '_', lunghezza massima 255 caratteri"
 
 #: jelix~cache.error.memcache.extension.badversion.2
 msgctxt "jelix~cache.error.memcache.extension.badversion.2"
 msgid ""
 "(913) profile '%s': bad version of the memcache php extension, this plugin "
 "requires less than 3.0"
-msgstr "(913) profilo '%s': versione non corretta dell'estensione php di Memchache, questo plug-in richiede la 3.0 o inferiore"
+msgstr ""
+"(913) profilo '%s': versione non corretta dell'estensione php di Memchache, "
+"questo plug-in richiede la 3.0 o inferiore"
 
 #: jelix~cache.error.memcache.extension.badversion.3
 msgctxt "jelix~cache.error.memcache.extension.badversion.3"
 msgid ""
 "(912) profile '%s': bad version of the memcache php extension, this plugin "
 "requires 3.0.1 or more"
-msgstr "(912) profilo '%s': versione non corretta dell'estensione php di Memchache, questo plug-in richiede la 3.0.1 o successive"
+msgstr ""
+"(912) profilo '%s': versione non corretta dell'estensione php di Memchache, "
+"questo plug-in richiede la 3.0.1 o successive"
 
 #: jelix~cache.error.memcache.extension.missing
 msgctxt "jelix~cache.error.memcache.extension.missing"
@@ -213,14 +217,18 @@ msgctxt "jelix~cache.error.serialize.data"
 msgid ""
 "(902) profile name '%s': error during data serialisation for cache purpose ("
 " %s )"
-msgstr "(902) nome del profilo '%s' : errore durante la serializzazione per la cache ( %s )"
+msgstr ""
+"(902) nome del profilo '%s' : errore durante la serializzazione per la cache"
+" ( %s )"
 
 #: jelix~cache.error.unserialize.data
 msgctxt "jelix~cache.error.unserialize.data"
 msgid ""
 "(903) profile name '%s': error during data unserialisation for cache purpose"
 " ( %s )"
-msgstr "(903) nome del profilo '%s' : errore durante la deserializzazione dei dati per la cache ( %s )"
+msgstr ""
+"(903) nome del profilo '%s' : errore durante la deserializzazione dei dati "
+"per la cache ( %s )"
 
 #: jelix~cache.error.wrong.date.value
 msgctxt "jelix~cache.error.wrong.date.value"
@@ -487,7 +495,9 @@ msgctxt "jelix~dao.error.update.impossible"
 msgid ""
 "(502)Update is impossible with this dao because table contains only primary "
 "keys (DAO: %1$s, file: %2$s)"
-msgstr "(502)L'aggiornamento di questo dao è impossibile poichè la tabella contiene solamente chiavi primarie (DAO: %1$s, file: %2$s)"
+msgstr ""
+"(502)L'aggiornamento di questo dao è impossibile poichè la tabella contiene "
+"solamente chiavi primarie (DAO: %1$s, file: %2$s)"
 
 #: jelix~daoxml.datasource.missing
 msgctxt "jelix~daoxml.datasource.missing"
@@ -504,38 +514,46 @@ msgctxt "jelix~daoxml.forbidden.attr"
 msgid ""
 "(514)DAO %1$s, the \"%3$s\" attribute is not allowed on the \"%4$s\" element"
 " (file %2$s)"
-msgstr "(514)DAO %1$s, l'attributo \"%3$s\" non è ammesso nell'elemento \"%4$s\" (file %2$s)"
+msgstr ""
+"(514)DAO %1$s, l'attributo \"%3$s\" non è ammesso nell'elemento \"%4$s\" "
+"(file %2$s)"
 
 #: jelix~daoxml.forbidden.attr.context
 msgctxt "jelix~daoxml.forbidden.attr.context"
 msgid ""
 "(515)DAO %1$s, the \"%3$s\" attribute is not allowed on the \"%4$s\" element"
 " in this context (file %2$s)"
-msgstr "(515)DAO %1$s, l'attributo \"%3$s\" non è ammesso nell'elemento \"%4$s\" in questo contesto (file %2$s)"
+msgstr ""
+"(515)DAO %1$s, l'attributo \"%3$s\" non è ammesso nell'elemento \"%4$s\" in "
+"questo contesto (file %2$s)"
 
 #: jelix~daoxml.foreignkey.missing
 msgctxt "jelix~daoxml.foreignkey.missing"
 msgid "(524)DAO %1$s, foreign key name is missing on a join (file %2$s)"
-msgstr "(524)DAO %1$s, nel join manca il nome della chiave esterna (file %2$s)"
+msgstr ""
+"(524)DAO %1$s, nel join manca il nome della chiave esterna (file %2$s)"
 
 #: jelix~daoxml.method.body.missing
 msgctxt "jelix~daoxml.method.body.missing"
 msgid "(542)DAO %1$s, method PHP body $3$s is missing (file %2$s)"
-msgstr "(542)DAO %1$s, il metodo del corpo del PHP $3$s è mancante (file %2$s)"
+msgstr ""
+"(542)DAO %1$s, il metodo del corpo del PHP $3$s è mancante (file %2$s)"
 
 #: jelix~daoxml.method.condition.driver.notallowed
 msgctxt "jelix~daoxml.method.condition.driver.notallowed"
 msgid ""
-"(561)DAO %1$s, method %3$, the driver of the database used here is not "
-"allowed accordind to the definition of the condition (file %2$s)"
-msgstr "(561)DAO %1$s, metodo %3$, the driver del database utilizzato non è consentito rispetto alla definizione della condizione (file %2$s)"
+"(561)DAO %1$s, method %3$s, the driver of the database used here is not "
+"allowed according to the definition of the condition (file %2$s)"
+msgstr ""
 
 #: jelix~daoxml.method.condition.innotin.bad.expr
 msgctxt "jelix~daoxml.method.condition.innotin.bad.expr"
 msgid ""
 "(560)DAO %1$s, method %3$s, condition %4$s, the expression for the in/notin "
 "operator should be a simple parameter name (file %2$s)"
-msgstr "(560)DAO %1$s, metodo %3$s, condizione %4$s, l'espressione per l'operatore in/notin deve essere un semplice nome di parametro (file %2$s)"
+msgstr ""
+"(560)DAO %1$s, metodo %3$s, condizione %4$s, l'espressione per l'operatore "
+"in/notin deve essere un semplice nome di parametro (file %2$s)"
 
 #: jelix~daoxml.method.condition.unknown
 msgctxt "jelix~daoxml.method.condition.unknown"
@@ -547,21 +565,27 @@ msgctxt "jelix~daoxml.method.condition.valueexpr.missing"
 msgid ""
 "(551)DAO %1$s, method %3$s, value or expression is missing on condition %4$s"
 " (file %2$s)"
-msgstr "(551)DAO %1$s, metodo %3$s, il valore o l'espressione è mancante alla condizione %4$s (file %2$s)"
+msgstr ""
+"(551)DAO %1$s, metodo %3$s, il valore o l'espressione è mancante alla "
+"condizione %4$s (file %2$s)"
 
 #: jelix~daoxml.method.condition.valueexpr.notallowed
 msgctxt "jelix~daoxml.method.condition.valueexpr.notallowed"
 msgid ""
 "(550)DAO %1$s, method %3$s, value or expr are not allowed on condition %4$s "
 "(file %2$s)"
-msgstr "(550)DAO %1$s, metodo %3$s, il valore o l'espressione non sono ammessi alla condizione %4$s (file %2$s)"
+msgstr ""
+"(550)DAO %1$s, metodo %3$s, il valore o l'espressione non sono ammessi alla "
+"condizione %4$s (file %2$s)"
 
 #: jelix~daoxml.method.condition.valueexpr.together
 msgctxt "jelix~daoxml.method.condition.valueexpr.together"
 msgid ""
 "(549)DAO %1$s, method %3$s, condition %4$s: no value and expression at the "
 "same time (file %2$s)"
-msgstr "(549)DAO %1$s, metodo %3$s, condizione %4$s : non è possibile avere contemporaneamente valore ed espressione (file %2$s)"
+msgstr ""
+"(549)DAO %1$s, metodo %3$s, condizione %4$s : non è possibile avere "
+"contemporaneamente valore ed espressione (file %2$s)"
 
 #: jelix~daoxml.method.duplicate
 msgctxt "jelix~daoxml.method.duplicate"
@@ -572,35 +596,42 @@ msgstr "(545)DAO %1$s, metodo %3$s è già stato definito (file %2$s)"
 msgctxt "jelix~daoxml.method.limit.badvalue"
 msgid ""
 "(559)DAO %1$s, method %3$s, bad value on limit tag ( %4$s ) (file %2$s)"
-msgstr "(559)DAO %1$s, metodo %3$s, valore errato nel tag limit ( %4$s ) (file %2$s)"
+msgstr ""
+"(559)DAO %1$s, metodo %3$s, valore errato nel tag limit ( %4$s ) (file %2$s)"
 
 #: jelix~daoxml.method.limit.forbidden
 msgctxt "jelix~daoxml.method.limit.forbidden"
 msgid ""
 "(544)DAO %1$s, method %3$s, limit tag is allowed only on select method (file"
 " %2$s)"
-msgstr "(544)DAO %1$s, metodo %3$s, il tag limit è consentito solo nel metodo selezionato (file %2$s)"
+msgstr ""
+"(544)DAO %1$s, metodo %3$s, il tag limit è consentito solo nel metodo "
+"selezionato (file %2$s)"
 
 #: jelix~daoxml.method.limit.parameter.unknown
 msgctxt "jelix~daoxml.method.limit.parameter.unknown"
 msgid ""
 "(558)DAO %1$s, method %3$s, unknown parameter %4$s in the limit tag (file "
 "%2$s)"
-msgstr "(558)DAO %1$s, metodo %3$s, parametro sconosciuto %4$s nel tag limit (file %2$s)"
+msgstr ""
+"(558)DAO %1$s, metodo %3$s, parametro sconosciuto %4$s nel tag limit (file "
+"%2$s)"
 
 #: jelix~daoxml.method.orderitem.bad
 msgctxt "jelix~daoxml.method.orderitem.bad"
 msgid ""
 "(552)DAO %1$s, method %4$s, property on item order %3$s is unknown (file "
 "%2$s)"
-msgstr "(552)DAO %1$s, metodo %4$s, la proprietà relativa all'ordine delle voci %3$s è sconosciuta (file %2$s)"
+msgstr ""
+"(552)DAO %1$s, metodo %4$s, la proprietà relativa all'ordine delle voci %3$s"
+" è sconosciuta (file %2$s)"
 
 #: jelix~daoxml.method.orderitem.parameter.unknown
 msgctxt "jelix~daoxml.method.orderitem.parameter.unknown"
 msgid ""
-"(563)DAO %1$s, method %3$,  unknown parameter %4$s in the orderitem tag "
+"(563)DAO %1$s, method %3$s,  unknown parameter %4$s in the orderitem tag "
 "(file %2$s)"
-msgstr "(563)DAO %1$s, metodo %3$, parametro sconosciuto %4$s nel tag orderitem (file %2$s)"
+msgstr ""
 
 #: jelix~daoxml.method.orderitem.property.missing
 msgctxt "jelix~daoxml.method.orderitem.property.missing"
@@ -612,25 +643,32 @@ msgctxt "jelix~daoxml.method.parameter.invalidname"
 msgid ""
 "(565) DAO, in the method %1$s, the sign $ in the parameter name %4$s is no "
 "authorized"
-msgstr "(565) DAO, nel metodo %1$s, il simbolo $ nel parametro nome %4$s non è autorizzato"
+msgstr ""
+"(565) DAO, nel metodo %1$s, il simbolo $ nel parametro nome %4$s non è "
+"autorizzato"
 
 #: jelix~daoxml.method.parameter.unknowname
 msgctxt "jelix~daoxml.method.parameter.unknowname"
 msgid "(540)DAO %1$s, method $3$s, parameter name is missing (file %2$s)"
-msgstr "(540)DAO %1$s, metodo $3$s, il nome del parametro è mancante (file %2$s)"
+msgstr ""
+"(540)DAO %1$s, metodo $3$s, il nome del parametro è mancante (file %2$s)"
 
 #: jelix~daoxml.method.procstock.name.missing
 msgctxt "jelix~daoxml.method.procstock.name.missing"
 msgid ""
 "(541)DAO %1$s, procedure call name is missing on method $3$s (file %2$s)"
-msgstr "(541)DAO %1$s, la procedura di chiamata del nome nel metodo è mancante $3$s (file %2$s)"
+msgstr ""
+"(541)DAO %1$s, la procedura di chiamata del nome nel metodo è mancante $3$s "
+"(file %2$s)"
 
 #: jelix~daoxml.method.property.forbidden
 msgctxt "jelix~daoxml.method.property.forbidden"
 msgid ""
 "(548)DAO %1$s, conditions on foreign keys are not allowed on this type of "
 "method %3$s (file %2$s)"
-msgstr "(548)DAO %1$s, le condizioni sulle chiavi esterne non sono ammesse in questo tipo di metodo %3$s (file %2$s)"
+msgstr ""
+"(548)DAO %1$s, le condizioni sulle chiavi esterne non sono ammesse in questo"
+" tipo di metodo %3$s (file %2$s)"
 
 #: jelix~daoxml.method.property.unknown
 msgctxt "jelix~daoxml.method.property.unknown"
@@ -642,41 +680,53 @@ msgctxt "jelix~daoxml.method.update.forbidden"
 msgid ""
 "(564)DAO %1$s, update method %3$s is forbidden because the main table "
 "contains only primary keys (file %2$s)"
-msgstr "(564)DAO %1$s, il metodo di aggiornamento %3$s è vietato perchè la tabella principale contiene solo la chiave primaria (file %2$s)"
+msgstr ""
+"(564)DAO %1$s, il metodo di aggiornamento %3$s è vietato perchè la tabella "
+"principale contiene solo la chiave primaria (file %2$s)"
 
 #: jelix~daoxml.method.values.property.bad
 msgctxt "jelix~daoxml.method.values.property.bad"
 msgid ""
 "(555)DAO %1$s, method %3$s,  a property should be owned by the primary table"
 "  (file %2$s)"
-msgstr "(555)DAO %1$s, metodo %3$s, una proprietà deve essere posseduta datta tabella primaria (file %2$s)"
+msgstr ""
+"(555)DAO %1$s, metodo %3$s, una proprietà deve essere posseduta datta "
+"tabella primaria (file %2$s)"
 
 #: jelix~daoxml.method.values.property.pkforbidden
 msgctxt "jelix~daoxml.method.values.property.pkforbidden"
 msgid ""
 "(556)DAO %1$s, method %3$s, prmiary key properties are not allowed in value "
 "tag  (file %2$s)"
-msgstr "(556)DAO %1$s, metodo %3$s, le proprietà della chiave primaria non sono permesse nel tag valore (file %2$s)"
+msgstr ""
+"(556)DAO %1$s, metodo %3$s, le proprietà della chiave primaria non sono "
+"permesse nel tag valore (file %2$s)"
 
 #: jelix~daoxml.method.values.property.unknown
 msgctxt "jelix~daoxml.method.values.property.unknown"
 msgid ""
 "(554)DAO %1$s, method %3$s,  unknown property on a <value> tag (file %2$s)"
-msgstr "(554)DAO %1$s, metodo %3$s, proprietà sconosciuta nella <value> tag (file %2$s)"
+msgstr ""
+"(554)DAO %1$s, metodo %3$s, proprietà sconosciuta nella <value> tag (file "
+"%2$s)"
 
 #: jelix~daoxml.method.values.undefine
 msgctxt "jelix~daoxml.method.values.undefine"
 msgid ""
 "(543)DAO %1$s, method %3$s of \"update\" type should contains \"value\" tag "
 "(file %2$s)"
-msgstr "(543)DAO %1$s, metodo %3$s del tipo \"update\" deve contenere il tag \"value\" (file %2$s)"
+msgstr ""
+"(543)DAO %1$s, metodo %3$s del tipo \"update\" deve contenere il tag "
+"\"value\" (file %2$s)"
 
 #: jelix~daoxml.method.values.valueexpr
 msgctxt "jelix~daoxml.method.values.valueexpr"
 msgid ""
 "(557)DAO %1$s, method %3$s, value or expression is missing on a value tag "
 "(file %2$s)"
-msgstr "(557)DAO %1$s, metodo %3$s, il valore o l'espressione è mancante nel tag valore (file %2$s)"
+msgstr ""
+"(557)DAO %1$s, metodo %3$s, il valore o l'espressione è mancante nel tag "
+"valore (file %2$s)"
 
 #: jelix~daoxml.missing.attr
 msgctxt "jelix~daoxml.missing.attr"
@@ -707,19 +757,25 @@ msgstr "(533)DAO %1$s, la proprietà %3$s è già stata definita (file %2$s)"
 msgctxt "jelix~daoxml.property.imported.unknown.table"
 msgid ""
 "(534)DAO %1$s, unknown table name on the imported property %3$s (file %2$s)"
-msgstr "(534)DAO %1$s, nelle proprietà di importazione il nome della tabella è sconosciuto %3$s (file %2$s)"
+msgstr ""
+"(534)DAO %1$s, nelle proprietà di importazione il nome della tabella è "
+"sconosciuto %3$s (file %2$s)"
 
 #: jelix~daoxml.property.invalid.name
 msgctxt "jelix~daoxml.property.invalid.name"
 msgid ""
 "(532)DAO %1$s, invalid syntaxe in the property name \"%3$s\", it must "
 "respect php syntax (file %2$s)"
-msgstr "(532)DAO %1$s, sintassi non valida nel nome della proprietà \"%3$s\", deve essere rispettata la sintassi php (file %2$s)"
+msgstr ""
+"(532)DAO %1$s, sintassi non valida nel nome della proprietà \"%3$s\", deve "
+"essere rispettata la sintassi php (file %2$s)"
 
 #: jelix~daoxml.property.unknown.table
 msgctxt "jelix~daoxml.property.unknown.table"
 msgid "(531)DAO %1$s, unknown table name on the property %3$s (file %2$s)"
-msgstr "(531)DAO %1$s, nome della tabella sconosciuto all'interno delle proprietà %3$s (file %2$s)"
+msgstr ""
+"(531)DAO %1$s, nome della tabella sconosciuto all'interno delle proprietà "
+"%3$s (file %2$s)"
 
 #: jelix~daoxml.table.name
 msgctxt "jelix~daoxml.table.name"
@@ -735,19 +791,24 @@ msgstr "(521)DAO %1$s, troppe tabelle (file %2$s)"
 msgctxt "jelix~daoxml.tag.duplicate"
 msgid ""
 "(513)DAO %1$s, only one %3$s tag is allowed in the %4$s method (file %2$s)"
-msgstr "(513)DAO %1$s, solo un tag %3$s è concesso nel metodo %4$s (file %2$s)"
+msgstr ""
+"(513)DAO %1$s, solo un tag %3$s è concesso nel metodo %4$s (file %2$s)"
 
 #: jelix~daoxml.unknown.attr
 msgctxt "jelix~daoxml.unknown.attr"
 msgid "(517)DAO %1$s, attribute \"%3$s\" is unknown on tag \"%4$s\" (file %2$s)"
-msgstr "(517)DAO %1$s, l'attributo \"%3$s\" è sconosciuto nel tag \"%4$s\" (file %2$s)"
+msgstr ""
+"(517)DAO %1$s, l'attributo \"%3$s\" è sconosciuto nel tag \"%4$s\" (file "
+"%2$s)"
 
 #: jelix~daoxml.wrong.attr
 msgctxt "jelix~daoxml.wrong.attr"
 msgid ""
 "(516)DAO %1$s, the value \"%3$s\" of the \"%4$s\" attribute on the \"%5$s\" "
 "element is not valid (file %2$s)"
-msgstr "(516)DAO %1$s, il valore \"%3$s\" dell'attributo \"%4$s\" nell'elemento \"%5$s\" non è valido (file %2$s)"
+msgstr ""
+"(516)DAO %1$s, il valore \"%3$s\" dell'attributo \"%4$s\" nell'elemento "
+"\"%5$s\" non è valido (file %2$s)"
 
 #: jelix~date_time.day.0.label
 msgctxt "jelix~date_time.day.0.label"
@@ -1104,7 +1165,9 @@ msgctxt "jelix~db.error.connection.closed"
 msgid ""
 "(409) Connection to database is not valid anymore: timeout, server down... "
 "(profile %s)"
-msgstr "(409) La connessione al database non è più valida: tempo scaduto, il server è giù... (profilo %s)"
+msgstr ""
+"(409) La connessione al database non è più valida: tempo scaduto, il server "
+"è giù... (profilo %s)"
 
 #: jelix~db.error.database.unknown
 msgctxt "jelix~db.error.database.unknown"
@@ -1161,21 +1224,27 @@ msgctxt "jelix~errors.ad.controller.method.unknown"
 msgid ""
 "(102)Action %s: method %s of the controller class %s doesn't exists (file: "
 "%s)"
-msgstr "(102)Azione %s : il metodo %s della classe controller %s non esiste (file : %s)"
+msgstr ""
+"(102)Azione %s : il metodo %s della classe controller %s non esiste (file : "
+"%s)"
 
 #: jelix~errors.ad.response.not.loaded
 msgctxt "jelix~errors.ad.response.not.loaded"
 msgid ""
 "(112)Action %s: the class for the response type \"%s\" can't be loaded "
 "(file: %s)"
-msgstr "(112)Azione %s : la classe per il tipo di risposta \"%s\" non può essere caricata (file : %s)"
+msgstr ""
+"(112)Azione %s : la classe per il tipo di risposta \"%s\" non può essere "
+"caricata (file : %s)"
 
 #: jelix~errors.ad.response.type.notallowed
 msgctxt "jelix~errors.ad.response.type.notallowed"
 msgid ""
 "(113)Action %s: the response type \"%s\" is not allowed for the current "
 "request (file: %s)"
-msgstr "(113)Azione %s : il tipo di risposta \"%s\" non è permesso per la richiesta corrente (file : %s)"
+msgstr ""
+"(113)Azione %s : il tipo di risposta \"%s\" non è permesso per la richiesta "
+"corrente (file : %s)"
 
 #: jelix~errors.ad.response.type.unknown
 msgctxt "jelix~errors.ad.response.type.unknown"
@@ -1255,7 +1324,8 @@ msgstr "(23)Il file %s non esiste"
 #: jelix~errors.file.write.error
 msgctxt "jelix~errors.file.write.error"
 msgid "(22)Error while writing file %s using temporary %s"
-msgstr "(22)Errore durante la scrittura del file %s utilizzando la %s temporanea "
+msgstr ""
+"(22)Errore durante la scrittura del file %s utilizzando la %s temporanea "
 
 #: jelix~errors.includer.source.compile
 msgctxt "jelix~errors.includer.source.compile"
@@ -1275,26 +1345,33 @@ msgstr "(24)Errore durante la scrittura del file ini %s"
 #: jelix~errors.jsession.name.invalid
 msgctxt "jelix~errors.jsession.name.invalid"
 msgid "(90)Session name cannot be empty and only accepts alpha-numeric chars."
-msgstr "(90)Il nome della sessione non può essere vuoto ed accetta solamente caratteri alfanumerici."
+msgstr ""
+"(90)Il nome della sessione non può essere vuoto ed accetta solamente "
+"caratteri alfanumerici."
 
 #: jelix~errors.locale.key.file.unknown
 msgctxt "jelix~errors.locale.key.file.unknown"
 msgid ""
 "(202) The file of the given locale key \"%s\" from module \"%s\" (and  "
 "charset %s, lang %s) does not exists"
-msgstr "(202) Il file del carattere locale inserito \"%s\" dal modulo \"%s\" (and charset %s, lang %s) non esiste"
+msgstr ""
+"(202) Il file del carattere locale inserito \"%s\" dal modulo \"%s\" (and "
+"charset %s, lang %s) non esiste"
 
 #: jelix~errors.locale.key.selector.invalid
 msgctxt "jelix~errors.locale.key.selector.invalid"
 msgid "(200)The given locale key \"%s\" is invalid  ( charset %s, lang %s)"
-msgstr "(200)Il carattere locale inserito \"%s\" non è valido ( charset %s, lang %s)"
+msgstr ""
+"(200)Il carattere locale inserito \"%s\" non è valido ( charset %s, lang %s)"
 
 #: jelix~errors.locale.key.unknown
 msgctxt "jelix~errors.locale.key.unknown"
 msgid ""
 "(201)The given locale key \"%s\" from module \"%s\" (and  charset %s, lang "
 "%s) does not exists"
-msgstr "(201)Il carattere locale inserito \"%s\" dal modulo \"%s\" (and charset %s, lang %s) non esiste"
+msgstr ""
+"(201)Il carattere locale inserito \"%s\" dal modulo \"%s\" (and charset %s, "
+"lang %s) non esiste"
 
 #: jelix~errors.ltx2pdf.exec
 msgctxt "jelix~errors.ltx2pdf.exec"
@@ -1354,7 +1431,9 @@ msgstr "(351)jMailer: l'invio non è supportato (%s)"
 #: jelix~errors.mail.provide_address
 msgctxt "jelix~errors.mail.provide_address"
 msgid "(350)jMailer: You must provide at least one recipient email address."
-msgstr "(350)jMailer: È necessario fornire almeno un indirizzo di posta elettronica del destinatario."
+msgstr ""
+"(350)jMailer: È necessario fornire almeno un indirizzo di posta elettronica "
+"del destinatario."
 
 #: jelix~errors.mail.recipients_failed
 msgctxt "jelix~errors.mail.recipients_failed"
@@ -1397,7 +1476,10 @@ msgid ""
 "(501) The given profile \"%s\" for \"%s\" doesn't exist. The default one is "
 "used instead. To not show this error, create the profile or an alias to the "
 "default profile."
-msgstr "(501) Il profilo \"%s\" per \"%s\" non esiste. In sostituzione viene usato il profilo di default. Per non visualizzare questo errore, creare un profilo o un un alias del profilo di default."
+msgstr ""
+"(501) Il profilo \"%s\" per \"%s\" non esiste. In sostituzione viene usato "
+"il profilo di default. Per non visualizzare questo errore, creare un profilo"
+" o un un alias del profilo di default."
 
 #: jelix~errors.profile.virtual.invalid.params
 msgctxt "jelix~errors.profile.virtual.invalid.params"
@@ -1412,7 +1494,9 @@ msgstr "(503) Il nome del profilo virtuale è vuoto per \"%s\""
 #: jelix~errors.rep.bad.request.method
 msgctxt "jelix~errors.rep.bad.request.method"
 msgid "(155) Impossible to use cache on other request type that GET or HEAD"
-msgstr "(155) Impossibile usare la cache per richieste che non siano di tipo GET o HEAD"
+msgstr ""
+"(155) Impossibile usare la cache per richieste che non siano di tipo GET o "
+"HEAD"
 
 #: jelix~errors.repbin.unknown.file
 msgctxt "jelix~errors.repbin.unknown.file"
@@ -1463,7 +1547,9 @@ msgstr "(18)Modulo sconosciuto nel selettore \"%s\""
 msgctxt "jelix~errors.tech"
 msgid ""
 "(2)There is a technic error on the site. Please try connect to it later."
-msgstr "(2)Si è riscontrato un errore tecnico sul sito. Si prega di riprovare in un  secondo momento."
+msgstr ""
+"(2)Si è riscontrato un errore tecnico sul sito. Si prega di riprovare in un"
+"  secondo momento."
 
 #: jelix~errors.tpl.not.found
 msgctxt "jelix~errors.tpl.not.found"
@@ -1494,7 +1580,8 @@ msgstr "(309)Nel tag %s del modello %3$s, non è permesso il carattere %2$s"
 msgctxt "jelix~errors.tpl.tag.constant.notallowed"
 msgid ""
 "(318)In the tag %s in the template %3$s, constants (%2$s) are not allowed"
-msgstr "(318)Nel tag %s del modello %3$s, non sono permesse le costanti (%2$s)"
+msgstr ""
+"(318)Nel tag %s del modello %3$s, non sono permesse le costanti (%2$s)"
 
 #: jelix~errors.tpl.tag.function.invalid
 msgctxt "jelix~errors.tpl.tag.function.invalid"
@@ -1531,7 +1618,8 @@ msgstr "(312)Nel modello %2$s, è sconosciuto il meta tag %1$s"
 msgctxt "jelix~errors.tpl.tag.modifier.invalid"
 msgid ""
 "(303)In the tag %s in the template %3$s, invalid syntax on the modifier %2$s"
-msgstr "(303)Nel tag %s del modello %3$s, sintassi non valida nel modificatore %2$s"
+msgstr ""
+"(303)Nel tag %s del modello %3$s, sintassi non valida nel modificatore %2$s"
 
 #: jelix~errors.tpl.tag.modifier.unknown
 msgctxt "jelix~errors.tpl.tag.modifier.unknown"
@@ -1553,7 +1641,9 @@ msgctxt "jelix~errors.tplplugin.block.bad.argument.number"
 msgid ""
 "(316)In the tag %s  in the template %3$s, bad argument number (%2$s "
 "expected)"
-msgstr "(316)Nel tag %s del modello %3$s, vi è un numero di argomenti sbagliato (%2$s attesi)"
+msgstr ""
+"(316)Nel tag %s del modello %3$s, vi è un numero di argomenti sbagliato "
+"(%2$s attesi)"
 
 #: jelix~errors.tplplugin.block.too.few.arguments
 msgctxt "jelix~errors.tplplugin.block.too.few.arguments"
@@ -1569,14 +1659,18 @@ msgstr "(315)Nel tag %s del modello %s, ci sono troppi argomenti"
 msgctxt "jelix~errors.tplplugin.cfunction.bad.argument.number"
 msgid ""
 "(319)In the tag %s in the template %3$s, bad argument number (%2$s expected)"
-msgstr "(319)Nel tag %s del modello %3$s, vi è un numero di argomenti sbagliato (%2$s attesi)"
+msgstr ""
+"(319)Nel tag %s del modello %3$s, vi è un numero di argomenti sbagliato "
+"(%2$s attesi)"
 
 #: jelix~errors.tplplugin.cmodifier.bad.argument.number
 msgctxt "jelix~errors.tplplugin.cmodifier.bad.argument.number"
 msgid ""
 "(320)In the modifier %s in the template %3$s, bad argument number (%2$s "
 "expected)"
-msgstr "(320)Nel modificatore %s del modello %3$s, vi è un numero di argomenti sbagliato (%2$s attesi)"
+msgstr ""
+"(320)Nel modificatore %s del modello %3$s, vi è un numero di argomenti "
+"sbagliato (%2$s attesi)"
 
 #: jelix~errors.tplplugin.function.argument.unknown
 msgctxt "jelix~errors.tplplugin.function.argument.unknown"
@@ -1594,7 +1688,9 @@ msgctxt "jelix~errors.tplplugin.untrusted.not.available"
 msgid ""
 "(321)In the tag %s in the template %2$s, is not allowed in a untrusted "
 "template"
-msgstr "(321)Il tag %s del modello %2$s, non è permesso in un modello non certificato"
+msgstr ""
+"(321)Il tag %s del modello %2$s, non è permesso in un modello non "
+"certificato"
 
 #: jelix~errors.unknown
 msgctxt "jelix~errors.unknown"
@@ -1605,7 +1701,9 @@ msgstr "(1)errore sconosciuto"
 msgctxt "jelix~errors.urls.domain.void"
 msgid ""
 "(31)Unknow domain for jUrl. It should be indicated into the configuration"
-msgstr "(31)Dominio sconosciuto per jUrl. Dovrebbe essere indicato nelle configurazioni"
+msgstr ""
+"(31)Dominio sconosciuto per jUrl. Dovrebbe essere indicato nelle "
+"configurazioni"
 
 #: jelix~errors.urls.engine.notfound
 msgctxt "jelix~errors.urls.engine.notfound"
@@ -1637,14 +1735,18 @@ msgctxt "jelix~formserr.bad.formid.for.dao"
 msgid ""
 "(810)Impossible to get the dao  record %s corresponding to the formid %s of "
 "%s form"
-msgstr "(810)Impossibile ottenere il record del dao %s corrispondente al formid %s della %s form"
+msgstr ""
+"(810)Impossibile ottenere il record del dao %s corrispondente al formid %s "
+"della %s form"
 
 #: jelix~formserr.bad.root.tag
 msgctxt "jelix~formserr.bad.root.tag"
 msgid ""
 "(820) the root element %1$s is incorrect, it should have the name \"form\" "
 "(fichier %2$s)"
-msgstr "(820) l'elemento radice %1$s non è corretto, dovrebbe avere il nome  \"form\" (fichier %2$s)"
+msgstr ""
+"(820) l'elemento radice %1$s non è corretto, dovrebbe avere il nome  "
+"\"form\" (fichier %2$s)"
 
 #: jelix~formserr.content.missing
 msgctxt "jelix~formserr.content.missing"
@@ -1661,7 +1763,9 @@ msgctxt "jelix~formserr.control.not.container"
 msgid ""
 "(811) Impossible to use the control \"%s\" with a dao because it isn't a "
 "control with a datasource (form=%s)"
-msgstr "(811) Impossibile usare il controllo \"%s\" con un dao poichè non è un controllo  con un a sorgente dati (form=%s)"
+msgstr ""
+"(811) Impossibile usare il controllo \"%s\" con un dao poichè non è un "
+"controllo  con un a sorgente dati (form=%s)"
 
 #: jelix~formserr.datatype.unknown
 msgctxt "jelix~formserr.datatype.unknown"
@@ -1673,14 +1777,18 @@ msgctxt "jelix~formserr.defaultvalues.not.allowed"
 msgid ""
 "(807) <defaultvalues> is not allowed in a <listbox multiple=\"false\"> "
 "element (file %s)"
-msgstr "(807) <defaultvalues> non è permesso in un elemento <listbox multiple=\"false\"> (file %s)"
+msgstr ""
+"(807) <defaultvalues> non è permesso in un elemento <listbox "
+"multiple=\"false\"> (file %s)"
 
 #: jelix~formserr.formid.undefined.for.dao
 msgctxt "jelix~formserr.formid.undefined.for.dao"
 msgid ""
 "(812) Impossible to use the control \"%s\" with a dao because the form %s "
 "has not an id"
-msgstr "(812) Impossibile usare il controllo \"%s\" con un dao poichè la maschera %s non ha un id"
+msgstr ""
+"(812) Impossibile usare il controllo \"%s\" con un dao poichè la maschera %s"
+" non ha un id"
 
 #: jelix~formserr.invalid.form.builder
 msgctxt "jelix~formserr.invalid.form.builder"
@@ -1692,14 +1800,18 @@ msgctxt "jelix~formserr.invalid.token"
 msgid ""
 "(835) The token of the form is not valid, you should fill the form from the "
 "original web page"
-msgstr "(835) Il token della form non è valido, dovresti compilare la form sulla pagina web originale"
+msgstr ""
+"(835) Il token della form non è valido, dovresti compilare la form sulla "
+"pagina web originale"
 
 #: jelix~formserr.invalid.upload.control.name
 msgctxt "jelix~formserr.invalid.upload.control.name"
 msgid ""
 "(815) The given control name \"%s\" is invalid or the corresponding control "
 "is not an upload (form=%s)"
-msgstr "(815) Il nome del controllo \"%s\" non è valido o il controllo corrispondente non è un upload (form=%s)"
+msgstr ""
+"(815) Il nome del controllo \"%s\" non è valido o il controllo "
+"corrispondente non è un upload (form=%s)"
 
 #: jelix~formserr.invalid.xml.file
 msgctxt "jelix~formserr.invalid.xml.file"
@@ -1736,7 +1848,9 @@ msgctxt "jelix~formserr.multiple.selected.not.allowed"
 msgid ""
 "(808)Only one selected item is allowed in <listbox multiple=\"false\">, "
 "<radiobuttons> and <menulist> elements (file %s)"
-msgstr "(808)La selezione di n solo elemento è permessa negli elementi <listbox multiple=\"false\">, <radiobuttons> e <menulist> (file %s)"
+msgstr ""
+"(808)La selezione di n solo elemento è permessa negli elementi <listbox "
+"multiple=\"false\">, <radiobuttons> e <menulist> (file %s)"
 
 #: jelix~formserr.namespace.wrong
 msgctxt "jelix~formserr.namespace.wrong"
@@ -1758,7 +1872,9 @@ msgctxt "jelix~formserr.selected.attribute.not.allowed"
 msgid ""
 "(806)\"selected\" attribute on <item> is not allowed when using defaultvalue"
 " attribute or <defaultvalues> (file %s)"
-msgstr "(806)non è permesso attributi  \"selezionati\" su <item> quando si usa l'attributo valore di default o <defaultvalues> (file %s)"
+msgstr ""
+"(806)non è permesso attributi  \"selezionati\" su <item> quando si usa "
+"l'attributo valore di default o <defaultvalues> (file %s)"
 
 #: jelix~formserr.tag.missing
 msgctxt "jelix~formserr.tag.missing"
@@ -1773,7 +1889,9 @@ msgstr "(830) Il controllo \"%1$s\" non esiste nel form \"%2$s\" (template %3$s)
 #: jelix~formserr.unknown.control.class
 msgctxt "jelix~formserr.unknown.control.class"
 msgid "(821) unknown the control class %1$s (control tag %2$s, file %3$s)"
-msgstr "(821) sconosciuta la classe di controllo %1$s (tag di controllo %2$s, file %3$s)"
+msgstr ""
+"(821) sconosciuta la classe di controllo %1$s (tag di controllo %2$s, file "
+"%3$s)"
 
 #: jelix~formserr.unknown.control2
 msgctxt "jelix~formserr.unknown.control2"
@@ -1790,7 +1908,9 @@ msgctxt "jelix~formserr.value.not.array"
 msgid ""
 "(813) Impossible de save datas of control \"%s\" (form=%s) because it is not"
 " an array"
-msgstr "(813) Impossibile salvare i dati del controllo \"%s\" (form=%s) poichè non è un array"
+msgstr ""
+"(813) Impossibile salvare i dati del controllo \"%s\" (form=%s) poichè non è"
+" un array"
 
 #: jelix~jelix.framework.name
 msgctxt "jelix~jelix.framework.name"
@@ -1931,7 +2051,9 @@ msgstr "Zoom -"
 msgctxt "jelix~kvstore.error.connection"
 msgid ""
 "(931) jKVDb: impossible to connect to  %s (bad host, login or password?)"
-msgstr "(931) jKVDb: impossibile connettersi a %s (host, login o password sbagliati?)"
+msgstr ""
+"(931) jKVDb: impossibile connettersi a %s (host, login o password "
+"sbagliati?)"
 
 #: jelix~kvstore.error.driver.nohost
 msgctxt "jelix~kvstore.error.driver.nohost"
@@ -1986,7 +2108,8 @@ msgstr "(939) jKVDb '%s' : errore durante la serializzazione ( %s )"
 #: jelix~kvstore.error.unserialize.data
 msgctxt "jelix~kvstore.error.unserialize.data"
 msgid "(940) jKVDb '%s': error during data unserialisation ( %s )"
-msgstr "(940) jKVDb '%s' : errore durante la deserializzazione dei dati ( %s )"
+msgstr ""
+"(940) jKVDb '%s' : errore durante la deserializzazione dei dati ( %s )"
 
 #: jelix~ui.buttons.accept
 msgctxt "jelix~ui.buttons.accept"

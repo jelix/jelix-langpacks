@@ -1,18 +1,19 @@
 # 
 # Translators:
-# trendspotter, 2019-2020
+# Laurent Jouanneau <dev@ljouanneau.com>, 2021
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: Lizmap locales\n"
+"Project-Id-Version: Lizmap Web Client jelix 3.4.2-pre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-23 17:43++0100\n"
-"PO-Revision-Date: 2020-04-06 22:19+0000\n"
-"Last-Translator: trendspotter\n"
-"Language-Team: Czech (http://www.transifex.com/3liz-1/lizmap-locales/language/cs/)\n"
+"POT-Creation-Date: 2021-02-26 14:54++0100\n"
+"PO-Revision-Date: 2021-02-26 16:03+0000\n"
+"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
+"Language-Team: Czech (Czech Republic) (https://www.transifex.com/3liz-1/teams/117634/cs_CZ/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cs\n"
+"Language: cs_CZ\n"
 "Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
 
 #: jelix~auth.acl.grp.user.management
@@ -70,7 +71,9 @@ msgctxt "jelix~auth.error.bcrypt.bad.salt"
 msgid ""
 "(611) The salt for bcrypt algorithm must be alphanumeric [0-9A-Za-z] and "
 "have 22 characters"
-msgstr "(611) Sůl pro algoritmus bcrypt musí být alfanumerická [0-9A-Za-z] a má 22 znaků"
+msgstr ""
+"(611) Sůl pro algoritmus bcrypt musí být alfanumerická [0-9A-Za-z] a má 22 "
+"znaků"
 
 #: jelix~auth.error.bcrypt.inexistant
 msgctxt "jelix~auth.error.bcrypt.inexistant"
@@ -177,21 +180,27 @@ msgctxt "jelix~cache.error.invalid.key"
 msgid ""
 "(901) error key %s, use only alphanumeric characters and the character '_' "
 "and maximum length 255"
-msgstr "(901) chybový klíč %s použijte pouze alfanumerické znaky a znak '_' a maximální délku 255"
+msgstr ""
+"(901) chybový klíč %s použijte pouze alfanumerické znaky a znak '_' a "
+"maximální délku 255"
 
 #: jelix~cache.error.memcache.extension.badversion.2
 msgctxt "jelix~cache.error.memcache.extension.badversion.2"
 msgid ""
 "(913) profile '%s': bad version of the memcache php extension, this plugin "
 "requires less than 3.0"
-msgstr "(913) profil '%s': špatná verze rozšíření php memcache, tento plugin vyžaduje verzi nižší než 3.0"
+msgstr ""
+"(913) profil '%s': špatná verze rozšíření php memcache, tento plugin "
+"vyžaduje verzi nižší než 3.0"
 
 #: jelix~cache.error.memcache.extension.badversion.3
 msgctxt "jelix~cache.error.memcache.extension.badversion.3"
 msgid ""
 "(912) profile '%s': bad version of the memcache php extension, this plugin "
 "requires 3.0.1 or more"
-msgstr "(912) profil '%s': špatná verze php rozšíření memcache, tento plugin vyžaduje 3.0.1 nebo vyšší"
+msgstr ""
+"(912) profil '%s': špatná verze php rozšíření memcache, tento plugin "
+"vyžaduje 3.0.1 nebo vyšší"
 
 #: jelix~cache.error.memcache.extension.missing
 msgctxt "jelix~cache.error.memcache.extension.missing"
@@ -208,14 +217,17 @@ msgctxt "jelix~cache.error.serialize.data"
 msgid ""
 "(902) profile name '%s': error during data serialisation for cache purpose ("
 " %s )"
-msgstr "(902) název profilu '%s': chyba při serializaci dat pro účel cache ( %s )"
+msgstr ""
+"(902) název profilu '%s': chyba při serializaci dat pro účel cache ( %s )"
 
 #: jelix~cache.error.unserialize.data
 msgctxt "jelix~cache.error.unserialize.data"
 msgid ""
 "(903) profile name '%s': error during data unserialisation for cache purpose"
 " ( %s )"
-msgstr "(903) jméno profilu '%s': chyba při neserializaci dat pro účel vyrovnávací paměti (  %s )"
+msgstr ""
+"(903) jméno profilu '%s': chyba při neserializaci dat pro účel vyrovnávací "
+"paměti (  %s )"
 
 #: jelix~cache.error.wrong.date.value
 msgctxt "jelix~cache.error.wrong.date.value"
@@ -482,7 +494,9 @@ msgctxt "jelix~dao.error.update.impossible"
 msgid ""
 "(502)Update is impossible with this dao because table contains only primary "
 "keys (DAO: %1$s, file: %2$s)"
-msgstr "(502) Aktualizace je nemožná u tohoto dao, protože tabulka obsahuje pouze primární klíče (DAO: %1$s, soubor: %2$s)"
+msgstr ""
+"(502) Aktualizace je nemožná u tohoto dao, protože tabulka obsahuje pouze "
+"primární klíče (DAO: %1$s, soubor: %2$s)"
 
 #: jelix~daoxml.datasource.missing
 msgctxt "jelix~daoxml.datasource.missing"
@@ -506,7 +520,9 @@ msgctxt "jelix~daoxml.forbidden.attr.context"
 msgid ""
 "(515)DAO %1$s, the \"%3$s\" attribute is not allowed on the \"%4$s\" element"
 " in this context (file %2$s)"
-msgstr "(515) DAO %1$s, atribut \"%3$s\" není povolen na prvek \"%4$s\" v tomto kontextu (soubor %2$s)"
+msgstr ""
+"(515) DAO %1$s, atribut \"%3$s\" není povolen na prvek \"%4$s\" v tomto "
+"kontextu (soubor %2$s)"
 
 #: jelix~daoxml.foreignkey.missing
 msgctxt "jelix~daoxml.foreignkey.missing"
@@ -521,16 +537,18 @@ msgstr "(542) DAO %1$s, metoda PHP body $3$s chybí (soubor %2$s)"
 #: jelix~daoxml.method.condition.driver.notallowed
 msgctxt "jelix~daoxml.method.condition.driver.notallowed"
 msgid ""
-"(561)DAO %1$s, method %3$, the driver of the database used here is not "
-"allowed accordind to the definition of the condition (file %2$s)"
-msgstr "(561) DAO %1$s, metoda %3$, ovladač zde použité databáze není povolen podle definice podmínky (soubor %2$s)"
+"(561)DAO %1$s, method %3$s, the driver of the database used here is not "
+"allowed according to the definition of the condition (file %2$s)"
+msgstr ""
 
 #: jelix~daoxml.method.condition.innotin.bad.expr
 msgctxt "jelix~daoxml.method.condition.innotin.bad.expr"
 msgid ""
 "(560)DAO %1$s, method %3$s, condition %4$s, the expression for the in/notin "
 "operator should be a simple parameter name (file %2$s)"
-msgstr "(560) DAO %1$s, metoda %3$s, podmínka %4$s, výraz pro in / notin operátor by měl být jednoduchý název parametru (soubor %2$s)"
+msgstr ""
+"(560) DAO %1$s, metoda %3$s, podmínka %4$s, výraz pro in / notin operátor by"
+" měl být jednoduchý název parametru (soubor %2$s)"
 
 #: jelix~daoxml.method.condition.unknown
 msgctxt "jelix~daoxml.method.condition.unknown"
@@ -542,21 +560,27 @@ msgctxt "jelix~daoxml.method.condition.valueexpr.missing"
 msgid ""
 "(551)DAO %1$s, method %3$s, value or expression is missing on condition %4$s"
 " (file %2$s)"
-msgstr "(551) DAO %1$s, metoda %3$s, hodnota nebo výraz chybí za podmínky %4$s (soubor %2$s)"
+msgstr ""
+"(551) DAO %1$s, metoda %3$s, hodnota nebo výraz chybí za podmínky %4$s "
+"(soubor %2$s)"
 
 #: jelix~daoxml.method.condition.valueexpr.notallowed
 msgctxt "jelix~daoxml.method.condition.valueexpr.notallowed"
 msgid ""
 "(550)DAO %1$s, method %3$s, value or expr are not allowed on condition %4$s "
 "(file %2$s)"
-msgstr "(550) DAO %1$s, metoda %3$s, hodnota nebo expr nejsou povolena za podmínky %4$s (soubor %2$s)"
+msgstr ""
+"(550) DAO %1$s, metoda %3$s, hodnota nebo expr nejsou povolena za podmínky "
+"%4$s (soubor %2$s)"
 
 #: jelix~daoxml.method.condition.valueexpr.together
 msgctxt "jelix~daoxml.method.condition.valueexpr.together"
 msgid ""
 "(549)DAO %1$s, method %3$s, condition %4$s: no value and expression at the "
 "same time (file %2$s)"
-msgstr "(549) DAO %1$s, metoda %3$s, podmínka %4$s: žádná hodnota a výraz současně (soubor %2$s)"
+msgstr ""
+"(549) DAO %1$s, metoda %3$s, podmínka %4$s: žádná hodnota a výraz současně "
+"(soubor %2$s)"
 
 #: jelix~daoxml.method.duplicate
 msgctxt "jelix~daoxml.method.duplicate"
@@ -567,35 +591,43 @@ msgstr "(545) DAO %1$s, metoda %3$s je již definována (soubor %2$s)"
 msgctxt "jelix~daoxml.method.limit.badvalue"
 msgid ""
 "(559)DAO %1$s, method %3$s, bad value on limit tag ( %4$s ) (file %2$s)"
-msgstr "(559) DAO %1$s, metoda %3$s, špatná hodnota na tagu limit ( %4$s ) (soubor %2$s)"
+msgstr ""
+"(559) DAO %1$s, metoda %3$s, špatná hodnota na tagu limit ( %4$s ) (soubor "
+"%2$s)"
 
 #: jelix~daoxml.method.limit.forbidden
 msgctxt "jelix~daoxml.method.limit.forbidden"
 msgid ""
 "(544)DAO %1$s, method %3$s, limit tag is allowed only on select method (file"
 " %2$s)"
-msgstr "(544) DAO %1$s, metoda %3$s, mezní značka je povolena pouze na vybrané metodě (soubor %2$s)"
+msgstr ""
+"(544) DAO %1$s, metoda %3$s, mezní značka je povolena pouze na vybrané "
+"metodě (soubor %2$s)"
 
 #: jelix~daoxml.method.limit.parameter.unknown
 msgctxt "jelix~daoxml.method.limit.parameter.unknown"
 msgid ""
 "(558)DAO %1$s, method %3$s, unknown parameter %4$s in the limit tag (file "
 "%2$s)"
-msgstr "(558) DAO %1$s, metoda %3$s, neznámý parametr %4$s v limitní značce (soubor %2$s)"
+msgstr ""
+"(558) DAO %1$s, metoda %3$s, neznámý parametr %4$s v limitní značce (soubor "
+"%2$s)"
 
 #: jelix~daoxml.method.orderitem.bad
 msgctxt "jelix~daoxml.method.orderitem.bad"
 msgid ""
 "(552)DAO %1$s, method %4$s, property on item order %3$s is unknown (file "
 "%2$s)"
-msgstr "(552) DAO %1$s, metoda %4$s, vlastnost na pořadí položek %3$s je neznámá (soubor %2$s)"
+msgstr ""
+"(552) DAO %1$s, metoda %4$s, vlastnost na pořadí položek %3$s je neznámá "
+"(soubor %2$s)"
 
 #: jelix~daoxml.method.orderitem.parameter.unknown
 msgctxt "jelix~daoxml.method.orderitem.parameter.unknown"
 msgid ""
-"(563)DAO %1$s, method %3$,  unknown parameter %4$s in the orderitem tag "
+"(563)DAO %1$s, method %3$s,  unknown parameter %4$s in the orderitem tag "
 "(file %2$s)"
-msgstr "(563) DAO %1$s, metoda %3$, neznámý parametr %4$s v tagu orderitem (soubor %2$s)"
+msgstr ""
 
 #: jelix~daoxml.method.orderitem.property.missing
 msgctxt "jelix~daoxml.method.orderitem.property.missing"
@@ -607,7 +639,8 @@ msgctxt "jelix~daoxml.method.parameter.invalidname"
 msgid ""
 "(565) DAO, in the method %1$s, the sign $ in the parameter name %4$s is no "
 "authorized"
-msgstr "(565) DAO, v metodě %1$s, značka $ v parametru name %4$s není povolená"
+msgstr ""
+"(565) DAO, v metodě %1$s, značka $ v parametru name %4$s není povolená"
 
 #: jelix~daoxml.method.parameter.unknowname
 msgctxt "jelix~daoxml.method.parameter.unknowname"
@@ -625,7 +658,9 @@ msgctxt "jelix~daoxml.method.property.forbidden"
 msgid ""
 "(548)DAO %1$s, conditions on foreign keys are not allowed on this type of "
 "method %3$s (file %2$s)"
-msgstr "(548) DAO %1$s, podmínky pro cizí klíče nejsou pro tento typ metody povoleny %3$s (soubor %2$s)"
+msgstr ""
+"(548) DAO %1$s, podmínky pro cizí klíče nejsou pro tento typ metody povoleny"
+" %3$s (soubor %2$s)"
 
 #: jelix~daoxml.method.property.unknown
 msgctxt "jelix~daoxml.method.property.unknown"
@@ -637,41 +672,52 @@ msgctxt "jelix~daoxml.method.update.forbidden"
 msgid ""
 "(564)DAO %1$s, update method %3$s is forbidden because the main table "
 "contains only primary keys (file %2$s)"
-msgstr "(564) DAO %1$s, metoda aktualizace %3$s je zakázána, protože hlavní tabulka obsahuje pouze primární klíče (soubor %2$s)"
+msgstr ""
+"(564) DAO %1$s, metoda aktualizace %3$s je zakázána, protože hlavní tabulka "
+"obsahuje pouze primární klíče (soubor %2$s)"
 
 #: jelix~daoxml.method.values.property.bad
 msgctxt "jelix~daoxml.method.values.property.bad"
 msgid ""
 "(555)DAO %1$s, method %3$s,  a property should be owned by the primary table"
 "  (file %2$s)"
-msgstr "(555) DAO %1$s, metoda %3$s, vlastnost by měla být vlastněna primární tabulkou (soubor %2$s)"
+msgstr ""
+"(555) DAO %1$s, metoda %3$s, vlastnost by měla být vlastněna primární "
+"tabulkou (soubor %2$s)"
 
 #: jelix~daoxml.method.values.property.pkforbidden
 msgctxt "jelix~daoxml.method.values.property.pkforbidden"
 msgid ""
 "(556)DAO %1$s, method %3$s, prmiary key properties are not allowed in value "
 "tag  (file %2$s)"
-msgstr "(556) DAO %1$s, metoda %3$s, vlastnosti primárního klíče nejsou povoleny ve značce value (soubor %2$s)"
+msgstr ""
+"(556) DAO %1$s, metoda %3$s, vlastnosti primárního klíče nejsou povoleny ve "
+"značce value (soubor %2$s)"
 
 #: jelix~daoxml.method.values.property.unknown
 msgctxt "jelix~daoxml.method.values.property.unknown"
 msgid ""
 "(554)DAO %1$s, method %3$s,  unknown property on a <value> tag (file %2$s)"
-msgstr "(554) DAO %1$s, metoda %3$s, neznámá vlastnost na <value> tagu (soubor %2$s)"
+msgstr ""
+"(554) DAO %1$s, metoda %3$s, neznámá vlastnost na <value> tagu (soubor %2$s)"
 
 #: jelix~daoxml.method.values.undefine
 msgctxt "jelix~daoxml.method.values.undefine"
 msgid ""
 "(543)DAO %1$s, method %3$s of \"update\" type should contains \"value\" tag "
 "(file %2$s)"
-msgstr "(543) DAO %1$s, metoda %3$s typu \"update\" by měla obsahovat značku \"value\" (soubor %2$s)"
+msgstr ""
+"(543) DAO %1$s, metoda %3$s typu \"update\" by měla obsahovat značku "
+"\"value\" (soubor %2$s)"
 
 #: jelix~daoxml.method.values.valueexpr
 msgctxt "jelix~daoxml.method.values.valueexpr"
 msgid ""
 "(557)DAO %1$s, method %3$s, value or expression is missing on a value tag "
 "(file %2$s)"
-msgstr "(557) DAO %1$s, metoda %3$s, hodnota nebo výraz chybí na značce value (soubor %2$s)"
+msgstr ""
+"(557) DAO %1$s, metoda %3$s, hodnota nebo výraz chybí na značce value "
+"(soubor %2$s)"
 
 #: jelix~daoxml.missing.attr
 msgctxt "jelix~daoxml.missing.attr"
@@ -702,14 +748,18 @@ msgstr "(533) DAO %1$s, vlastnost %3$s již byla definována (soubor %2$s)"
 msgctxt "jelix~daoxml.property.imported.unknown.table"
 msgid ""
 "(534)DAO %1$s, unknown table name on the imported property %3$s (file %2$s)"
-msgstr "(534) DAO%1$s, neznámý název tabulky na importované vlatnosti %3$s (soubor %2$s)"
+msgstr ""
+"(534) DAO%1$s, neznámý název tabulky na importované vlatnosti %3$s (soubor "
+"%2$s)"
 
 #: jelix~daoxml.property.invalid.name
 msgctxt "jelix~daoxml.property.invalid.name"
 msgid ""
 "(532)DAO %1$s, invalid syntaxe in the property name \"%3$s\", it must "
 "respect php syntax (file %2$s)"
-msgstr "(532) DAO %1$s, neplatná syntaxe v názvu vlastnosti \"%3$s\", musí respektovat syntaxi php (soubor %2$s)"
+msgstr ""
+"(532) DAO %1$s, neplatná syntaxe v názvu vlastnosti \"%3$s\", musí "
+"respektovat syntaxi php (soubor %2$s)"
 
 #: jelix~daoxml.property.unknown.table
 msgctxt "jelix~daoxml.property.unknown.table"
@@ -730,7 +780,9 @@ msgstr "(521) DAO %1$s, příliš mnoho tabulek (soubor %2$s)"
 msgctxt "jelix~daoxml.tag.duplicate"
 msgid ""
 "(513)DAO %1$s, only one %3$s tag is allowed in the %4$s method (file %2$s)"
-msgstr "(513) DAO %1$s je povolena pouze jedna značka %3$s v %4$s metodě (soubor %2$s)"
+msgstr ""
+"(513) DAO %1$s je povolena pouze jedna značka %3$s v %4$s metodě (soubor "
+"%2$s)"
 
 #: jelix~daoxml.unknown.attr
 msgctxt "jelix~daoxml.unknown.attr"
@@ -742,7 +794,9 @@ msgctxt "jelix~daoxml.wrong.attr"
 msgid ""
 "(516)DAO %1$s, the value \"%3$s\" of the \"%4$s\" attribute on the \"%5$s\" "
 "element is not valid (file %2$s)"
-msgstr "(516) DAO %1$s, hodnota \"%3$s\" atributu \"%4$s\" na prvek \"%5$s\" není platná (soubor %2$s)"
+msgstr ""
+"(516) DAO %1$s, hodnota \"%3$s\" atributu \"%4$s\" na prvek \"%5$s\" není "
+"platná (soubor %2$s)"
 
 #: jelix~date_time.day.0.label
 msgctxt "jelix~date_time.day.0.label"
@@ -1099,7 +1153,9 @@ msgctxt "jelix~db.error.connection.closed"
 msgid ""
 "(409) Connection to database is not valid anymore: timeout, server down... "
 "(profile %s)"
-msgstr "(409) Připojení k databázi již není platné: časový limit vypršel, server neběží... (profil %s)"
+msgstr ""
+"(409) Připojení k databázi již není platné: časový limit vypršel, server "
+"neběží... (profil %s)"
 
 #: jelix~db.error.database.unknown
 msgctxt "jelix~db.error.database.unknown"
@@ -1170,7 +1226,8 @@ msgctxt "jelix~errors.ad.response.type.notallowed"
 msgid ""
 "(113)Action %s: the response type \"%s\" is not allowed for the current "
 "request (file: %s)"
-msgstr "(113) Akce %s: typ odpovědi \"%s\" není pro aktuální požadavek (soubor: %s)"
+msgstr ""
+"(113) Akce %s: typ odpovědi \"%s\" není pro aktuální požadavek (soubor: %s)"
 
 #: jelix~errors.ad.response.type.unknown
 msgctxt "jelix~errors.ad.response.type.unknown"
@@ -1270,14 +1327,17 @@ msgstr "(24) Chyba při zápisu do souboru ini %s"
 #: jelix~errors.jsession.name.invalid
 msgctxt "jelix~errors.jsession.name.invalid"
 msgid "(90)Session name cannot be empty and only accepts alpha-numeric chars."
-msgstr "(90) Název relace nesmí být prázdný a přijímá pouze alfanumerické znaky."
+msgstr ""
+"(90) Název relace nesmí být prázdný a přijímá pouze alfanumerické znaky."
 
 #: jelix~errors.locale.key.file.unknown
 msgctxt "jelix~errors.locale.key.file.unknown"
 msgid ""
 "(202) The file of the given locale key \"%s\" from module \"%s\" (and  "
 "charset %s, lang %s) does not exists"
-msgstr "(202) Soubor daného jazykového klíče \"%s\" z modulu \"%s\" (a charset %s, lang %s) neexistuje"
+msgstr ""
+"(202) Soubor daného jazykového klíče \"%s\" z modulu \"%s\" (a charset %s, "
+"lang %s) neexistuje"
 
 #: jelix~errors.locale.key.selector.invalid
 msgctxt "jelix~errors.locale.key.selector.invalid"
@@ -1289,7 +1349,9 @@ msgctxt "jelix~errors.locale.key.unknown"
 msgid ""
 "(201)The given locale key \"%s\" from module \"%s\" (and  charset %s, lang "
 "%s) does not exists"
-msgstr "(201) Zadaný jazykový klíč \"%s\" z modulu \"%s\" (a charset %s, lang %s) neexistuje"
+msgstr ""
+"(201) Zadaný jazykový klíč \"%s\" z modulu \"%s\" (a charset %s, lang %s) "
+"neexistuje"
 
 #: jelix~errors.ltx2pdf.exec
 msgctxt "jelix~errors.ltx2pdf.exec"
@@ -1392,7 +1454,10 @@ msgid ""
 "(501) The given profile \"%s\" for \"%s\" doesn't exist. The default one is "
 "used instead. To not show this error, create the profile or an alias to the "
 "default profile."
-msgstr "(501) Zadaný profil \"%s\" pro \"%s\" neexistuje. Místo toho je použit výchozí. Chcete-li tuto chybu dále nezobrazovat, vytvořte profil nebo alias výchozího profilu."
+msgstr ""
+"(501) Zadaný profil \"%s\" pro \"%s\" neexistuje. Místo toho je použit "
+"výchozí. Chcete-li tuto chybu dále nezobrazovat, vytvořte profil nebo alias "
+"výchozího profilu."
 
 #: jelix~errors.profile.virtual.invalid.params
 msgctxt "jelix~errors.profile.virtual.invalid.params"
@@ -1526,7 +1591,8 @@ msgstr "(312) V šabloně %2$s je neznámá meta značka %1$s "
 msgctxt "jelix~errors.tpl.tag.modifier.invalid"
 msgid ""
 "(303)In the tag %s in the template %3$s, invalid syntax on the modifier %2$s"
-msgstr "(303) Ve značce %s v šabloně %3$s je neplatná syntaxe modifikátoru %2$s"
+msgstr ""
+"(303) Ve značce %s v šabloně %3$s je neplatná syntaxe modifikátoru %2$s"
 
 #: jelix~errors.tpl.tag.modifier.unknown
 msgctxt "jelix~errors.tpl.tag.modifier.unknown"
@@ -1548,7 +1614,8 @@ msgctxt "jelix~errors.tplplugin.block.bad.argument.number"
 msgid ""
 "(316)In the tag %s  in the template %3$s, bad argument number (%2$s "
 "expected)"
-msgstr "(316) Ve značce %s v šabloně %3$s se očekává špatné číslo argumentu (%2$s)"
+msgstr ""
+"(316) Ve značce %s v šabloně %3$s se očekává špatné číslo argumentu (%2$s)"
 
 #: jelix~errors.tplplugin.block.too.few.arguments
 msgctxt "jelix~errors.tplplugin.block.too.few.arguments"
@@ -1564,14 +1631,18 @@ msgstr "(315) Ve značce %s v šabloně %s je příliš mnoho argumentů"
 msgctxt "jelix~errors.tplplugin.cfunction.bad.argument.number"
 msgid ""
 "(319)In the tag %s in the template %3$s, bad argument number (%2$s expected)"
-msgstr "(319) Ve značce %s v šabloně %3$s se předpokládá špatné číslo argumentu (%2$s)"
+msgstr ""
+"(319) Ve značce %s v šabloně %3$s se předpokládá špatné číslo argumentu "
+"(%2$s)"
 
 #: jelix~errors.tplplugin.cmodifier.bad.argument.number
 msgctxt "jelix~errors.tplplugin.cmodifier.bad.argument.number"
 msgid ""
 "(320)In the modifier %s in the template %3$s, bad argument number (%2$s "
 "expected)"
-msgstr "(320) V modifikátoru %s v šabloně %3$s se předpokládá špatné číslo argumentu (%2$s)"
+msgstr ""
+"(320) V modifikátoru %s v šabloně %3$s se předpokládá špatné číslo argumentu"
+" (%2$s)"
 
 #: jelix~errors.tplplugin.function.argument.unknown
 msgctxt "jelix~errors.tplplugin.function.argument.unknown"
@@ -1589,7 +1660,8 @@ msgctxt "jelix~errors.tplplugin.untrusted.not.available"
 msgid ""
 "(321)In the tag %s in the template %2$s, is not allowed in a untrusted "
 "template"
-msgstr "(321) Ve značce %s v šabloně %2$s není v nedůvěryhodné šabloně povoleno"
+msgstr ""
+"(321) Ve značce %s v šabloně %2$s není v nedůvěryhodné šabloně povoleno"
 
 #: jelix~errors.unknown
 msgctxt "jelix~errors.unknown"
@@ -1600,7 +1672,8 @@ msgstr "(1) neznámá chyba"
 msgctxt "jelix~errors.urls.domain.void"
 msgid ""
 "(31)Unknow domain for jUrl. It should be indicated into the configuration"
-msgstr "(31) Neznámá doména pro adresu URL. Mělo by být uvedeno do konfigurace"
+msgstr ""
+"(31) Neznámá doména pro adresu URL. Mělo by být uvedeno do konfigurace"
 
 #: jelix~errors.urls.engine.notfound
 msgctxt "jelix~errors.urls.engine.notfound"
@@ -1632,14 +1705,17 @@ msgctxt "jelix~formserr.bad.formid.for.dao"
 msgid ""
 "(810)Impossible to get the dao  record %s corresponding to the formid %s of "
 "%s form"
-msgstr "(810) Nelze získat datový záznam %s odpovídající form id %s z %s formuláře"
+msgstr ""
+"(810) Nelze získat datový záznam %s odpovídající form id %s z %s formuláře"
 
 #: jelix~formserr.bad.root.tag
 msgctxt "jelix~formserr.bad.root.tag"
 msgid ""
 "(820) the root element %1$s is incorrect, it should have the name \"form\" "
 "(fichier %2$s)"
-msgstr "(820) kořenový prvek %1$s je nesprávný, měl by mít název \"form\" (fichier %2$s)"
+msgstr ""
+"(820) kořenový prvek %1$s je nesprávný, měl by mít název \"form\" (fichier "
+"%2$s)"
 
 #: jelix~formserr.content.missing
 msgctxt "jelix~formserr.content.missing"
@@ -1656,7 +1732,9 @@ msgctxt "jelix~formserr.control.not.container"
 msgid ""
 "(811) Impossible to use the control \"%s\" with a dao because it isn't a "
 "control with a datasource (form=%s)"
-msgstr "(811) Nelze použít ovládací prvek \"%s\" s dao, protože to není ovládací prvek se zdrojem dat (form=%s)"
+msgstr ""
+"(811) Nelze použít ovládací prvek \"%s\" s dao, protože to není ovládací "
+"prvek se zdrojem dat (form=%s)"
 
 #: jelix~formserr.datatype.unknown
 msgctxt "jelix~formserr.datatype.unknown"
@@ -1668,14 +1746,17 @@ msgctxt "jelix~formserr.defaultvalues.not.allowed"
 msgid ""
 "(807) <defaultvalues> is not allowed in a <listbox multiple=\"false\"> "
 "element (file %s)"
-msgstr "(807) <defaultvalues>není povolen v <listbox multiple=\"false\"> elementu (soubor %s)"
+msgstr ""
+"(807) <defaultvalues>není povolen v <listbox multiple=\"false\"> elementu "
+"(soubor %s)"
 
 #: jelix~formserr.formid.undefined.for.dao
 msgctxt "jelix~formserr.formid.undefined.for.dao"
 msgid ""
 "(812) Impossible to use the control \"%s\" with a dao because the form %s "
 "has not an id"
-msgstr "(812) Nelze použít ovládací prvek \"%s\" s dao, protože formulář %s nemá id"
+msgstr ""
+"(812) Nelze použít ovládací prvek \"%s\" s dao, protože formulář %s nemá id"
 
 #: jelix~formserr.invalid.form.builder
 msgctxt "jelix~formserr.invalid.form.builder"
@@ -1687,14 +1768,17 @@ msgctxt "jelix~formserr.invalid.token"
 msgid ""
 "(835) The token of the form is not valid, you should fill the form from the "
 "original web page"
-msgstr "(835) Token formuláře není platný, vyplňte formulář z původní webové stránky"
+msgstr ""
+"(835) Token formuláře není platný, vyplňte formulář z původní webové stránky"
 
 #: jelix~formserr.invalid.upload.control.name
 msgctxt "jelix~formserr.invalid.upload.control.name"
 msgid ""
 "(815) The given control name \"%s\" is invalid or the corresponding control "
 "is not an upload (form=%s)"
-msgstr "(815) Dané jméno ovládacího prvku \"%s\" je neplatné nebo odpovídající ovládací prvek není upload (form=%s)"
+msgstr ""
+"(815) Dané jméno ovládacího prvku \"%s\" je neplatné nebo odpovídající "
+"ovládací prvek není upload (form=%s)"
 
 #: jelix~formserr.invalid.xml.file
 msgctxt "jelix~formserr.invalid.xml.file"
@@ -1731,7 +1815,9 @@ msgctxt "jelix~formserr.multiple.selected.not.allowed"
 msgid ""
 "(808)Only one selected item is allowed in <listbox multiple=\"false\">, "
 "<radiobuttons> and <menulist> elements (file %s)"
-msgstr "(808) Je povolena pouze jedna vybraná položka v <listbox multiple=\"false\">, <radiobuttons> a <menulist> prvků (soubor %s)"
+msgstr ""
+"(808) Je povolena pouze jedna vybraná položka v <listbox "
+"multiple=\"false\">, <radiobuttons> a <menulist> prvků (soubor %s)"
 
 #: jelix~formserr.namespace.wrong
 msgctxt "jelix~formserr.namespace.wrong"
@@ -1753,7 +1839,9 @@ msgctxt "jelix~formserr.selected.attribute.not.allowed"
 msgid ""
 "(806)\"selected\" attribute on <item> is not allowed when using defaultvalue"
 " attribute or <defaultvalues> (file %s)"
-msgstr "(806) \"vybraný\" atribut na <item>není povolen při použití atributu defaultvalue nebo <defaultvalues>(souboru %s)"
+msgstr ""
+"(806) \"vybraný\" atribut na <item>není povolen při použití atributu "
+"defaultvalue nebo <defaultvalues>(souboru %s)"
 
 #: jelix~formserr.tag.missing
 msgctxt "jelix~formserr.tag.missing"
@@ -1768,7 +1856,8 @@ msgstr "(830) Ovládací prvek \"%1$s\" neexistuje ve formuláři \"%2$s\" (šab
 #: jelix~formserr.unknown.control.class
 msgctxt "jelix~formserr.unknown.control.class"
 msgid "(821) unknown the control class %1$s (control tag %2$s, file %3$s)"
-msgstr "(821) neznámá kontrolní třída%1$s (kontrolní značka %2$s, soubor %3$s)"
+msgstr ""
+"(821) neznámá kontrolní třída%1$s (kontrolní značka %2$s, soubor %3$s)"
 
 #: jelix~formserr.unknown.control2
 msgctxt "jelix~formserr.unknown.control2"
@@ -1785,7 +1874,9 @@ msgctxt "jelix~formserr.value.not.array"
 msgid ""
 "(813) Impossible de save datas of control \"%s\" (form=%s) because it is not"
 " an array"
-msgstr "(813) Nelze uložit data ovládacího prvku \"%s\" (form=%s), protože to není pole"
+msgstr ""
+"(813) Nelze uložit data ovládacího prvku \"%s\" (form=%s), protože to není "
+"pole"
 
 #: jelix~jelix.framework.name
 msgctxt "jelix~jelix.framework.name"
@@ -1926,7 +2017,9 @@ msgstr "Zoom -"
 msgctxt "jelix~kvstore.error.connection"
 msgid ""
 "(931) jKVDb: impossible to connect to  %s (bad host, login or password?)"
-msgstr "(931) jKVDb: nelze se připojit k %s (špatný hostitel, přihlašovací jméno nebo heslo?)"
+msgstr ""
+"(931) jKVDb: nelze se připojit k %s (špatný hostitel, přihlašovací jméno "
+"nebo heslo?)"
 
 #: jelix~kvstore.error.driver.nohost
 msgctxt "jelix~kvstore.error.driver.nohost"

@@ -1,20 +1,19 @@
 # 
 # Translators:
-# João Gaspar <joao.f.r.gaspar@gmail.com>, 2016
-# José Macau <jose.macau@gmail.com>, 2017-2018,2020
-# Nelson Silva <nelson.jgs@gmail.com>, 2016
+# Laurent Jouanneau <dev@ljouanneau.com>, 2021
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: Lizmap locales\n"
+"Project-Id-Version: Lizmap Web Client jacl2db_admin 3.4.2-pre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-23 17:43++0100\n"
-"PO-Revision-Date: 2020-12-24 21:01+0000\n"
-"Last-Translator: José Macau <jose.macau@gmail.com>\n"
-"Language-Team: Portuguese (http://www.transifex.com/3liz-1/lizmap-locales/language/pt/)\n"
+"POT-Creation-Date: 2021-02-26 14:54++0100\n"
+"PO-Revision-Date: 2021-02-26 16:03+0000\n"
+"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
+"Language-Team: Portuguese (Portugal) (https://www.transifex.com/3liz-1/teams/117634/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt\n"
+"Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: jacl2db_admin~acl2.add.group.tooltip
@@ -59,8 +58,8 @@ msgstr "Recursos"
 
 #: jacl2db_admin~acl2.col.resulting
 msgctxt "jacl2db_admin~acl2.col.resulting"
-msgid "Resulting rights"
-msgstr "Permissões resultantes"
+msgid "Resulting rights for"
+msgstr ""
 
 #: jacl2db_admin~acl2.col.subjects
 msgctxt "jacl2db_admin~acl2.col.subjects"
@@ -117,24 +116,22 @@ msgctxt "jacl2db_admin~acl2.global.rights"
 msgid "global"
 msgstr "global"
 
-#: jacl2db_admin~acl2.group.help.rights.inherit
-msgctxt "jacl2db_admin~acl2.group.help.rights.inherit"
-msgid "\"-\": undefined right, it can be defined in other groups of the user"
-msgstr "\"-\": permissão não definida, pode ser definida em outros grupos do utilizador"
+#: jacl2db_admin~acl2.group.help.rights.forbidden
+msgctxt "jacl2db_admin~acl2.group.help.rights.forbidden"
+msgid "forbidden right, even if an other group of the user authorizes it"
+msgstr ""
 
 #: jacl2db_admin~acl2.group.help.rights.no
 msgctxt "jacl2db_admin~acl2.group.help.rights.no"
 msgid ""
-"\"no\": the right is not assign to this group, and to any other groups of "
-"the user."
-msgstr "\"não\": a permissão não está definida para este grupo, nem para quaisquer outros grupos do utilizador."
+"right not authorized by default, but it can be authorized in other groups of"
+" a user"
+msgstr ""
 
 #: jacl2db_admin~acl2.group.help.rights.yes
 msgctxt "jacl2db_admin~acl2.group.help.rights.yes"
-msgid ""
-"\"yes\": indicate that the right is set, but can be canceled (\"no\") in an "
-"other group"
-msgstr "\"sim\": indica que a permissão está definida, mas pode ser cancelada (\"não\") em outro grupo"
+msgid "authorized right, but it can be forbidden in an other group of a user"
+msgstr ""
 
 #: jacl2db_admin~acl2.group.name.id
 msgctxt "jacl2db_admin~acl2.group.name.id"
@@ -150,6 +147,21 @@ msgstr "Etiqueta:"
 msgctxt "jacl2db_admin~acl2.group.rightres.title"
 msgid "Rights on resources for the group"
 msgstr "Permissões sobre recursos para o grupo"
+
+#: jacl2db_admin~acl2.group.rights.forbidden
+msgctxt "jacl2db_admin~acl2.group.rights.forbidden"
+msgid "forbidden"
+msgstr ""
+
+#: jacl2db_admin~acl2.group.rights.no
+msgctxt "jacl2db_admin~acl2.group.rights.no"
+msgid "no"
+msgstr ""
+
+#: jacl2db_admin~acl2.group.rights.yes
+msgctxt "jacl2db_admin~acl2.group.rights.yes"
+msgid "yes"
+msgstr ""
 
 #: jacl2db_admin~acl2.groups.change.rights.link
 msgctxt "jacl2db_admin~acl2.groups.change.rights.link"
@@ -196,14 +208,18 @@ msgctxt "jacl2db_admin~acl2.message.addusertogroup.error.noacl.anybody"
 msgid ""
 "The user cannot be added to this group else nobody won't be able to change "
 "some rights"
-msgstr "O utilizador não pode ser adicionado a este grupo, caso contrário ninguém poderá alterar alguns direitos"
+msgstr ""
+"O utilizador não pode ser adicionado a este grupo, caso contrário ninguém "
+"poderá alterar alguns direitos"
 
 #: jacl2db_admin~acl2.message.addusertogroup.error.noacl.yourself
 msgctxt "jacl2db_admin~acl2.message.addusertogroup.error.noacl.yourself"
 msgid ""
 "You cannot be added to this group else you won't be able to change some "
 "rights"
-msgstr "Não pode ser adicionado a este grupo, caso contrário não  poderá alterar alguns direitos"
+msgstr ""
+"Não pode ser adicionado a este grupo, caso contrário não  poderá alterar "
+"alguns direitos"
 
 #: jacl2db_admin~acl2.message.group.create.ok
 msgctxt "jacl2db_admin~acl2.message.group.create.ok"
@@ -245,36 +261,47 @@ msgctxt "jacl2db_admin~acl2.message.removeuserfromgroup.error.noacl.anybody"
 msgid ""
 "The user cannot be removed from this group else nobody won't be able to "
 "change some rights"
-msgstr "O utilizador não pode ser removido deste grupo, senão ninguém poderá alterar alguns direitos"
+msgstr ""
+"O utilizador não pode ser removido deste grupo, senão ninguém poderá alterar"
+" alguns direitos"
 
 #: jacl2db_admin~acl2.message.removeuserfromgroup.error.noacl.yourself
 msgctxt "jacl2db_admin~acl2.message.removeuserfromgroup.error.noacl.yourself"
 msgid ""
 "You cannot be removed from this group else you won't be able to change some "
 "rights"
-msgstr "Não pode ser removido deste grupo senão não poderá alterar alguns direitos"
+msgstr ""
+"Não pode ser removido deste grupo senão não poderá alterar alguns direitos"
 
 #: jacl2db_admin~acl2.message.savegrouprights.error.noacl.anybody
 msgctxt "jacl2db_admin~acl2.message.savegrouprights.error.noacl.anybody"
 msgid ""
 "Changes cannot be applied else nobody won't be able to change some rights"
-msgstr "As alterações não podem ser aplicadas senão ninguém poderá alterar alguns direitos"
+msgstr ""
+"As alterações não podem ser aplicadas senão ninguém poderá alterar alguns "
+"direitos"
 
 #: jacl2db_admin~acl2.message.savegrouprights.error.noacl.yourself
 msgctxt "jacl2db_admin~acl2.message.savegrouprights.error.noacl.yourself"
 msgid "Changes cannot be applied else you won't be able to change some rights"
-msgstr "As alterações não podem ser aplicadas senão não poderá alterar alguns direitos"
+msgstr ""
+"As alterações não podem ser aplicadas senão não poderá alterar alguns "
+"direitos"
 
 #: jacl2db_admin~acl2.message.saveuserrights.error.noacl.anybody
 msgctxt "jacl2db_admin~acl2.message.saveuserrights.error.noacl.anybody"
 msgid ""
 "Changes cannot be applied else nobody won't be able to change some rights"
-msgstr "As alterações não podem ser aplicadas senão ninguém poderá alterar alguns direitos"
+msgstr ""
+"As alterações não podem ser aplicadas senão ninguém poderá alterar alguns "
+"direitos"
 
 #: jacl2db_admin~acl2.message.saveuserrights.error.noacl.yourself
 msgctxt "jacl2db_admin~acl2.message.saveuserrights.error.noacl.yourself"
 msgid "Changes cannot be applied else you won't be able to change some rights"
-msgstr "As alterações não podem ser aplicadas senão não poderá alterar alguns direitos"
+msgstr ""
+"As alterações não podem ser aplicadas senão não poderá alterar alguns "
+"direitos"
 
 #: jacl2db_admin~acl2.message.user.rights.ok
 msgctxt "jacl2db_admin~acl2.message.user.rights.ok"
@@ -382,7 +409,10 @@ msgid ""
 "Warning! To remove this rights, you should use the interfaces provided by "
 "business modules corresponding to this rights. Use this page only if you "
 "know what you do!"
-msgstr "Atenção! Para remover estas permissões, deverão ser utilizadas as interfaces fornecidas pelos módulos correspondentes a estas permissões. A utilização desta página apenas deverá ser feita por utilizadores avançados!"
+msgstr ""
+"Atenção! Para remover estas permissões, deverão ser utilizadas as interfaces"
+" fornecidas pelos módulos correspondentes a estas permissões. A utilização "
+"desta página apenas deverá ser feita por utilizadores avançados!"
 
 #: jacl2db_admin~acl2.without.groups.option
 msgctxt "jacl2db_admin~acl2.without.groups.option"

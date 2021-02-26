@@ -1,25 +1,28 @@
 # 
 # Translators:
-# , 2016
+# Laurent Jouanneau <dev@ljouanneau.com>, 2021
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: Lizmap locales\n"
+"Project-Id-Version: Lizmap Web Client master_admin 3.4.2-pre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-23 17:43++0100\n"
-"PO-Revision-Date: 2017-09-22 23:40+0000\n"
-"Last-Translator: xanvieiro <gallaecia6@gmail.com>\n"
-"Language-Team: Galician (http://www.transifex.com/3liz-1/lizmap-locales/language/gl/)\n"
+"POT-Creation-Date: 2021-02-26 14:54++0100\n"
+"PO-Revision-Date: 2021-02-26 16:03+0000\n"
+"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
+"Language-Team: Galician (Spain) (https://www.transifex.com/3liz-1/teams/117634/gl_ES/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: gl\n"
+"Language: gl_ES\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: master_admin~gui.dashboard.nowidget
 msgctxt "master_admin~gui.dashboard.nowidget"
 msgid ""
 "No widget for the dashboard. Simply click on one of the links in the menu."
-msgstr "Non hai aplicación para o panel de control. Simplemente prema nun dos enlaces do menú."
+msgstr ""
+"Non hai aplicación para o panel de control. Simplemente prema nun dos "
+"enlaces do menú."
 
 #: master_admin~gui.dashboard.title
 msgctxt "master_admin~gui.dashboard.title"

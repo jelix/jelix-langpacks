@@ -1,25 +1,27 @@
 # 
 # Translators:
-# Kari Salovaara <kari.salovaara@pp1.inet.fi>, 2016
+# Laurent Jouanneau <dev@ljouanneau.com>, 2021
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: Lizmap locales\n"
+"Project-Id-Version: Lizmap Web Client master_admin 3.4.2-pre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-23 17:43++0100\n"
-"PO-Revision-Date: 2017-09-22 23:22+0000\n"
-"Last-Translator: Kari Salovaara <kari.salovaara@pp1.inet.fi>\n"
-"Language-Team: Finnish (http://www.transifex.com/3liz-1/lizmap-locales/language/fi/)\n"
+"POT-Creation-Date: 2021-02-26 14:54++0100\n"
+"PO-Revision-Date: 2021-02-26 16:03+0000\n"
+"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
+"Language-Team: Finnish (Finland) (https://www.transifex.com/3liz-1/teams/117634/fi_FI/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fi\n"
+"Language: fi_FI\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: master_admin~gui.dashboard.nowidget
 msgctxt "master_admin~gui.dashboard.nowidget"
 msgid ""
 "No widget for the dashboard. Simply click on one of the links in the menu."
-msgstr "Ei välinettä hallintapaneliin.Niinpä klikkaa yhtä linkeistä valikossa."
+msgstr ""
+"Ei välinettä hallintapaneliin.Niinpä klikkaa yhtä linkeistä valikossa."
 
 #: master_admin~gui.dashboard.title
 msgctxt "master_admin~gui.dashboard.title"
