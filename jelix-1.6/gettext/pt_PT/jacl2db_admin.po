@@ -1,17 +1,15 @@
 # 
 # Translators:
-# João Gaspar <joao.f.r.gaspar@gmail.com>, 2019
-# rldhont <rldhont@gmail.com>, 2019
-# José Macau <jose.macau@gmail.com>, 2021
+# Laurent Jouanneau <dev@ljouanneau.com>, 2021
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Lizmap Web Client jacl2db_admin 3.3.14-pre\n"
+"Project-Id-Version: Lizmap Web Client jacl2db_admin 3.4.2-pre\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-26 12:08++0100\n"
-"PO-Revision-Date: 2019-05-27 13:12+0000\n"
-"Last-Translator: José Macau <jose.macau@gmail.com>, 2021\n"
-"Language-Team: Portuguese (https://www.transifex.com/3liz-1/teams/62012/pt/)\n"
+"POT-Creation-Date: 2021-02-26 14:54++0100\n"
+"PO-Revision-Date: 2021-02-26 16:03+0000\n"
+"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
+"Language-Team: Portuguese (https://www.transifex.com/3liz-1/teams/117634/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -36,7 +34,7 @@ msgstr "Anónimo"
 #: jacl2db_admin~acl2.change.name.title
 msgctxt "jacl2db_admin~acl2.change.name.title"
 msgid "Change the name"
-msgstr "Alterar o nome"
+msgstr "Mudar o nome"
 
 #: jacl2db_admin~acl2.col.groups
 msgctxt "jacl2db_admin~acl2.col.groups"
@@ -61,7 +59,7 @@ msgstr "Recursos"
 #: jacl2db_admin~acl2.col.resulting
 msgctxt "jacl2db_admin~acl2.col.resulting"
 msgid "Resulting rights for"
-msgstr "Permissões resultantes para"
+msgstr ""
 
 #: jacl2db_admin~acl2.col.subjects
 msgctxt "jacl2db_admin~acl2.col.subjects"
@@ -76,12 +74,12 @@ msgstr "Utilizadores"
 #: jacl2db_admin~acl2.create.group
 msgctxt "jacl2db_admin~acl2.create.group"
 msgid "Create a group"
-msgstr "Criar grupo"
+msgstr "Criar um grupo"
 
 #: jacl2db_admin~acl2.delete.button
 msgctxt "jacl2db_admin~acl2.delete.button"
 msgid "Delete"
-msgstr "Eliminar"
+msgstr "Apagar"
 
 #: jacl2db_admin~acl2.delete.button.confirm.label
 msgctxt "jacl2db_admin~acl2.delete.button.confirm.label"
@@ -91,7 +89,7 @@ msgstr "Eliminar este grupo?"
 #: jacl2db_admin~acl2.delete.group
 msgctxt "jacl2db_admin~acl2.delete.group"
 msgid "Delete a group"
-msgstr "Apagar grupo"
+msgstr "Apagar um grupo"
 
 #: jacl2db_admin~acl2.error.invalid.user
 msgctxt "jacl2db_admin~acl2.error.invalid.user"
@@ -224,7 +222,7 @@ msgid ""
 "You cannot be added to this group else you won't be able to change some "
 "rights"
 msgstr ""
-"Não pode ser adicionado a este grupo, caso contrário não poderá alterar "
+"Não pode ser adicionado a este grupo, caso contrário não  poderá alterar "
 "alguns direitos"
 
 #: jacl2db_admin~acl2.message.group.create.ok
@@ -235,13 +233,12 @@ msgstr "Grupo criado com sucesso"
 #: jacl2db_admin~acl2.message.group.delete.error.noacl.anybody
 msgctxt "jacl2db_admin~acl2.message.group.delete.error.noacl.anybody"
 msgid "The group cannot be deleted, else nobody couldn't manage rights"
-msgstr ""
-"O grupo não pode ser eliminado, senão ninguém poderá gerir os direitos"
+msgstr "O grupo não pode ser eliminado, senão ninguém pode gerir os direitos"
 
 #: jacl2db_admin~acl2.message.group.delete.error.noacl.yourself
 msgctxt "jacl2db_admin~acl2.message.group.delete.error.noacl.yourself"
 msgid "The group cannot be deleted, else you couldn't manage rights"
-msgstr "O grupo não pode ser eliminado, senão não poderá gerir os direitos"
+msgstr "O grupo não pode ser eliminado, senão não pode gerir os direitos"
 
 #: jacl2db_admin~acl2.message.group.delete.ok
 msgctxt "jacl2db_admin~acl2.message.group.delete.ok"
@@ -313,7 +310,7 @@ msgstr ""
 #: jacl2db_admin~acl2.message.user.rights.ok
 msgctxt "jacl2db_admin~acl2.message.user.rights.ok"
 msgid "Rights saved"
-msgstr "Permissões do grupo guardadas com sucesso"
+msgstr "Permissões guardadas com sucesso"
 
 #: jacl2db_admin~acl2.new.name.label
 msgctxt "jacl2db_admin~acl2.new.name.label"
@@ -353,7 +350,7 @@ msgstr "Permissões sobre recursos"
 #: jacl2db_admin~acl2.rights.link
 msgctxt "jacl2db_admin~acl2.rights.link"
 msgid "rights"
-msgstr "permissões"
+msgstr "Permissões"
 
 #: jacl2db_admin~acl2.rights.title
 msgctxt "jacl2db_admin~acl2.rights.title"
@@ -408,7 +405,7 @@ msgstr "Permissões sobre"
 #: jacl2db_admin~acl2.users.title
 msgctxt "jacl2db_admin~acl2.users.title"
 msgid "Rights of users"
-msgstr "Permissões dos utilizadores"
+msgstr "Permissões de utilizadores"
 
 #: jacl2db_admin~acl2.warning.deleting.rightres
 msgctxt "jacl2db_admin~acl2.warning.deleting.rightres"
@@ -418,8 +415,8 @@ msgid ""
 "know what you do!"
 msgstr ""
 "Atenção! Para remover estas permissões, deverão ser utilizadas as interfaces"
-" fornecidas pelos módulos correspondentes a essas permissões. A utilização "
-"desta página deverá ser efetuada apenas por utilizadores avançados!"
+" fornecidas pelos módulos correspondentes a estas permissões. A utilização "
+"desta página apenas deverá ser feita por utilizadores avançados!"
 
 #: jacl2db_admin~acl2.without.groups.option
 msgctxt "jacl2db_admin~acl2.without.groups.option"
