@@ -13,3 +13,9 @@ file_filter = <lang>/ldapdao.po
 source_file = pot/ldapdao.pot
 source_lang = en
 type = PO
+
+[jelix.multiauthpot]
+file_filter = <lang>/multiauth.po
+source_file = pot/multiauth.pot
+source_lang = en
+type = PO

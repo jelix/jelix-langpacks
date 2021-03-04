@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: multiauth 1.1 multiauth\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-04 14:43++0100\n"
+"PO-Revision-Date: 2021-03-04 14:43++0100\n"
+"Language: pt_PT\n"
+
+#: multiauth~ldap.error.search.base.missing
+msgctxt "multiauth~ldap.error.search.base.missing"
+msgid "ldap configuration: search base missing"
+msgstr "configuração ldap: base de daods de pesquisa em falta"
+
+#: multiauth~ldap.error.search.filter.missing
+msgctxt "multiauth~ldap.error.search.filter.missing"
+msgid "ldap configuration: search filter missing"
+msgstr "configuração ldap: filtro de pesquisa em falta"
+
+#: multiauth~ldap.error.extension.unloaded
+msgctxt "multiauth~ldap.error.extension.unloaded"
+msgid "ldap extension unloaded"
+msgstr "extensão ldap não carregada"
+
+#: multiauth~ldap.error.object.user.unknown
+msgctxt "multiauth~ldap.error.object.user.unknown"
+msgid "user object unknown"
+msgstr "objecto utilizador desconhecido"
+
+#: multiauth~ldap.error.user.login.unset
+msgctxt "multiauth~ldap.error.user.login.unset"
+msgid "user identification unset"
+msgstr "identificação do utlizador não definida"
+
+#: multiauth~ldap.error.ldap.profile.missing
+msgctxt "multiauth~ldap.error.ldap.profile.missing"
+msgid "ldap profile name is missing"
+msgstr "nome do perfil ldap em falta"
+
+#: multiauth~ldap.error.db.profile.missing
+msgctxt "multiauth~ldap.error.db.profile.missing"
+msgid "database profile name is missing"
+msgstr "nome do perfil em falta na base de dados"
+
+#: multiauth~ldap.error.bindUserDN.missing
+msgctxt "multiauth~ldap.error.bindUserDN.missing"
+msgid "no bindUserDN config parameter"
+msgstr "Parâmetro de configuração bindUserDN em falta"
+
+#: multiauth~ldap.error.searchUserFilter.missing
+msgctxt "multiauth~ldap.error.searchUserFilter.missing"
+msgid "no searchUserFilter config parameter"
+msgstr "Parâmetro de configuração searchUserFilter em falta"
+
+#: multiauth~ldap.error.unsupported.user.creation
+msgctxt "multiauth~ldap.error.unsupported.user.creation"
+msgid "Creation of an account is not supported"
+msgstr "A criação de uma conta não é suportada"
+
+#: multiauth~ldap.error.unsupported.user.listing
+msgctxt "multiauth~ldap.error.unsupported.user.listing"
+msgid "Users listing is not supported"
+msgstr "A lista de utilizadores não se encontra disponível"
+
+#: multiauth~ldap.error.unsupported.password.change
+msgctxt "multiauth~ldap.error.unsupported.password.change"
+msgid "Password change is not supported"
+msgstr "A alteração de palavra-passe não é suportada"
+
+#: multiauth~multiauth.provider.dbaccounts.label
+msgctxt "multiauth~multiauth.provider.dbaccounts.label"
+msgid "User accounts of the application"
+msgstr "Contas dos utilizadores da aplicação"
+
+#: multiauth~multiauth.provider.dbdao.label
+msgctxt "multiauth~multiauth.provider.dbdao.label"
+msgid "External users database"
+msgstr "Base de dados de utilizadores externos"
+
+#: multiauth~multiauth.provider.ldap.label
+msgctxt "multiauth~multiauth.provider.ldap.label"
+msgid "LDAP"
+msgstr ""
+
+#: multiauth~multiauth.user.provider.use
+msgctxt "multiauth~multiauth.user.provider.use"
+msgid "This user is authenticated with '%s'"
+msgstr "Este utilizador é autenticado com '%s'"
+
+#: multiauth~multiauth.choice.provider.label
+msgctxt "multiauth~multiauth.choice.provider.label"
+msgid "Authentication provider"
+msgstr "Fornecedor de autenticação"
+
+#: multiauth~multiauth.choice.provider.password.label
+msgctxt "multiauth~multiauth.choice.provider.password.label"
+msgid "Password"
+msgstr "Palavra-passe"
+
+#: multiauth~multiauth.choice.provider.password.confirm.label
+msgctxt "multiauth~multiauth.choice.provider.password.confirm.label"
+msgid "Re-type the password"
+msgstr "Escrever novamente a palavra-passe"
+
+#: multiauth~multiauth.choice.provider.inexistant.user
+msgctxt "multiauth~multiauth.choice.provider.inexistant.user"
+msgid "The user is unknown by this authentication provider"
+msgstr "O utilizador é desconhecido por este fornecedor de autenticação"
+
+#: multiauth~multiauth.message.bad.password
+msgctxt "multiauth~multiauth.message.bad.password"
+msgid "The password is bad, or the second password does not correspond to the first one"
+msgstr "A palavra-passe é inválida ou a palavra-passe de confirmação não corresponde"
+
+#: multiauth~multiauth.account.update.reset.password
+msgctxt "multiauth~multiauth.account.update.reset.password"
+msgid "You should reset the password of this user, after you changed his authentication method"
+msgstr ""

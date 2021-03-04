@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: multiauth 1.1 multiauth\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-04 14:43++0100\n"
+"PO-Revision-Date: 2021-03-04 14:43++0100\n"
+"Language: cs_CZ\n"
+
+#: multiauth~ldap.error.search.base.missing
+msgctxt "multiauth~ldap.error.search.base.missing"
+msgid "ldap configuration: search base missing"
+msgstr ""
+
+#: multiauth~ldap.error.search.filter.missing
+msgctxt "multiauth~ldap.error.search.filter.missing"
+msgid "ldap configuration: search filter missing"
+msgstr ""
+
+#: multiauth~ldap.error.extension.unloaded
+msgctxt "multiauth~ldap.error.extension.unloaded"
+msgid "ldap extension unloaded"
+msgstr ""
+
+#: multiauth~ldap.error.object.user.unknown
+msgctxt "multiauth~ldap.error.object.user.unknown"
+msgid "user object unknown"
+msgstr ""
+
+#: multiauth~ldap.error.user.login.unset
+msgctxt "multiauth~ldap.error.user.login.unset"
+msgid "user identification unset"
+msgstr ""
+
+#: multiauth~ldap.error.ldap.profile.missing
+msgctxt "multiauth~ldap.error.ldap.profile.missing"
+msgid "ldap profile name is missing"
+msgstr ""
+
+#: multiauth~ldap.error.db.profile.missing
+msgctxt "multiauth~ldap.error.db.profile.missing"
+msgid "database profile name is missing"
+msgstr ""
+
+#: multiauth~ldap.error.bindUserDN.missing
+msgctxt "multiauth~ldap.error.bindUserDN.missing"
+msgid "no bindUserDN config parameter"
+msgstr ""
+
+#: multiauth~ldap.error.searchUserFilter.missing
+msgctxt "multiauth~ldap.error.searchUserFilter.missing"
+msgid "no searchUserFilter config parameter"
+msgstr ""
+
+#: multiauth~ldap.error.unsupported.user.creation
+msgctxt "multiauth~ldap.error.unsupported.user.creation"
+msgid "Creation of an account is not supported"
+msgstr ""
+
+#: multiauth~ldap.error.unsupported.user.listing
+msgctxt "multiauth~ldap.error.unsupported.user.listing"
+msgid "Users listing is not supported"
+msgstr ""
+
+#: multiauth~ldap.error.unsupported.password.change
+msgctxt "multiauth~ldap.error.unsupported.password.change"
+msgid "Password change is not supported"
+msgstr ""
+
+#: multiauth~multiauth.provider.dbaccounts.label
+msgctxt "multiauth~multiauth.provider.dbaccounts.label"
+msgid "User accounts of the application"
+msgstr ""
+
+#: multiauth~multiauth.provider.dbdao.label
+msgctxt "multiauth~multiauth.provider.dbdao.label"
+msgid "External users database"
+msgstr ""
+
+#: multiauth~multiauth.provider.ldap.label
+msgctxt "multiauth~multiauth.provider.ldap.label"
+msgid "LDAP"
+msgstr ""
+
+#: multiauth~multiauth.user.provider.use
+msgctxt "multiauth~multiauth.user.provider.use"
+msgid "This user is authenticated with '%s'"
+msgstr ""
+
+#: multiauth~multiauth.choice.provider.label
+msgctxt "multiauth~multiauth.choice.provider.label"
+msgid "Authentication provider"
+msgstr ""
+
+#: multiauth~multiauth.choice.provider.password.label
+msgctxt "multiauth~multiauth.choice.provider.password.label"
+msgid "Password"
+msgstr ""
+
+#: multiauth~multiauth.choice.provider.password.confirm.label
+msgctxt "multiauth~multiauth.choice.provider.password.confirm.label"
+msgid "Re-type the password"
+msgstr ""
+
+#: multiauth~multiauth.choice.provider.inexistant.user
+msgctxt "multiauth~multiauth.choice.provider.inexistant.user"
+msgid "The user is unknown by this authentication provider"
+msgstr ""
+
+#: multiauth~multiauth.message.bad.password
+msgctxt "multiauth~multiauth.message.bad.password"
+msgid "The password is bad, or the second password does not correspond to the first one"
+msgstr ""
+
+#: multiauth~multiauth.account.update.reset.password
+msgctxt "multiauth~multiauth.account.update.reset.password"
+msgid "You should reset the password of this user, after you changed his authentication method"
+msgstr ""
