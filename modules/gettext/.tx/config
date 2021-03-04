@@ -7,3 +7,9 @@ file_filter = <lang>/jcommunity.po
 source_file = pot/jcommunity.pot
 source_lang = en
 type = PO
+
+[jelix.ldapdaopot]
+file_filter = <lang>/ldapdao.po
+source_file = pot/ldapdao.pot
+source_lang = en
+type = PO
