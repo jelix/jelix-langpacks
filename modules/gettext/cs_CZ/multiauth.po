@@ -1,122 +1,132 @@
+# 
+# Translators:
+# trendspotter, 2021
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: multiauth 1.1 multiauth\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: cs_CZ\n"
+"POT-Creation-Date: 2021-03-04 14:54++0100\n"
+"PO-Revision-Date: 2021-03-04 13:55+0000\n"
+"Last-Translator: trendspotter, 2021\n"
+"Language-Team: Czech (https://www.transifex.com/3liz-1/teams/62012/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2021-03-04 14:43++0100\n"
-"PO-Revision-Date: 2021-03-04 14:43++0100\n"
-"Language: cs_CZ\n"
-
-#: multiauth~ldap.error.search.base.missing
-msgctxt "multiauth~ldap.error.search.base.missing"
-msgid "ldap configuration: search base missing"
-msgstr ""
-
-#: multiauth~ldap.error.search.filter.missing
-msgctxt "multiauth~ldap.error.search.filter.missing"
-msgid "ldap configuration: search filter missing"
-msgstr ""
-
-#: multiauth~ldap.error.extension.unloaded
-msgctxt "multiauth~ldap.error.extension.unloaded"
-msgid "ldap extension unloaded"
-msgstr ""
-
-#: multiauth~ldap.error.object.user.unknown
-msgctxt "multiauth~ldap.error.object.user.unknown"
-msgid "user object unknown"
-msgstr ""
-
-#: multiauth~ldap.error.user.login.unset
-msgctxt "multiauth~ldap.error.user.login.unset"
-msgid "user identification unset"
-msgstr ""
-
-#: multiauth~ldap.error.ldap.profile.missing
-msgctxt "multiauth~ldap.error.ldap.profile.missing"
-msgid "ldap profile name is missing"
-msgstr ""
-
-#: multiauth~ldap.error.db.profile.missing
-msgctxt "multiauth~ldap.error.db.profile.missing"
-msgid "database profile name is missing"
-msgstr ""
+"Language: cs\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
 
 #: multiauth~ldap.error.bindUserDN.missing
 msgctxt "multiauth~ldap.error.bindUserDN.missing"
 msgid "no bindUserDN config parameter"
-msgstr ""
+msgstr "žádný konfigurační parametr bindUserDN"
+
+#: multiauth~ldap.error.db.profile.missing
+msgctxt "multiauth~ldap.error.db.profile.missing"
+msgid "database profile name is missing"
+msgstr "název profilu databáze chybí"
+
+#: multiauth~ldap.error.extension.unloaded
+msgctxt "multiauth~ldap.error.extension.unloaded"
+msgid "ldap extension unloaded"
+msgstr "Rozšíření ldap uvolněno"
+
+#: multiauth~ldap.error.ldap.profile.missing
+msgctxt "multiauth~ldap.error.ldap.profile.missing"
+msgid "ldap profile name is missing"
+msgstr "Jméno ldap profilu chybí"
+
+#: multiauth~ldap.error.object.user.unknown
+msgctxt "multiauth~ldap.error.object.user.unknown"
+msgid "user object unknown"
+msgstr "uživatelský objekt neznámý"
+
+#: multiauth~ldap.error.search.base.missing
+msgctxt "multiauth~ldap.error.search.base.missing"
+msgid "ldap configuration: search base missing"
+msgstr "Konfigurace LDAP: chybí základna vyhledávání"
+
+#: multiauth~ldap.error.search.filter.missing
+msgctxt "multiauth~ldap.error.search.filter.missing"
+msgid "ldap configuration: search filter missing"
+msgstr "Konfigurace LDAP: Chybí vyhledávací filtr"
 
 #: multiauth~ldap.error.searchUserFilter.missing
 msgctxt "multiauth~ldap.error.searchUserFilter.missing"
 msgid "no searchUserFilter config parameter"
-msgstr ""
-
-#: multiauth~ldap.error.unsupported.user.creation
-msgctxt "multiauth~ldap.error.unsupported.user.creation"
-msgid "Creation of an account is not supported"
-msgstr ""
-
-#: multiauth~ldap.error.unsupported.user.listing
-msgctxt "multiauth~ldap.error.unsupported.user.listing"
-msgid "Users listing is not supported"
-msgstr ""
+msgstr "žádný konfigurační parametr searchUserFilter"
 
 #: multiauth~ldap.error.unsupported.password.change
 msgctxt "multiauth~ldap.error.unsupported.password.change"
 msgid "Password change is not supported"
-msgstr ""
+msgstr "Změna hesla není podporována"
 
-#: multiauth~multiauth.provider.dbaccounts.label
-msgctxt "multiauth~multiauth.provider.dbaccounts.label"
-msgid "User accounts of the application"
-msgstr ""
+#: multiauth~ldap.error.unsupported.user.creation
+msgctxt "multiauth~ldap.error.unsupported.user.creation"
+msgid "Creation of an account is not supported"
+msgstr "Vytvoření účtu není podporováno"
 
-#: multiauth~multiauth.provider.dbdao.label
-msgctxt "multiauth~multiauth.provider.dbdao.label"
-msgid "External users database"
-msgstr ""
+#: multiauth~ldap.error.unsupported.user.listing
+msgctxt "multiauth~ldap.error.unsupported.user.listing"
+msgid "Users listing is not supported"
+msgstr "Seznam uživatelů není podporován"
 
-#: multiauth~multiauth.provider.ldap.label
-msgctxt "multiauth~multiauth.provider.ldap.label"
-msgid "LDAP"
-msgstr ""
+#: multiauth~ldap.error.user.login.unset
+msgctxt "multiauth~ldap.error.user.login.unset"
+msgid "user identification unset"
+msgstr "identifikace uživatele není nastavena"
 
-#: multiauth~multiauth.user.provider.use
-msgctxt "multiauth~multiauth.user.provider.use"
-msgid "This user is authenticated with '%s'"
+#: multiauth~multiauth.account.update.reset.password
+msgctxt "multiauth~multiauth.account.update.reset.password"
+msgid ""
+"You should reset the password of this user, after you changed his "
+"authentication method"
 msgstr ""
-
-#: multiauth~multiauth.choice.provider.label
-msgctxt "multiauth~multiauth.choice.provider.label"
-msgid "Authentication provider"
-msgstr ""
-
-#: multiauth~multiauth.choice.provider.password.label
-msgctxt "multiauth~multiauth.choice.provider.password.label"
-msgid "Password"
-msgstr ""
-
-#: multiauth~multiauth.choice.provider.password.confirm.label
-msgctxt "multiauth~multiauth.choice.provider.password.confirm.label"
-msgid "Re-type the password"
-msgstr ""
+"Po změně jeho metody ověřování byste měli resetovat heslo tohoto uživatele"
 
 #: multiauth~multiauth.choice.provider.inexistant.user
 msgctxt "multiauth~multiauth.choice.provider.inexistant.user"
 msgid "The user is unknown by this authentication provider"
-msgstr ""
+msgstr "Uživatel je tímto poskytovatelem ověřování neznámý"
+
+#: multiauth~multiauth.choice.provider.label
+msgctxt "multiauth~multiauth.choice.provider.label"
+msgid "Authentication provider"
+msgstr "Poskytovatel autentizace"
+
+#: multiauth~multiauth.choice.provider.password.confirm.label
+msgctxt "multiauth~multiauth.choice.provider.password.confirm.label"
+msgid "Re-type the password"
+msgstr "Znovu zadejte heslo"
+
+#: multiauth~multiauth.choice.provider.password.label
+msgctxt "multiauth~multiauth.choice.provider.password.label"
+msgid "Password"
+msgstr "Heslo"
 
 #: multiauth~multiauth.message.bad.password
 msgctxt "multiauth~multiauth.message.bad.password"
-msgid "The password is bad, or the second password does not correspond to the first one"
-msgstr ""
+msgid ""
+"The password is bad, or the second password does not correspond to the first"
+" one"
+msgstr "Heslo je chybné nebo druhé heslo neodpovídá prvnímu"
 
-#: multiauth~multiauth.account.update.reset.password
-msgctxt "multiauth~multiauth.account.update.reset.password"
-msgid "You should reset the password of this user, after you changed his authentication method"
-msgstr ""
+#: multiauth~multiauth.provider.dbaccounts.label
+msgctxt "multiauth~multiauth.provider.dbaccounts.label"
+msgid "User accounts of the application"
+msgstr "Uživatelské účty aplikace"
+
+#: multiauth~multiauth.provider.dbdao.label
+msgctxt "multiauth~multiauth.provider.dbdao.label"
+msgid "External users database"
+msgstr "Databáze externích uživatelů"
+
+#: multiauth~multiauth.provider.ldap.label
+msgctxt "multiauth~multiauth.provider.ldap.label"
+msgid "LDAP"
+msgstr "LDAP"
+
+#: multiauth~multiauth.user.provider.use
+msgctxt "multiauth~multiauth.user.provider.use"
+msgid "This user is authenticated with '%s'"
+msgstr "Tento uživatel je ověřen pomocí '%s'"

@@ -1,0 +1,131 @@
+# 
+# Translators:
+# 山本竜三 <ryu@yamakun.net>, 2021
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: multiauth 1.1 multiauth\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-04 14:54++0100\n"
+"PO-Revision-Date: 2021-03-04 13:55+0000\n"
+"Last-Translator: 山本竜三 <ryu@yamakun.net>, 2021\n"
+"Language-Team: Japanese (https://www.transifex.com/3liz-1/teams/62012/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: multiauth~ldap.error.bindUserDN.missing
+msgctxt "multiauth~ldap.error.bindUserDN.missing"
+msgid "no bindUserDN config parameter"
+msgstr "‎設定パラメータがありません‎"
+
+#: multiauth~ldap.error.db.profile.missing
+msgctxt "multiauth~ldap.error.db.profile.missing"
+msgid "database profile name is missing"
+msgstr "‎データベース プロファイル名がありません‎"
+
+#: multiauth~ldap.error.extension.unloaded
+msgctxt "multiauth~ldap.error.extension.unloaded"
+msgid "ldap extension unloaded"
+msgstr "‎LDAP 拡張がアンロードされました‎"
+
+#: multiauth~ldap.error.ldap.profile.missing
+msgctxt "multiauth~ldap.error.ldap.profile.missing"
+msgid "ldap profile name is missing"
+msgstr "‎LDAP プロファイル名が見つかりません‎"
+
+#: multiauth~ldap.error.object.user.unknown
+msgctxt "multiauth~ldap.error.object.user.unknown"
+msgid "user object unknown"
+msgstr "‎ユーザー オブジェクトが不明です‎"
+
+#: multiauth~ldap.error.search.base.missing
+msgctxt "multiauth~ldap.error.search.base.missing"
+msgid "ldap configuration: search base missing"
+msgstr "‎LDAP設定: 検索ベースが見つかりません‎"
+
+#: multiauth~ldap.error.search.filter.missing
+msgctxt "multiauth~ldap.error.search.filter.missing"
+msgid "ldap configuration: search filter missing"
+msgstr "‎LDAP設定: 検索フィルタが見つかりません‎"
+
+#: multiauth~ldap.error.searchUserFilter.missing
+msgctxt "multiauth~ldap.error.searchUserFilter.missing"
+msgid "no searchUserFilter config parameter"
+msgstr ""
+
+#: multiauth~ldap.error.unsupported.password.change
+msgctxt "multiauth~ldap.error.unsupported.password.change"
+msgid "Password change is not supported"
+msgstr "‎パスワードの変更はサポートされていません‎"
+
+#: multiauth~ldap.error.unsupported.user.creation
+msgctxt "multiauth~ldap.error.unsupported.user.creation"
+msgid "Creation of an account is not supported"
+msgstr "‎アカウントの作成はサポートされていません‎"
+
+#: multiauth~ldap.error.unsupported.user.listing
+msgctxt "multiauth~ldap.error.unsupported.user.listing"
+msgid "Users listing is not supported"
+msgstr "‎ユーザー一覧はサポートされていません‎"
+
+#: multiauth~ldap.error.user.login.unset
+msgctxt "multiauth~ldap.error.user.login.unset"
+msgid "user identification unset"
+msgstr "‎ユーザー ID が設定されていない‎"
+
+#: multiauth~multiauth.account.update.reset.password
+msgctxt "multiauth~multiauth.account.update.reset.password"
+msgid ""
+"You should reset the password of this user, after you changed his "
+"authentication method"
+msgstr "‎認証方法を変更した後、このユーザーのパスワードをリセットする必要があります‎"
+
+#: multiauth~multiauth.choice.provider.inexistant.user
+msgctxt "multiauth~multiauth.choice.provider.inexistant.user"
+msgid "The user is unknown by this authentication provider"
+msgstr "‎この認証ではユーザーが不明です‎"
+
+#: multiauth~multiauth.choice.provider.label
+msgctxt "multiauth~multiauth.choice.provider.label"
+msgid "Authentication provider"
+msgstr "‎認証"
+
+#: multiauth~multiauth.choice.provider.password.confirm.label
+msgctxt "multiauth~multiauth.choice.provider.password.confirm.label"
+msgid "Re-type the password"
+msgstr "‎パスワードを再入力する‎"
+
+#: multiauth~multiauth.choice.provider.password.label
+msgctxt "multiauth~multiauth.choice.provider.password.label"
+msgid "Password"
+msgstr "‎パスワード‎"
+
+#: multiauth~multiauth.message.bad.password
+msgctxt "multiauth~multiauth.message.bad.password"
+msgid ""
+"The password is bad, or the second password does not correspond to the first"
+" one"
+msgstr "‎パスワードが正しくないか、2 番目のパスワードが最初のパスワードと異なっています。"
+
+#: multiauth~multiauth.provider.dbaccounts.label
+msgctxt "multiauth~multiauth.provider.dbaccounts.label"
+msgid "User accounts of the application"
+msgstr "‎アプリケーションのユーザー アカウント‎"
+
+#: multiauth~multiauth.provider.dbdao.label
+msgctxt "multiauth~multiauth.provider.dbdao.label"
+msgid "External users database"
+msgstr "‎外部ユーザー データベース‎"
+
+#: multiauth~multiauth.provider.ldap.label
+msgctxt "multiauth~multiauth.provider.ldap.label"
+msgid "LDAP"
+msgstr "LDAP"
+
+#: multiauth~multiauth.user.provider.use
+msgctxt "multiauth~multiauth.user.provider.use"
+msgid "This user is authenticated with '%s'"
+msgstr "‎このユーザーは ' ‎%s'で認証されます。"

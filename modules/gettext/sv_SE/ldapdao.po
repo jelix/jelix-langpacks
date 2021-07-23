@@ -1,15 +1,41 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: ldapdao-module 2.2 ldapdao\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: sv_SE\n"
+"POT-Creation-Date: 2021-03-04 14:30++0100\n"
+"PO-Revision-Date: 2021-03-04 13:50+0000\n"
+"Language-Team: Swedish (Sweden) (https://www.transifex.com/3liz-1/teams/62012/sv_SE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2021-03-04 14:36++0100\n"
-"PO-Revision-Date: 2021-03-04 14:36++0100\n"
 "Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ldapdao~errors.bindUserDN.missing
+msgctxt "ldapdao~errors.bindUserDN.missing"
+msgid "no bindUserDN config parameter"
+msgstr ""
+
+#: ldapdao~errors.db.profile.missing
+msgctxt "ldapdao~errors.db.profile.missing"
+msgid "(616)database profile name is missing"
+msgstr ""
+
+#: ldapdao~errors.extension.unloaded
+msgctxt "ldapdao~errors.extension.unloaded"
+msgid "(612)ldap extension unloaded"
+msgstr ""
+
+#: ldapdao~errors.ldap.profile.missing
+msgctxt "ldapdao~errors.ldap.profile.missing"
+msgid "(615)ldap profile name is missing"
+msgstr ""
+
+#: ldapdao~errors.object.user.unknown
+msgctxt "ldapdao~errors.object.user.unknown"
+msgid "(613)user object unknown"
+msgstr ""
 
 #: ldapdao~errors.search.base.missing
 msgctxt "ldapdao~errors.search.base.missing"
@@ -21,39 +47,14 @@ msgctxt "ldapdao~errors.search.filter.missing"
 msgid "(611)ldap configuration: search filter missing"
 msgstr ""
 
-#: ldapdao~errors.extension.unloaded
-msgctxt "ldapdao~errors.extension.unloaded"
-msgid "(612)ldap extension unloaded"
-msgstr ""
-
-#: ldapdao~errors.object.user.unknown
-msgctxt "ldapdao~errors.object.user.unknown"
-msgid "(613)user object unknown"
-msgstr ""
-
-#: ldapdao~errors.user.login.unset
-msgctxt "ldapdao~errors.user.login.unset"
-msgid "(614)user identification unset"
-msgstr ""
-
-#: ldapdao~errors.ldap.profile.missing
-msgctxt "ldapdao~errors.ldap.profile.missing"
-msgid "(615)ldap profile name is missing"
-msgstr ""
-
-#: ldapdao~errors.db.profile.missing
-msgctxt "ldapdao~errors.db.profile.missing"
-msgid "(616)database profile name is missing"
-msgstr ""
-
-#: ldapdao~errors.bindUserDN.missing
-msgctxt "ldapdao~errors.bindUserDN.missing"
-msgid "no bindUserDN config parameter"
-msgstr ""
-
 #: ldapdao~errors.searchUserFilter.missing
 msgctxt "ldapdao~errors.searchUserFilter.missing"
 msgid "no searchUserFilter config parameter"
+msgstr ""
+
+#: ldapdao~errors.unsupported.password.change
+msgctxt "ldapdao~errors.unsupported.password.change"
+msgid "Password change is not supported"
 msgstr ""
 
 #: ldapdao~errors.unsupported.user.creation
@@ -66,7 +67,7 @@ msgctxt "ldapdao~errors.unsupported.user.listing"
 msgid "Users listing is not supported"
 msgstr ""
 
-#: ldapdao~errors.unsupported.password.change
-msgctxt "ldapdao~errors.unsupported.password.change"
-msgid "Password change is not supported"
+#: ldapdao~errors.user.login.unset
+msgctxt "ldapdao~errors.user.login.unset"
+msgid "(614)user identification unset"
 msgstr ""
