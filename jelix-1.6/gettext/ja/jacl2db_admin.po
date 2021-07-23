@@ -1,0 +1,404 @@
+# 
+# Translators:
+# 山本竜三 <ryu@yamakun.net>, 2021
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Lizmap Web Client jacl2db_admin 3.4.2-pre\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-26 14:54++0100\n"
+"PO-Revision-Date: 2021-02-26 16:03+0000\n"
+"Last-Translator: 山本竜三 <ryu@yamakun.net>, 2021\n"
+"Language-Team: Japanese (https://www.transifex.com/3liz-1/teams/62012/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: jacl2db_admin~acl2.add.group.tooltip
+msgctxt "jacl2db_admin~acl2.add.group.tooltip"
+msgid "Add the user to this group"
+msgstr "‎このグループにユーザーを追加します‎"
+
+#: jacl2db_admin~acl2.all.users.option
+msgctxt "jacl2db_admin~acl2.all.users.option"
+msgid "All users"
+msgstr "‎すべてのユーザー‎"
+
+#: jacl2db_admin~acl2.anonymous.group.name
+msgctxt "jacl2db_admin~acl2.anonymous.group.name"
+msgid "Anonymous"
+msgstr "Anonymous"
+
+#: jacl2db_admin~acl2.change.name.title
+msgctxt "jacl2db_admin~acl2.change.name.title"
+msgid "Change the name"
+msgstr "‎名前を変更する‎"
+
+#: jacl2db_admin~acl2.col.groups
+msgctxt "jacl2db_admin~acl2.col.groups"
+msgid "Groups"
+msgstr "‎グループ‎"
+
+#: jacl2db_admin~acl2.col.personnal.rights
+msgctxt "jacl2db_admin~acl2.col.personnal.rights"
+msgid "Personal rights"
+msgstr "‎個人の権利‎"
+
+#: jacl2db_admin~acl2.col.personnal.rights.res
+msgctxt "jacl2db_admin~acl2.col.personnal.rights.res"
+msgid "Personal rights on resources"
+msgstr "‎リソースに対する個人の権利‎"
+
+#: jacl2db_admin~acl2.col.resources
+msgctxt "jacl2db_admin~acl2.col.resources"
+msgid "Resources"
+msgstr "‎リソース‎"
+
+#: jacl2db_admin~acl2.col.resulting
+msgctxt "jacl2db_admin~acl2.col.resulting"
+msgid "Resulting rights for"
+msgstr ""
+
+#: jacl2db_admin~acl2.col.subjects
+msgctxt "jacl2db_admin~acl2.col.subjects"
+msgid "Subjects"
+msgstr ""
+
+#: jacl2db_admin~acl2.col.users
+msgctxt "jacl2db_admin~acl2.col.users"
+msgid "Users"
+msgstr "‎ユーザー‎"
+
+#: jacl2db_admin~acl2.create.group
+msgctxt "jacl2db_admin~acl2.create.group"
+msgid "Create a group"
+msgstr "‎グループを作成する‎"
+
+#: jacl2db_admin~acl2.delete.button
+msgctxt "jacl2db_admin~acl2.delete.button"
+msgid "Delete"
+msgstr "‎削除‎"
+
+#: jacl2db_admin~acl2.delete.button.confirm.label
+msgctxt "jacl2db_admin~acl2.delete.button.confirm.label"
+msgid "Do you want to delete this group ?"
+msgstr "‎このグループを削除しますか?‎"
+
+#: jacl2db_admin~acl2.delete.group
+msgctxt "jacl2db_admin~acl2.delete.group"
+msgid "Delete a group"
+msgstr "‎グループを削除する‎"
+
+#: jacl2db_admin~acl2.error.invalid.user
+msgctxt "jacl2db_admin~acl2.error.invalid.user"
+msgid "Invalid user"
+msgstr "‎無効なユーザー‎"
+
+#: jacl2db_admin~acl2.filter.group
+msgctxt "jacl2db_admin~acl2.filter.group"
+msgid "Group:"
+msgstr "‎グループ：‎"
+
+#: jacl2db_admin~acl2.filter.title
+msgctxt "jacl2db_admin~acl2.filter.title"
+msgid "Filter"
+msgstr "‎フィルタ"
+
+#: jacl2db_admin~acl2.filter.word
+msgctxt "jacl2db_admin~acl2.filter.word"
+msgid "(part of) name:"
+msgstr "名前‎(の一部) :‎"
+
+#: jacl2db_admin~acl2.global.rights
+msgctxt "jacl2db_admin~acl2.global.rights"
+msgid "global"
+msgstr ""
+
+#: jacl2db_admin~acl2.group.help.rights.forbidden
+msgctxt "jacl2db_admin~acl2.group.help.rights.forbidden"
+msgid "forbidden right, even if an other group of the user authorizes it"
+msgstr "‎ ユーザーの他のグループが権限を与えても‎禁止されている権利"
+
+#: jacl2db_admin~acl2.group.help.rights.no
+msgctxt "jacl2db_admin~acl2.group.help.rights.no"
+msgid ""
+"right not authorized by default, but it can be authorized in other groups of"
+" a user"
+msgstr "‎デフォルトでは承認されていませんが、ユーザーの他のグループで承認することができます‎"
+
+#: jacl2db_admin~acl2.group.help.rights.yes
+msgctxt "jacl2db_admin~acl2.group.help.rights.yes"
+msgid "authorized right, but it can be forbidden in an other group of a user"
+msgstr "‎権限を与えられるが、他のユーザーグループで禁止される場合があります‎"
+
+#: jacl2db_admin~acl2.group.name.id
+msgctxt "jacl2db_admin~acl2.group.name.id"
+msgid "Ident:"
+msgstr "‎同じ：‎"
+
+#: jacl2db_admin~acl2.group.name.label
+msgctxt "jacl2db_admin~acl2.group.name.label"
+msgid "Label:"
+msgstr "‎ラベル：‎"
+
+#: jacl2db_admin~acl2.group.rightres.title
+msgctxt "jacl2db_admin~acl2.group.rightres.title"
+msgid "Rights on resources for the group"
+msgstr "‎グループのリソースに対する権限‎"
+
+#: jacl2db_admin~acl2.group.rights.forbidden
+msgctxt "jacl2db_admin~acl2.group.rights.forbidden"
+msgid "forbidden"
+msgstr "‎禁じられた‎"
+
+#: jacl2db_admin~acl2.group.rights.no
+msgctxt "jacl2db_admin~acl2.group.rights.no"
+msgid "no"
+msgstr "no"
+
+#: jacl2db_admin~acl2.group.rights.yes
+msgctxt "jacl2db_admin~acl2.group.rights.yes"
+msgid "yes"
+msgstr "yes"
+
+#: jacl2db_admin~acl2.groups.change.rights.link
+msgctxt "jacl2db_admin~acl2.groups.change.rights.link"
+msgid "Change rights of groups"
+msgstr "‎グループの権限を変更する‎"
+
+#: jacl2db_admin~acl2.groups.new.users.title
+msgctxt "jacl2db_admin~acl2.groups.new.users.title"
+msgid "Groups of new users"
+msgstr "‎新規ユーザーのグループ‎"
+
+#: jacl2db_admin~acl2.groups.rights.title
+msgctxt "jacl2db_admin~acl2.groups.rights.title"
+msgid "Rights of groups"
+msgstr "‎グループの権限"
+
+#: jacl2db_admin~acl2.groups.title
+msgctxt "jacl2db_admin~acl2.groups.title"
+msgid "Groups of users for rights"
+msgstr "グループの‎ユーザー‎権限"
+
+#: jacl2db_admin~acl2.has.rights.on.resources
+msgctxt "jacl2db_admin~acl2.has.rights.on.resources"
+msgid "This user has rights on some resources"
+msgstr "‎このユーザーは一部のリソースに対する権限を持っています‎"
+
+#: jacl2db_admin~acl2.link.return.to.rights
+msgctxt "jacl2db_admin~acl2.link.return.to.rights"
+msgid "Return to global rights"
+msgstr "‎グローバル権限に戻る‎"
+
+#: jacl2db_admin~acl2.menu.item.groups
+msgctxt "jacl2db_admin~acl2.menu.item.groups"
+msgid "Groups of users for rights"
+msgstr "‎グループ‎のユーザー権限"
+
+#: jacl2db_admin~acl2.menu.item.rights
+msgctxt "jacl2db_admin~acl2.menu.item.rights"
+msgid "Rights of users"
+msgstr "‎ユーザーの権限‎"
+
+#: jacl2db_admin~acl2.message.addusertogroup.error.noacl.anybody
+msgctxt "jacl2db_admin~acl2.message.addusertogroup.error.noacl.anybody"
+msgid ""
+"The user cannot be added to this group else nobody won't be able to change "
+"some rights"
+msgstr "‎このグループにユーザーを追加できない場合は、一部の権限を変更できません"
+
+#: jacl2db_admin~acl2.message.addusertogroup.error.noacl.yourself
+msgctxt "jacl2db_admin~acl2.message.addusertogroup.error.noacl.yourself"
+msgid ""
+"You cannot be added to this group else you won't be able to change some "
+"rights"
+msgstr "‎このグループに追加できない場合は、一部の権限を変更できません‎"
+
+#: jacl2db_admin~acl2.message.group.create.ok
+msgctxt "jacl2db_admin~acl2.message.group.create.ok"
+msgid "Group created"
+msgstr "‎作成されたグループ‎"
+
+#: jacl2db_admin~acl2.message.group.delete.error.noacl.anybody
+msgctxt "jacl2db_admin~acl2.message.group.delete.error.noacl.anybody"
+msgid "The group cannot be deleted, else nobody couldn't manage rights"
+msgstr "‎グループを削除できなかったか，誰も権限を管理できませんでした‎。"
+
+#: jacl2db_admin~acl2.message.group.delete.error.noacl.yourself
+msgctxt "jacl2db_admin~acl2.message.group.delete.error.noacl.yourself"
+msgid "The group cannot be deleted, else you couldn't manage rights"
+msgstr "‎グループを削除できなかったか，権限を管理できませんでした。"
+
+#: jacl2db_admin~acl2.message.group.delete.ok
+msgctxt "jacl2db_admin~acl2.message.group.delete.ok"
+msgid "Group deleted"
+msgstr "‎グループが削除されました‎"
+
+#: jacl2db_admin~acl2.message.group.rename.ok
+msgctxt "jacl2db_admin~acl2.message.group.rename.ok"
+msgid "Group renamed"
+msgstr "‎名前が変更されたグループ‎"
+
+#: jacl2db_admin~acl2.message.group.rights.ok
+msgctxt "jacl2db_admin~acl2.message.group.rights.ok"
+msgid "Rights saved"
+msgstr "‎保存された権限‎"
+
+#: jacl2db_admin~acl2.message.groups.setdefault.ok
+msgctxt "jacl2db_admin~acl2.message.groups.setdefault.ok"
+msgid "Default groups set"
+msgstr "‎既定のグループ"
+
+#: jacl2db_admin~acl2.message.removeuserfromgroup.error.noacl.anybody
+msgctxt "jacl2db_admin~acl2.message.removeuserfromgroup.error.noacl.anybody"
+msgid ""
+"The user cannot be removed from this group else nobody won't be able to "
+"change some rights"
+msgstr "‎このグループからユーザーを削除できない場合は、一部の権限を変更できません"
+
+#: jacl2db_admin~acl2.message.removeuserfromgroup.error.noacl.yourself
+msgctxt "jacl2db_admin~acl2.message.removeuserfromgroup.error.noacl.yourself"
+msgid ""
+"You cannot be removed from this group else you won't be able to change some "
+"rights"
+msgstr "‎このグループから削除できない場合は、一部の権限を変更できません‎"
+
+#: jacl2db_admin~acl2.message.savegrouprights.error.noacl.anybody
+msgctxt "jacl2db_admin~acl2.message.savegrouprights.error.noacl.anybody"
+msgid ""
+"Changes cannot be applied else nobody won't be able to change some rights"
+msgstr "‎変更を適用できない場合は、全ての権限を変更できません‎"
+
+#: jacl2db_admin~acl2.message.savegrouprights.error.noacl.yourself
+msgctxt "jacl2db_admin~acl2.message.savegrouprights.error.noacl.yourself"
+msgid "Changes cannot be applied else you won't be able to change some rights"
+msgstr "‎一部の権限を変更できないた他の変更は適用できません。‎"
+
+#: jacl2db_admin~acl2.message.saveuserrights.error.noacl.anybody
+msgctxt "jacl2db_admin~acl2.message.saveuserrights.error.noacl.anybody"
+msgid ""
+"Changes cannot be applied else nobody won't be able to change some rights"
+msgstr "‎変更を適用できない場合は、全ての権限を変更できません‎"
+
+#: jacl2db_admin~acl2.message.saveuserrights.error.noacl.yourself
+msgctxt "jacl2db_admin~acl2.message.saveuserrights.error.noacl.yourself"
+msgid "Changes cannot be applied else you won't be able to change some rights"
+msgstr "‎一部の権限を変更できない他の変更は適用できません。‎"
+
+#: jacl2db_admin~acl2.message.user.rights.ok
+msgctxt "jacl2db_admin~acl2.message.user.rights.ok"
+msgid "Rights saved"
+msgstr "権限の保存‎"
+
+#: jacl2db_admin~acl2.new.name.label
+msgctxt "jacl2db_admin~acl2.new.name.label"
+msgid "New name:"
+msgstr "‎新しい名前:‎"
+
+#: jacl2db_admin~acl2.no.rightres
+msgctxt "jacl2db_admin~acl2.no.rightres"
+msgid "No special rights"
+msgstr "‎特別な権限はありません‎"
+
+#: jacl2db_admin~acl2.no.user.message
+msgctxt "jacl2db_admin~acl2.no.user.message"
+msgid "No user."
+msgstr "‎ユーザーがいません。‎"
+
+#: jacl2db_admin~acl2.pages.links.label
+msgctxt "jacl2db_admin~acl2.pages.links.label"
+msgid "Pages:"
+msgstr "‎ページ：‎"
+
+#: jacl2db_admin~acl2.remove.group.tooltip
+msgctxt "jacl2db_admin~acl2.remove.group.tooltip"
+msgid "Remove the user from this group"
+msgstr "グループからユーザーを削除します‎"
+
+#: jacl2db_admin~acl2.rename.button
+msgctxt "jacl2db_admin~acl2.rename.button"
+msgid "Rename"
+msgstr "名前の変更"
+
+#: jacl2db_admin~acl2.rightres.title
+msgctxt "jacl2db_admin~acl2.rightres.title"
+msgid "Rights on resources"
+msgstr "‎リソースに対する権限‎"
+
+#: jacl2db_admin~acl2.rights.link
+msgctxt "jacl2db_admin~acl2.rights.link"
+msgid "rights"
+msgstr "権限"
+
+#: jacl2db_admin~acl2.rights.title
+msgctxt "jacl2db_admin~acl2.rights.title"
+msgid "Rights"
+msgstr "権限"
+
+#: jacl2db_admin~acl2.save.button
+msgctxt "jacl2db_admin~acl2.save.button"
+msgid "Save"
+msgstr "保存"
+
+#: jacl2db_admin~acl2.see.rights.on.resources
+msgctxt "jacl2db_admin~acl2.see.rights.on.resources"
+msgid "See this rights"
+msgstr "‎この権限を参照してください‎"
+
+#: jacl2db_admin~acl2.setdefault.button
+msgctxt "jacl2db_admin~acl2.setdefault.button"
+msgid "Set default groups"
+msgstr "‎既定のグループを設定する‎"
+
+#: jacl2db_admin~acl2.show.button
+msgctxt "jacl2db_admin~acl2.show.button"
+msgid "Show"
+msgstr "‎見せる‎"
+
+#: jacl2db_admin~acl2.special.rights
+msgctxt "jacl2db_admin~acl2.special.rights"
+msgid "special"
+msgstr "‎スペシャル‎"
+
+#: jacl2db_admin~acl2.table.th.groups
+msgctxt "jacl2db_admin~acl2.table.th.groups"
+msgid "Groups"
+msgstr "‎グループ‎"
+
+#: jacl2db_admin~acl2.table.th.rights
+msgctxt "jacl2db_admin~acl2.table.th.rights"
+msgid "Rights"
+msgstr "権限"
+
+#: jacl2db_admin~acl2.user.rightres.title
+msgctxt "jacl2db_admin~acl2.user.rightres.title"
+msgid "Rights on resources for"
+msgstr "‎リソースに対する権限‎"
+
+#: jacl2db_admin~acl2.user.rights.title
+msgctxt "jacl2db_admin~acl2.user.rights.title"
+msgid "Rights for"
+msgstr ""
+
+#: jacl2db_admin~acl2.users.title
+msgctxt "jacl2db_admin~acl2.users.title"
+msgid "Rights of users"
+msgstr "‎ユーザーの権限‎"
+
+#: jacl2db_admin~acl2.warning.deleting.rightres
+msgctxt "jacl2db_admin~acl2.warning.deleting.rightres"
+msgid ""
+"Warning! To remove this rights, you should use the interfaces provided by "
+"business modules corresponding to this rights. Use this page only if you "
+"know what you do!"
+msgstr ""
+"‎警告！この権限を削除するには、この権限に対応するビジネス "
+"モジュールによって提供されるインターフェイスを使用する必要があります。このページは、自分の操作がわかっている場合にのみ使用してください。‎"
+
+#: jacl2db_admin~acl2.without.groups.option
+msgctxt "jacl2db_admin~acl2.without.groups.option"
+msgid "Without group"
+msgstr "‎グループなし‎"

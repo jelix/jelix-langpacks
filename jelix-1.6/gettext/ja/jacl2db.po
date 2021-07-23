@@ -1,0 +1,57 @@
+# 
+# Translators:
+# 山本竜三 <ryu@yamakun.net>, 2021
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Lizmap Web Client jacl2db 3.4.2-pre\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-26 14:54++0100\n"
+"PO-Revision-Date: 2021-02-26 16:03+0000\n"
+"Last-Translator: 山本竜三 <ryu@yamakun.net>, 2021\n"
+"Language-Team: Japanese (https://www.transifex.com/3liz-1/teams/62012/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: jacl2db~acl2db.acl.group.create
+msgctxt "jacl2db~acl2db.acl.group.create"
+msgid "Create a group"
+msgstr "‎グループを作成する‎"
+
+#: jacl2db~acl2db.acl.group.delete
+msgctxt "jacl2db~acl2db.acl.group.delete"
+msgid "Delete a group"
+msgstr "‎グループを削除する‎"
+
+#: jacl2db~acl2db.acl.group.modify
+msgctxt "jacl2db~acl2db.acl.group.modify"
+msgid "Modify groups and their rights"
+msgstr "‎グループとその権限を変更する‎"
+
+#: jacl2db~acl2db.acl.group.view
+msgctxt "jacl2db~acl2db.acl.group.view"
+msgid "View groups and their rights"
+msgstr "‎グループとその権限の表示‎"
+
+#: jacl2db~acl2db.acl.grp.group.management
+msgctxt "jacl2db~acl2db.acl.grp.group.management"
+msgid "Users group rights management"
+msgstr "‎ユーザー グループの権限管理‎"
+
+#: jacl2db~acl2db.acl.grp.user.management
+msgctxt "jacl2db~acl2db.acl.grp.user.management"
+msgid "Users rights management"
+msgstr "‎ユーザー権利管理‎"
+
+#: jacl2db~acl2db.acl.user.modify
+msgctxt "jacl2db~acl2db.acl.user.modify"
+msgid "Modify user rights"
+msgstr "‎ユーザーの権利を変更する‎"
+
+#: jacl2db~acl2db.acl.user.view
+msgctxt "jacl2db~acl2db.acl.user.view"
+msgid "View user rights"
+msgstr "‎ユーザー権限の表示‎"
