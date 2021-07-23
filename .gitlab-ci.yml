@@ -1,0 +1,19 @@
+stages:
+  - build
+  - deploy_package
+
+build:
+  stage: build
+  script:
+    - make build
+  artifacts:
+    name: "packages-${CI_COMMIT_SHA}"
+    paths:
+      - _dist
+
+deploy:
+  stage: deploy_package
+  script:
+    - make deploy
+  dependencies:
+    - build
