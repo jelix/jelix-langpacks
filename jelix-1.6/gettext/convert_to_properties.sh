@@ -58,11 +58,18 @@ for MODULE in $MODULES
 do
     for LIZLOCALE in $OFFICIAL_LOCALES
     do
+        LIZLOCALEFULL=$LIZLOCALE
+
+        if [[ "$LIZLOCALE" == */* ]]; then
+           LIZLOCALEFULL=$(echo $LIZLOCALE | cut -d '/' -f2)
+           LIZLOCALE=$(echo $LIZLOCALE | cut -d '/' -f1)
+        fi
+
         if [ -f "$LOCALES_DIR/$LIZLOCALE/$MODULE.po" ]; then
             $LOCALES_DIR/../../vendor/bin/jelixlocales convert:po:properties \
              --config=$JELIX_LOCALES_INI \
              --properties-path=$PROPERTIES_PATH \
-            $MODULE $LIZLOCALE $LOCALES_DIR/$LIZLOCALE/
+            $MODULE $LIZLOCALEFULL $LOCALES_DIR/$LIZLOCALE/
         fi
     done
 done
