@@ -1,0 +1,57 @@
+# 
+# Translators:
+# Laurent Jouanneau <dev@ljouanneau.com>, 2021
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: jelix 1.6.33 jacl2db\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-23 18:31++0200\n"
+"PO-Revision-Date: 2021-07-23 16:39+0000\n"
+"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
+"Language-Team: Greek (https://www.transifex.com/3liz-1/teams/62012/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: jacl2db~acl2db.acl.group.create
+msgctxt "jacl2db~acl2db.acl.group.create"
+msgid "Create a group"
+msgstr "Δημιουργία μιας ομάδας"
+
+#: jacl2db~acl2db.acl.group.delete
+msgctxt "jacl2db~acl2db.acl.group.delete"
+msgid "Delete a group"
+msgstr "Διαγραφή μια ομάδα"
+
+#: jacl2db~acl2db.acl.group.modify
+msgctxt "jacl2db~acl2db.acl.group.modify"
+msgid "Modify groups and their rights"
+msgstr ""
+
+#: jacl2db~acl2db.acl.group.view
+msgctxt "jacl2db~acl2db.acl.group.view"
+msgid "View groups and their rights"
+msgstr ""
+
+#: jacl2db~acl2db.acl.grp.group.management
+msgctxt "jacl2db~acl2db.acl.grp.group.management"
+msgid "Users group rights management"
+msgstr ""
+
+#: jacl2db~acl2db.acl.grp.user.management
+msgctxt "jacl2db~acl2db.acl.grp.user.management"
+msgid "Users rights management"
+msgstr ""
+
+#: jacl2db~acl2db.acl.user.modify
+msgctxt "jacl2db~acl2db.acl.user.modify"
+msgid "Modify user rights"
+msgstr ""
+
+#: jacl2db~acl2db.acl.user.view
+msgctxt "jacl2db~acl2db.acl.user.view"
+msgid "View user rights"
+msgstr ""

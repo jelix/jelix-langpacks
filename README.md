@@ -1,16 +1,19 @@
 jelix-langpacks
 ===============
 
-Translation of properties files for jelix modules, for Jelix 1.6.
+Translation of properties files for Jelix 1.6, 1.7 and for some modules.
 
 Translations are edited with Transiflex. See https://www.transifex.com/3liz-1/jelix/dashboard/
 
 This repository contains translation of several project/branches:
+- `jelix-1.7`: translation of modules provided with Jelix 1.7.
+  Translations for modules: jelix, jacl2, jacl2db, jacl2db_admin, jauthdb_admin, master_admin
 - `jelix-1.6`: translation of modules provided with Jelix 1.6.
   Translations for modules: jelix, jacl2, jacl2db, jacl2db_admin, jauthdb_admin, master_admin
 - `modules`: translation for some modules. Translations for modules: 
   - jCommunity
-
+  - ldapdao
+  - multiauth
 
 All projects have two directories:
 
