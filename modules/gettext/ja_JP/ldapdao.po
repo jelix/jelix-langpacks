@@ -54,7 +54,7 @@ msgstr "‎(611)LDAP 設定: 検索フィルタが見つかりません‎"
 #: ldapdao~errors.searchUserFilter.missing
 msgctxt "ldapdao~errors.searchUserFilter.missing"
 msgid "no searchUserFilter config parameter"
-msgstr ""
+msgstr "ユーザーフィルターの検索設定パラメーター‎"
 
 #: ldapdao~errors.unsupported.password.change
 msgctxt "ldapdao~errors.unsupported.password.change"

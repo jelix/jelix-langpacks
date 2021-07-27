@@ -54,7 +54,7 @@ msgstr "‎LDAP設定: 検索フィルタが見つかりません‎"
 #: multiauth~ldap.error.searchUserFilter.missing
 msgctxt "multiauth~ldap.error.searchUserFilter.missing"
 msgid "no searchUserFilter config parameter"
-msgstr ""
+msgstr "ユーザーフィルターの検索パラメーター設定がありません"
 
 #: multiauth~ldap.error.unsupported.password.change
 msgctxt "multiauth~ldap.error.unsupported.password.change"

@@ -1,6 +1,20 @@
 #!/usr/bin/env bash
 set -e
 
+
+usage()
+{
+    echo "$0 [options] <path/to/.jelixlocale.ini> [\"<module> <module>...\"]"
+    echo ""
+    echo "This script convert po files to properties files into ../locales/"
+    echo ""
+    echo "Options:"
+    echo "   --target=<path/to/a/locales/directory . by default, ../locales/"
+    echo "   "
+
+}
+
+
 JELIX_LOCALES_INI=""
 PROPERTIES_PATH=""
 MODULES_LIST=""
@@ -9,6 +23,10 @@ do
 case $i in
     --target=*)
       PROPERTIES_PATH=$(echo $i| cut -c 10- )
+    ;;
+    -h)
+      usage
+      exit 0
     ;;
     -*)
       echo "ERROR: Unknown option: $i"
@@ -34,11 +52,13 @@ done
 
 if [ "$JELIX_LOCALES_INI" == "" ]; then
     echo "Error: path to the .jelixlocales.ini file is missing"
+    usage
     exit 1
 fi
 
 if [ ! -f "$JELIX_LOCALES_INI" ]; then
     echo "Error: given path seems to be not a .jelixlocales.ini file"
+    usage
     exit 2
 fi
 

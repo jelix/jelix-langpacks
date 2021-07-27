@@ -59,12 +59,12 @@ msgstr "‎リソース‎"
 #: jacl2db_admin~acl2.col.resulting
 msgctxt "jacl2db_admin~acl2.col.resulting"
 msgid "Resulting rights for"
-msgstr ""
+msgstr "‎の権限結果‎"
 
 #: jacl2db_admin~acl2.col.subjects
 msgctxt "jacl2db_admin~acl2.col.subjects"
 msgid "Rights"
-msgstr ""
+msgstr "権限"
 
 #: jacl2db_admin~acl2.col.users
 msgctxt "jacl2db_admin~acl2.col.users"
@@ -114,7 +114,7 @@ msgstr "名前‎(の一部) :‎"
 #: jacl2db_admin~acl2.global.rights
 msgctxt "jacl2db_admin~acl2.global.rights"
 msgid "global"
-msgstr ""
+msgstr "‎グローバル‎"
 
 #: jacl2db_admin~acl2.group.help.rights.forbidden
 msgctxt "jacl2db_admin~acl2.group.help.rights.forbidden"
@@ -381,7 +381,7 @@ msgstr "‎リソースに対する権限‎"
 #: jacl2db_admin~acl2.user.rights.title
 msgctxt "jacl2db_admin~acl2.user.rights.title"
 msgid "Rights for"
-msgstr ""
+msgstr "‎の権限"
 
 #: jacl2db_admin~acl2.users.title
 msgctxt "jacl2db_admin~acl2.users.title"
