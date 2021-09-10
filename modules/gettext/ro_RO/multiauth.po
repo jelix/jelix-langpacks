@@ -1,10 +1,14 @@
 # 
+# Translators:
+# Igor Sorocean <sorocean.igor@gmail.com>, 2021
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: multiauth 1.1 multiauth\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-04 14:54++0100\n"
 "PO-Revision-Date: 2021-03-04 13:55+0000\n"
+"Last-Translator: Igor Sorocean <sorocean.igor@gmail.com>, 2021\n"
 "Language-Team: Romanian (https://www.transifex.com/3liz-1/teams/62012/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,12 +19,12 @@ msgstr ""
 #: multiauth~ldap.error.bindUserDN.missing
 msgctxt "multiauth~ldap.error.bindUserDN.missing"
 msgid "no bindUserDN config parameter"
-msgstr ""
+msgstr "niciun parametru de configurare bindUserDN"
 
 #: multiauth~ldap.error.db.profile.missing
 msgctxt "multiauth~ldap.error.db.profile.missing"
 msgid "database profile name is missing"
-msgstr ""
+msgstr "numele profilului bazei de date lipsește"
 
 #: multiauth~ldap.error.extension.unloaded
 msgctxt "multiauth~ldap.error.extension.unloaded"
@@ -97,7 +101,7 @@ msgstr ""
 #: multiauth~multiauth.choice.provider.password.label
 msgctxt "multiauth~multiauth.choice.provider.password.label"
 msgid "Password"
-msgstr ""
+msgstr "Parolă"
 
 #: multiauth~multiauth.message.bad.password
 msgctxt "multiauth~multiauth.message.bad.password"

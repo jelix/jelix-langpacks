@@ -1,6 +1,6 @@
 # 
 # Translators:
-# trendspotter, 2021
+# trendspotter <jirka.p@volny.cz>, 2021
 # Laurent Jouanneau <dev@ljouanneau.com>, 2021
 # 
 msgid ""
