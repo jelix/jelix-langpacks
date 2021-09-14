@@ -4,9 +4,9 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Lizmap Web Client jauthdb_admin 3.4.2-pre\n"
+"Project-Id-Version: jelix 1.6.33 jauthdb_admin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-26 14:54++0100\n"
+"POT-Creation-Date: 2021-09-14 10:05++0200\n"
 "PO-Revision-Date: 2021-02-26 16:03+0000\n"
 "Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
 "Language-Team: Greek (https://www.transifex.com/3liz-1/teams/62012/el/)\n"
@@ -205,7 +205,7 @@ msgstr "Λεπτομέρειες του χρήστη"
 
 #: jauthdb_admin~crud.view.otherinfo
 msgctxt "jauthdb_admin~crud.view.otherinfo"
-msgid "Other informations"
+msgid "Other information"
 msgstr "Άλλες πληροφορίες"
 
 #: jauthdb_admin~crud.view.primaryinfo
@@ -323,7 +323,7 @@ msgstr ""
 
 #: jauthdb_admin~user.view.otherinfo
 msgctxt "jauthdb_admin~user.view.otherinfo"
-msgid "Other informations"
+msgid "Other information"
 msgstr "Άλλες πληροφορίες"
 
 #: jauthdb_admin~user.view.primaryinfo
