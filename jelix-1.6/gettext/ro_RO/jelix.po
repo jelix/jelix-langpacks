@@ -5,9 +5,9 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Lizmap Web Client jelix 3.4.2-pre\n"
+"Project-Id-Version: jelix 1.6.33 jelix\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-26 14:54++0100\n"
+"POT-Creation-Date: 2021-09-14 10:05++0200\n"
 "PO-Revision-Date: 2021-02-26 16:03+0000\n"
 "Last-Translator: Igor Sorocean <sorocean.igor@gmail.com>, 2021\n"
 "Language-Team: Romanian (https://www.transifex.com/3liz-1/teams/62012/ro/)\n"
@@ -119,27 +119,27 @@ msgstr ""
 #: jelix~auth.ldap.extension.unloaded
 msgctxt "jelix~auth.ldap.extension.unloaded"
 msgid "(612)ldap extension unloaded"
-msgstr ""
+msgstr "(612)extensia ldap dezactivată"
 
 #: jelix~auth.ldap.object.user.unknown
 msgctxt "jelix~auth.ldap.object.user.unknown"
 msgid "(613)user object unknown"
-msgstr ""
+msgstr "(613)obiect utilizator necunoscut"
 
 #: jelix~auth.ldap.search.base.missing
 msgctxt "jelix~auth.ldap.search.base.missing"
 msgid "(610)ldap configuration: search base missing"
-msgstr ""
+msgstr "(610)configurație ldap: lipsă baza de căutare"
 
 #: jelix~auth.ldap.search.filter.missing
 msgctxt "jelix~auth.ldap.search.filter.missing"
 msgid "(611)ldap configuration: search filter missing"
-msgstr ""
+msgstr "(611)configurație ldap: filtrul de căutare lipsește"
 
 #: jelix~auth.ldap.user.login.unset
 msgctxt "jelix~auth.ldap.user.login.unset"
 msgid "(614)user identification unset"
-msgstr ""
+msgstr "(614)identificarea utilizatorului a fost anulată"
 
 #: jelix~cache.directory.not.writable
 msgctxt "jelix~cache.directory.not.writable"

@@ -4,9 +4,9 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Lizmap Web Client jacl2db 3.4.2-pre\n"
+"Project-Id-Version: jelix 1.6.33 jacl2db\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-26 14:54++0100\n"
+"POT-Creation-Date: 2021-09-14 10:05++0200\n"
 "PO-Revision-Date: 2021-02-26 16:03+0000\n"
 "Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
 "Language-Team: German (https://www.transifex.com/3liz-1/teams/62012/de/)\n"
