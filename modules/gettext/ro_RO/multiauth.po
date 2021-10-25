@@ -29,52 +29,52 @@ msgstr "numele profilului bazei de date lipsește"
 #: multiauth~ldap.error.extension.unloaded
 msgctxt "multiauth~ldap.error.extension.unloaded"
 msgid "ldap extension unloaded"
-msgstr ""
+msgstr "extensia ldap dezactivată"
 
 #: multiauth~ldap.error.ldap.profile.missing
 msgctxt "multiauth~ldap.error.ldap.profile.missing"
 msgid "ldap profile name is missing"
-msgstr ""
+msgstr "numele profilului ldap lipsește"
 
 #: multiauth~ldap.error.object.user.unknown
 msgctxt "multiauth~ldap.error.object.user.unknown"
 msgid "user object unknown"
-msgstr ""
+msgstr "obiectul utilizatorului necunoscut"
 
 #: multiauth~ldap.error.search.base.missing
 msgctxt "multiauth~ldap.error.search.base.missing"
 msgid "ldap configuration: search base missing"
-msgstr ""
+msgstr "configurație ldap: lipsă baza de căutare"
 
 #: multiauth~ldap.error.search.filter.missing
 msgctxt "multiauth~ldap.error.search.filter.missing"
 msgid "ldap configuration: search filter missing"
-msgstr ""
+msgstr "configurație ldap: filtrul de căutare lipsește"
 
 #: multiauth~ldap.error.searchUserFilter.missing
 msgctxt "multiauth~ldap.error.searchUserFilter.missing"
 msgid "no searchUserFilter config parameter"
-msgstr ""
+msgstr "niciun parametru de configurare searchUserFilter"
 
 #: multiauth~ldap.error.unsupported.password.change
 msgctxt "multiauth~ldap.error.unsupported.password.change"
 msgid "Password change is not supported"
-msgstr ""
+msgstr "Modificarea parolei nu este acceptată"
 
 #: multiauth~ldap.error.unsupported.user.creation
 msgctxt "multiauth~ldap.error.unsupported.user.creation"
 msgid "Creation of an account is not supported"
-msgstr ""
+msgstr "Crearea unui cont nu este acceptată"
 
 #: multiauth~ldap.error.unsupported.user.listing
 msgctxt "multiauth~ldap.error.unsupported.user.listing"
 msgid "Users listing is not supported"
-msgstr ""
+msgstr "Listarea utilizatorilor nu este acceptată"
 
 #: multiauth~ldap.error.user.login.unset
 msgctxt "multiauth~ldap.error.user.login.unset"
 msgid "user identification unset"
-msgstr ""
+msgstr "identificare utilizator dezactivată"
 
 #: multiauth~multiauth.account.update.reset.password
 msgctxt "multiauth~multiauth.account.update.reset.password"
@@ -82,21 +82,23 @@ msgid ""
 "You should reset the password of this user, after you changed his "
 "authentication method"
 msgstr ""
+"Ar trebui să resetați parola acestui utilizator, după ce i-ați schimbat "
+"metoda de autentificare"
 
 #: multiauth~multiauth.choice.provider.inexistant.user
 msgctxt "multiauth~multiauth.choice.provider.inexistant.user"
 msgid "The user is unknown by this authentication provider"
-msgstr ""
+msgstr "Utilizatorul este necunoscut de acest furnizor de autentificare"
 
 #: multiauth~multiauth.choice.provider.label
 msgctxt "multiauth~multiauth.choice.provider.label"
 msgid "Authentication provider"
-msgstr ""
+msgstr "Furnizor de autentificare"
 
 #: multiauth~multiauth.choice.provider.password.confirm.label
 msgctxt "multiauth~multiauth.choice.provider.password.confirm.label"
 msgid "Re-type the password"
-msgstr ""
+msgstr "Reintroduceți parola"
 
 #: multiauth~multiauth.choice.provider.password.label
 msgctxt "multiauth~multiauth.choice.provider.password.label"
@@ -108,24 +110,24 @@ msgctxt "multiauth~multiauth.message.bad.password"
 msgid ""
 "The password is bad, or the second password does not correspond to the first"
 " one"
-msgstr ""
+msgstr "Parola este greșită sau a doua parolă nu corespunde cu prima"
 
 #: multiauth~multiauth.provider.dbaccounts.label
 msgctxt "multiauth~multiauth.provider.dbaccounts.label"
 msgid "User accounts of the application"
-msgstr ""
+msgstr "Conturile de utilizator ale aplicației"
 
 #: multiauth~multiauth.provider.dbdao.label
 msgctxt "multiauth~multiauth.provider.dbdao.label"
 msgid "External users database"
-msgstr ""
+msgstr "Bază de date externă a utilizatorilor"
 
 #: multiauth~multiauth.provider.ldap.label
 msgctxt "multiauth~multiauth.provider.ldap.label"
 msgid "LDAP"
-msgstr ""
+msgstr "LDAP"
 
 #: multiauth~multiauth.user.provider.use
 msgctxt "multiauth~multiauth.user.provider.use"
 msgid "This user is authenticated with '%s'"
-msgstr ""
+msgstr "Acest utilizator este autentificat cu '%s'"
