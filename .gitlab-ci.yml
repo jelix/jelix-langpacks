@@ -10,6 +10,8 @@ build:
     name: "packages-${CI_COMMIT_SHA}"
     paths:
       - _dist
+  tags:
+    - jelix
 
 deploy:
   stage: deploy_package
@@ -17,3 +19,5 @@ deploy:
     - make deploy
   dependencies:
     - build
+  tags:
+    - jelix
