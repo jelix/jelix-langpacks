@@ -1,7 +1,6 @@
 # 
 # Translators:
-# Laurent Jouanneau <dev@ljouanneau.com>, 2021
-# Igor Sorocean <sorocean.igor@gmail.com>, 2021
+# Кадастр Муниципальный, 2022
 # 
 msgid ""
 msgstr ""
@@ -9,50 +8,50 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-14 10:05++0200\n"
 "PO-Revision-Date: 2021-02-26 16:03+0000\n"
-"Last-Translator: Igor Sorocean <sorocean.igor@gmail.com>, 2021\n"
-"Language-Team: Romanian (https://www.transifex.com/3liz-1/teams/62012/ro/)\n"
+"Last-Translator: Кадастр Муниципальный, 2022\n"
+"Language-Team: Ukrainian (Ukraine) (https://www.transifex.com/3liz-1/teams/62012/uk_UA/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ro\n"
-"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
 #: jacl2db~acl2db.acl.group.create
 msgctxt "jacl2db~acl2db.acl.group.create"
 msgid "Create a group"
-msgstr "Creează un grup"
+msgstr "Створити групу"
 
 #: jacl2db~acl2db.acl.group.delete
 msgctxt "jacl2db~acl2db.acl.group.delete"
 msgid "Delete a group"
-msgstr "Șterge un grup"
+msgstr "Видалити групу"
 
 #: jacl2db~acl2db.acl.group.modify
 msgctxt "jacl2db~acl2db.acl.group.modify"
 msgid "Modify groups and their rights"
-msgstr "Modificare grupuri și permisiunile lor"
+msgstr "Змінити групи та їх права"
 
 #: jacl2db~acl2db.acl.group.view
 msgctxt "jacl2db~acl2db.acl.group.view"
 msgid "View groups and their rights"
-msgstr "Vizualizare grupuri și permisiunile lor"
+msgstr "Перегляд груп та їх прав"
 
 #: jacl2db~acl2db.acl.grp.group.management
 msgctxt "jacl2db~acl2db.acl.grp.group.management"
 msgid "Users group rights management"
-msgstr "Gestionare permisiuni grup de utilizatori"
+msgstr "Керування правами групи користувачів"
 
 #: jacl2db~acl2db.acl.grp.user.management
 msgctxt "jacl2db~acl2db.acl.grp.user.management"
 msgid "Users rights management"
-msgstr "Gestionare permisiuni utilizator"
+msgstr "Управління правами користувачів"
 
 #: jacl2db~acl2db.acl.user.modify
 msgctxt "jacl2db~acl2db.acl.user.modify"
 msgid "Modify user rights"
-msgstr "Modificare permisiuni utilizator"
+msgstr "Змінити права користувача"
 
 #: jacl2db~acl2db.acl.user.view
 msgctxt "jacl2db~acl2db.acl.user.view"
 msgid "View user rights"
-msgstr "Vizualizare permisiuni utilizator"
+msgstr "Переглянути права користувача"
