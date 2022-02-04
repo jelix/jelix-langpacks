@@ -1,14 +1,15 @@
 # 
 # Translators:
 # Laurent Jouanneau <dev@ljouanneau.com>, 2021
+# José Macau <jose.macau@gmail.com>, 2022
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: multiauth 1.1 multiauth\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-04 14:54++0100\n"
+"POT-Creation-Date: 2022-02-04 11:42++0100\n"
 "PO-Revision-Date: 2021-03-04 13:55+0000\n"
-"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
+"Last-Translator: José Macau <jose.macau@gmail.com>, 2022\n"
 "Language-Team: Portuguese (https://www.transifex.com/3liz-1/teams/62012/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -82,6 +83,8 @@ msgid ""
 "You should reset the password of this user, after you changed his "
 "authentication method"
 msgstr ""
+"A palavra-passe deste utilizador deverá ser redefinida, após a alteração do "
+"seu método de autenticação"
 
 #: multiauth~multiauth.choice.provider.inexistant.user
 msgctxt "multiauth~multiauth.choice.provider.inexistant.user"
@@ -124,7 +127,7 @@ msgstr "Base de dados de utilizadores externos"
 #: multiauth~multiauth.provider.ldap.label
 msgctxt "multiauth~multiauth.provider.ldap.label"
 msgid "LDAP"
-msgstr ""
+msgstr "LDAP"
 
 #: multiauth~multiauth.user.provider.use
 msgctxt "multiauth~multiauth.user.provider.use"

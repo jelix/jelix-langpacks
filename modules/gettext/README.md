@@ -62,7 +62,7 @@ To retrieve them:
 
 - Add the locale into the `lang_map` into .tx/config
 - launch `./update_from_transifex.sh -f <langcode>` (ex: `./update_from_transifex.sh -f ja`)
-- launch `./convert_to_properties.sh /path/to/jelix/.jelixlocales.ini`
+- launch `./convert_to_properties.sh /path/to/project/.jelixlocales.ini`
 - commit the new directory into gettext and locales directories.
 
 Adding a new module

@@ -5,9 +5,9 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Lizmap Web Client jcommunity 3.4.2-pre\n"
+"Project-Id-Version: jcommunity 1.3 jcommunity\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-26 14:54++0100\n"
+"POT-Creation-Date: 2022-02-04 11:42++0100\n"
 "PO-Revision-Date: 2021-02-26 17:29+0000\n"
 "Last-Translator: Igor Sorocean <sorocean.igor@gmail.com>, 2021\n"
 "Language-Team: Romanian (https://www.transifex.com/3liz-1/teams/62012/ro/)\n"
@@ -20,22 +20,22 @@ msgstr ""
 #: jcommunity~account.admin.link.account.resent.validation.email
 msgctxt "jcommunity~account.admin.link.account.resent.validation.email"
 msgid "Resend the validation email"
-msgstr "Retrimiteţi e-mailul de validare"
+msgstr "Retrimite e-mailul de validare"
 
 #: jcommunity~account.admin.link.account.reset.password
 msgctxt "jcommunity~account.admin.link.account.reset.password"
 msgid "Reset his password"
-msgstr "Resetați parola"
+msgstr "Resetează parola"
 
 #: jcommunity~account.back.to.account
 msgctxt "jcommunity~account.back.to.account"
 msgid "Back to your profile"
-msgstr "Reveniți la profilul dvs."
+msgstr "Revenire la profil"
 
 #: jcommunity~account.cancel.and.back.to.account
 msgctxt "jcommunity~account.cancel.and.back.to.account"
 msgid "Cancel and back to your profile"
-msgstr "Anulați și reveniți la profilul dvs."
+msgstr "Anulare și revenire la profil"
 
 #: jcommunity~account.duration.day
 msgctxt "jcommunity~account.duration.day"
@@ -93,12 +93,12 @@ msgstr ""
 #: jcommunity~account.form.cancel
 msgctxt "jcommunity~account.form.cancel"
 msgid "Cancel"
-msgstr "Anulați"
+msgstr "Anulare"
 
 #: jcommunity~account.form.captcha
 msgctxt "jcommunity~account.form.captcha"
 msgid "Are you a human?"
-msgstr "Sunteți om?"
+msgstr "Ești om?"
 
 #: jcommunity~account.form.createdate
 msgctxt "jcommunity~account.form.createdate"
@@ -108,17 +108,17 @@ msgstr "Data creării contului"
 #: jcommunity~account.form.delete.account.confirm
 msgctxt "jcommunity~account.form.delete.account.confirm"
 msgid "Confirm by indicating your password."
-msgstr "Confirmați indicând parola dvs."
+msgstr "Confirmă indicând parola"
 
 #: jcommunity~account.form.delete.account.confirm.title
 msgctxt "jcommunity~account.form.delete.account.confirm.title"
 msgid "Confirm the deletion of your account"
-msgstr "Confirmați ștergerea contului"
+msgstr "Confirmă ștergerea contului"
 
 #: jcommunity~account.form.delete.account.done
 msgctxt "jcommunity~account.form.delete.account.done"
 msgid "Your account is now deleted. You are deconnected."
-msgstr "Contul dvs. este șters. Sunteți deconectat."
+msgstr "Contul este șters. Ai fost deconectat."
 
 #: jcommunity~account.form.delete.account.error.badpassword
 msgctxt "jcommunity~account.form.delete.account.error.badpassword"
@@ -131,28 +131,28 @@ msgid ""
 "Strange... Your account does not exist anymore, but your are still "
 "connected? Contact the site manager."
 msgstr ""
-"Ciudat... Contul dvs. nu mai există, dar dvs. sunteți încă conectat? "
-"Contactați administratorul site-ului."
+"Ciudat... Contul nu mai există, dar ești încă conectat? Contactează "
+"administratorul site-ului."
 
 #: jcommunity~account.form.delete.account.error.notremoved
 msgctxt "jcommunity~account.form.delete.account.error.notremoved"
 msgid "Impossible to delete your account. Contact the site manager."
-msgstr "Imposibil de șters contul. Contactați administratorul site-ului."
+msgstr "Imposibil de șters contul. Contactează administratorul site-ului."
 
 #: jcommunity~account.form.delete.account.error.wronguser
 msgctxt "jcommunity~account.form.delete.account.error.wronguser"
 msgid "Sorry, you are not supposed to be on this page..."
-msgstr "Ne pare rău, nu trebuie să fiți pe această pagină..."
+msgstr "Ne pare rău, nu trebuie să fii pe această pagină..."
 
 #: jcommunity~account.form.delete.account.submit
 msgctxt "jcommunity~account.form.delete.account.submit"
 msgid "Delete"
-msgstr "Ștergeți"
+msgstr "Șterge"
 
 #: jcommunity~account.form.delete.account.title
 msgctxt "jcommunity~account.form.delete.account.title"
 msgid "Deleting your account"
-msgstr "Ștergerea contului"
+msgstr "Ștergere cont"
 
 #: jcommunity~account.form.edit.profile.title
 msgctxt "jcommunity~account.form.edit.profile.title"
@@ -187,7 +187,7 @@ msgstr "Parolă"
 #: jcommunity~account.form.password.confirm
 msgctxt "jcommunity~account.form.password.confirm"
 msgid "Retype the password"
-msgstr "Reintroduceți parola"
+msgstr "Reintroduce parola"
 
 #: jcommunity~account.form.password.help
 msgctxt "jcommunity~account.form.password.help"
@@ -242,17 +242,17 @@ msgstr "Salvează"
 #: jcommunity~account.link.account.change.password
 msgctxt "jcommunity~account.link.account.change.password"
 msgid "Change your password"
-msgstr "Schimbați parola"
+msgstr "Schimbă parola"
 
 #: jcommunity~account.link.account.delete
 msgctxt "jcommunity~account.link.account.delete"
 msgid "Delete your account"
-msgstr "Ștergeți profilul"
+msgstr "Șterge profilul"
 
 #: jcommunity~account.link.profile.edit
 msgctxt "jcommunity~account.link.profile.edit"
 msgid "Edit your profile"
-msgstr "Editați profilul"
+msgstr "Editează profilul"
 
 #: jcommunity~account.profile.of
 msgctxt "jcommunity~account.profile.of"
@@ -267,19 +267,18 @@ msgstr "Utilizator necunoscut"
 #: jcommunity~login.access.forbidden.authenticated
 msgctxt "jcommunity~login.access.forbidden.authenticated"
 msgid "You cannot access to this page because your are connected."
-msgstr "Nu puteți accesa această pagină deoarece sunteți conectat."
+msgstr "Nu poți accesa această pagină deoarece ești conectat."
 
 #: jcommunity~login.access.forbidden.badstatus
 msgctxt "jcommunity~login.access.forbidden.badstatus"
 msgid ""
 "You cannot access to this page because the account has not the right status"
-msgstr ""
-"Nu puteți accesa această pagină, deoarece contul nu are starea corectă"
+msgstr "Nu poți accesa această pagină, deoarece contul nu are starea corectă"
 
 #: jcommunity~login.access.forbidden.wrong.user
 msgctxt "jcommunity~login.access.forbidden.wrong.user"
 msgid "You cannot access to this page belonging to another user."
-msgstr "Nu puteți accesa această pagină deoarece aparține altui utilizator."
+msgstr "Nu poți accesa această pagină deoarece aparține altui utilizator."
 
 #: jcommunity~login.access.not.available
 msgctxt "jcommunity~login.access.not.available"
@@ -299,7 +298,7 @@ msgstr "Înapoi la formularul de autentificare"
 #: jcommunity~login.cancel.and.back.to.login
 msgctxt "jcommunity~login.cancel.and.back.to.login"
 msgid "Cancel and return to the login form"
-msgstr "Anulați și reveniți la formularul de autentificare"
+msgstr "Anulare și revenire la formularul de autentificare"
 
 #: jcommunity~login.error
 msgctxt "jcommunity~login.error"
@@ -319,7 +318,7 @@ msgstr "În configurația plugin-ului „auth”, after_logout este gol"
 #: jcommunity~login.error.notlogged
 msgctxt "jcommunity~login.error.notlogged"
 msgid "You are not connected, you should sign in."
-msgstr "Nu sunteți conectat, trebuie să vă autentificați."
+msgstr "Nu ești conectat, trebuie să te autentifici."
 
 #: jcommunity~login.form.remember.me
 msgctxt "jcommunity~login.form.remember.me"
@@ -334,7 +333,7 @@ msgstr "Autentificare"
 #: jcommunity~login.login.account
 msgctxt "jcommunity~login.login.account"
 msgid "Your account"
-msgstr "Contul dvs."
+msgstr "Cont"
 
 #: jcommunity~login.login.password.reset
 msgctxt "jcommunity~login.login.password.reset"
@@ -354,17 +353,17 @@ msgstr "Deconectare"
 #: jcommunity~login.startpage.account.create
 msgctxt "jcommunity~login.startpage.account.create"
 msgid "Create an account"
-msgstr "Creați un cont"
+msgstr "Creează un cont"
 
 #: jcommunity~login.startpage.account.view
 msgctxt "jcommunity~login.startpage.account.view"
 msgid "View your profile"
-msgstr "Vizualizați profilul"
+msgstr "Vizualizare profil"
 
 #: jcommunity~login.startpage.connected
 msgctxt "jcommunity~login.startpage.connected"
 msgid "You are connected."
-msgstr "Sunteți conectat."
+msgstr "Ești conectat."
 
 #: jcommunity~login.startpage.login
 msgctxt "jcommunity~login.startpage.login"
@@ -379,17 +378,17 @@ msgstr "Deconectare"
 #: jcommunity~login.startpage.not.connected
 msgctxt "jcommunity~login.startpage.not.connected"
 msgid "You are not connected."
-msgstr "Nu sunteți conectat."
+msgstr "Nu ești conectat."
 
 #: jcommunity~login.startpage.password.reset
 msgctxt "jcommunity~login.startpage.password.reset"
 msgid "Reset your password"
-msgstr "Resetați parola"
+msgstr "Resetare parolă"
 
 #: jcommunity~login.startpage.youcan
 msgctxt "jcommunity~login.startpage.youcan"
 msgid "You can:"
-msgstr "Puteți:"
+msgstr "Poți:"
 
 #: jcommunity~mail.password.admin.reset.body.html
 msgctxt "jcommunity~mail.password.admin.reset.body.html"
@@ -408,16 +407,18 @@ msgid ""
 "\n"
 " <p>See you on {$domain_name}{$basePath}!</p>"
 msgstr ""
-"<p>Hello,</p> \n"
+"<p>Salut,</p> \n"
 "\n"
-"<p>The administrator of the web site <a href=\"{$website_uri}\" class=\"notexpandlink\">{$domain_name}{$basePath}</a> have been sent this email to you so you can change your password for the account <em>\"{$user->login}\"</em>.</p>\n"
+"<p>Administratorul site-ului web <a href=\"{$website_uri}\" class=\"notexpandlink\">{$domain_name}{$basePath}</a> \n"
+"a trimis acest e-mail pentru a putea schimba parola pentru contul <em>\"{$user->login}\"</em>.</p>\n"
 "\n"
-" <p>If you want to confirm the change, you should <a href=\"{$confirmation_link}\">click on this link</a>.</p>\n"
+" <p>Dacă dorești să confirmi modificarea, ar trebui <a href=\"{$confirmation_link}\">să faci clic pe acest link.</a></p>\n"
 "\n"
-" <p>You could then set a new password for your account. The link is valid {$validationKeyTTL}.</p>\n"
-" <p>If this request is an error or you don't want to confirm, ignore this mail,\\n and your password won't be changed.</p>\n"
+" <p>Apoi poți seta o nouă parolă pentru contul tău. Link-ul este valid {$validationKeyTTL}.</p>\n"
+" <p>Dacă această solicitare este o eroare sau nu dorești să confirmi, ignoră acest e-mail,\n"
+" iar parola nu va fi schimbată.</p>\n"
 "\n"
-" <p>See you on {$domain_name}{$basePath}!</p>"
+" <p>Ne vedem pe {$domain_name}{$basePath}!</p>"
 
 #: jcommunity~mail.password.admin.reset.subject
 msgctxt "jcommunity~mail.password.admin.reset.subject"
@@ -441,24 +442,24 @@ msgid ""
 "\n"
 " <p>See you now on {$domain_name}{$basePath}!</p>"
 msgstr ""
-"<p>Hello,</p>\n"
+"<p>Salut,</p>\n"
 "\n"
-"<p>You requested a password reset for your account <em>\"{$user->login|eschtml}\"</em>\n"
-"on the web site <a href=\"{$website_uri}\" class=\"notexpandlink\">{$domain_name}{$basePath}</a>.</p>\n"
+"<p>Ai solicitat o resetare a parolei pentru contul <em>\"{$user->login|eschtml}\"</em>\n"
+"pe site-ul web <a href=\"{$website_uri}\" class=\"notexpandlink\">{$domain_name}{$basePath}</a>.</p>\n"
 "\n"
-"<p>If you really want to change it, you should <a href=\"{$confirmation_link}\">click on this link</a>.</p>\n"
+"<p>Dacă vrei cu adevărat să-o schimbi, ar trebui <a href=\"{$confirmation_link}\">să faci clic pe acest  link</a>.</p>\n"
 "\n"
-"<p>You could then set a new password for your account. The link is valid {$validationKeyTTL}.</p>\n"
+"<p>Apoi poți seta o nouă parolă pentru contul tău. Link-ul este valid {$validationKeyTTL}.</p>\n"
 "\n"
-"<p>If this request is an error or you don't want to confirm, ignore this mail.\n"
-"Your password won't be changed.</p>\n"
+"<p>Dacă această solicitare este o eroare sau nu dorești să confirmi, ignoră acest e-mail.\n"
+"Parola nu va fi schimbată.</p>\n"
 "\n"
-"<p>See you now on {$domain_name}{$basePath}!</p>"
+"<p>Ne vedem pe {$domain_name}{$basePath}!</p>"
 
 #: jcommunity~mail.password.reset.subject
 msgctxt "jcommunity~mail.password.reset.subject"
 msgid "Reset of your password on the web site %s"
-msgstr "Resetați parola pe site-ul web %s"
+msgstr "Resetează parola pe site-ul web %s"
 
 #: jcommunity~mail.registration.admin.body.html
 msgctxt "jcommunity~mail.registration.admin.body.html"
@@ -479,9 +480,9 @@ msgstr ""
 "<p>Administratorul site-ului web <a href=\"{$website_uri}\" class=\"notexpandlink\">{$domain_name}{$basePath}</a>.\n"
 "v-a creat un cont, cu autentificarea <em>{$user->login}\"</em>.</p>\n"
 "\n"
-"<p>Înainte de a utiliza contul, ar trebui să confirmați înregistrarea prin \n"
+"<p>Înainte de a utiliza contul, ar trebui să confirmi înregistrarea prin \n"
 "<a href=\"{$confirmation_link}\">apăsrea acestui link</a>,\n"
-"indicând o nouă parolă. Link-ul este valid {$validationKeyTTL}.</p>\n"
+"iar apoi indicând o nouă parolă. Link-ul este valid {$validationKeyTTL}.</p>\n"
 "\n"
 "<p>Ne vedem pe {$domain_name}{$basePath}!</p>"
 
@@ -499,10 +500,10 @@ msgid ""
 msgstr ""
 "<p>Salut,</p>\n"
 "\n"
-"<p>Ați creat un cont nou pe <a href=\"{$website_uri}\" class=\"notexpandlink\">{$domain_name}{$basePath}</a>.\n"
+"<p>Ai creat un cont nou pe <a href=\"{$website_uri}\" class=\"notexpandlink\">{$domain_name}{$basePath}</a>.\n"
 "</p>\n"
 "\n"
-"<p>Înainte de a utiliza contul, ar trebui să confirmați înregistrarea prin \n"
+"<p>Înainte de a utiliza contul, ar trebui să confirmi înregistrarea prin \n"
 "<a href=\"{$confirmation_link}\">apăsrea acestui link</a>. Link-ul este valid {$validationKeyTTL}.</p>\n"
 "\n"
 "<p>Ne vedem pe {$domain_name}{$basePath}!</p>"
@@ -510,7 +511,7 @@ msgstr ""
 #: jcommunity~mail.registration.subject
 msgctxt "jcommunity~mail.registration.subject"
 msgid "Activating your account on the web site %s"
-msgstr "Activarea contului dvs. pe site-ul web %s"
+msgstr "Activare cont pe site-ul web %s"
 
 #: jcommunity~password.admin.form.back.to.account
 msgctxt "jcommunity~password.admin.form.back.to.account"
@@ -520,7 +521,7 @@ msgstr "Înapoi la contul"
 #: jcommunity~password.admin.form.email.button
 msgctxt "jcommunity~password.admin.form.email.button"
 msgid "Send the email to"
-msgstr "Trimiteți e-mailul la"
+msgstr "Trimite e-mailul la"
 
 #: jcommunity~password.admin.form.reset.html
 msgctxt "jcommunity~password.admin.form.reset.html"
@@ -547,7 +548,7 @@ msgid ""
 "The password of this user is already defined, please use the '--force' flag "
 "to override it."
 msgstr ""
-"Parola acestui utilizator este deja definită, utilizați semnalizatorul "
+"Parola acestui utilizator este deja definită, utilizează semnalizatorul "
 "„--force” pentru a o înlocui."
 
 #: jcommunity~password.change.cmdline.error.module
@@ -561,12 +562,12 @@ msgstr ""
 #: jcommunity~password.change.cmdline.error.unknown
 msgctxt "jcommunity~password.change.cmdline.error.unknown"
 msgid "Unknown user, please submit a valid user as a parameter."
-msgstr "Utilizator necunoscut, trimiteți un utilizator valid ca parametru."
+msgstr "Utilizator necunoscut, trimite un utilizator valid ca parametru."
 
 #: jcommunity~password.change.cmdline.help.description
 msgctxt "jcommunity~password.change.cmdline.help.description"
 msgid "Changes the password of an user."
-msgstr "Schimbați parola unui utilizator."
+msgstr "Schimbă parola unui utilizator."
 
 #: jcommunity~password.change.cmdline.help.option.force
 msgctxt "jcommunity~password.change.cmdline.help.option.force"
@@ -607,7 +608,7 @@ msgstr "Parola a fost schimbată cu succes."
 #: jcommunity~password.form.change.current.password.label
 msgctxt "jcommunity~password.form.change.current.password.label"
 msgid "Your current password"
-msgstr "Parola dvs. curentă"
+msgstr "Parola curentă"
 
 #: jcommunity~password.form.change.error.admin.badloginemail
 msgctxt "jcommunity~password.form.change.error.admin.badloginemail"
@@ -625,8 +626,8 @@ msgid ""
 "There was an error during the mail sending. Please retry later or contact "
 "the administrator."
 msgstr ""
-"A apărut o eroare la trimiterea e-mailului. Încercați din nou mai târziu sau"
-" contactați administratorul."
+"A apărut o eroare la trimiterea e-mailului. Încearcă din nou mai târziu sau "
+"contactează administratorul."
 
 #: jcommunity~password.form.change.error.alreadydone
 msgctxt "jcommunity~password.form.change.error.alreadydone"
@@ -663,7 +664,7 @@ msgid ""
 "Password change is not possible: the request has expired. Do an other "
 "request."
 msgstr ""
-"Schimbarea parolei nu este posibilă: cererea a expirat. Faceți o altă "
+"Schimbarea parolei nu este posibilă: cererea a expirat. Fă o altă "
 "solicitare."
 
 #: jcommunity~password.form.change.error.smtperror
@@ -672,8 +673,8 @@ msgid ""
 "There was an error during the mail sending. Please retry later or contact "
 "the administrator."
 msgstr ""
-"A apărut o eroare la trimiterea e-mailului. Încercați din nou mai târziu sau"
-" contactați administratorul."
+"A apărut o eroare la trimiterea e-mailului. Încearcă din nou mai târziu sau "
+"contactează administratorul."
 
 #: jcommunity~password.form.change.ok
 msgctxt "jcommunity~password.form.change.ok"
@@ -683,17 +684,17 @@ msgstr "Noua parolă este acum salvată."
 #: jcommunity~password.form.change.password.label
 msgctxt "jcommunity~password.form.change.password.label"
 msgid "Your new password"
-msgstr "Noua dvs. parolă"
+msgstr "Noua parolă"
 
 #: jcommunity~password.form.change.reset.ok
 msgctxt "jcommunity~password.form.change.reset.ok"
 msgid "The new password is now saved. You can sign in now."
-msgstr "Noua parolă este acum salvată. Acum vă puteți autentifica."
+msgstr "Noua parolă este salvată. Acum te poți autentifica."
 
 #: jcommunity~password.form.change.submit
 msgctxt "jcommunity~password.form.change.submit"
 msgid "Change"
-msgstr "Schimbați"
+msgstr "Schimbare"
 
 #: jcommunity~password.form.change.text.html
 msgctxt "jcommunity~password.form.change.text.html"
@@ -740,13 +741,13 @@ msgid ""
 "Password creation is not possible: the request has expired. Contact an "
 "administrator"
 msgstr ""
-"Crearea parolelor nu este posibilă: solicitarea a expirat. Contactați un "
+"Crearea parolelor nu este posibilă: solicitarea a expirat. Contactează un "
 "administrator"
 
 #: jcommunity~password.form.create.text.html
 msgctxt "jcommunity~password.form.create.text.html"
 msgid "<p>Indicate your new password.</p>"
-msgstr "<p>Introduceți noua parolă</p>"
+msgstr "<p>Introdu noua parolă</p>"
 
 #: jcommunity~password.form.create.title
 msgctxt "jcommunity~password.form.create.title"
@@ -756,7 +757,7 @@ msgstr "Creare cont"
 #: jcommunity~password.form.submit
 msgctxt "jcommunity~password.form.submit"
 msgid "Send the email"
-msgstr "Trimiteți e-mailul"
+msgstr "Trimite e-mailul"
 
 #: jcommunity~password.form.text.html
 msgctxt "jcommunity~password.form.text.html"
@@ -766,15 +767,15 @@ msgid ""
 "will be sent with a link to a page allowing you to choose a new "
 "password.</p>"
 msgstr ""
-"<p>Dacă ați uitat parola, completați formularul următor cu numele de "
-"utilizator și e-mailul pe care l-ați configurat în profilul dvs.</p> <p>Vă "
-"vom trimite un e-mail cu un link către o pagină care vă va permite să "
-"alegeți o nouă parolă.</p>"
+"<p>Dacă ai uitat parola, completează formularul următor cu numele de "
+"utilizator și e-mailul pe care l-ai configurat în profil.</p> <p>Vom trimite"
+" un e-mail cu un link către o pagină care va permite să alegi o nouă "
+"parolă.</p>"
 
 #: jcommunity~password.form.title
 msgctxt "jcommunity~password.form.title"
 msgid "Resetting the password"
-msgstr "Resetați parola"
+msgstr "Resetează parola"
 
 #: jcommunity~password.mail.pwd.change.subject
 msgctxt "jcommunity~password.mail.pwd.change.subject"
@@ -790,7 +791,7 @@ msgstr "A apărut o eroare la resetarea parolei."
 msgctxt "jcommunity~password.reset.cmdline.help.description"
 msgid "Send an email with a password reset link to an user."
 msgstr ""
-"Trimiteți un e-mail cu un link de resetare a parolei către un utilizator."
+"Trimite un e-mail cu un link de resetare a parolei către un utilizator."
 
 #: jcommunity~password.reset.cmdline.help.parameter.login
 msgctxt "jcommunity~password.reset.cmdline.help.parameter.login"
@@ -817,18 +818,18 @@ msgid ""
 "allows you to change your password. This link is valid only 48 hours.</p> "
 "<p>The current password is still valid as long as you don't change it.</p>"
 msgstr ""
-"<p>Un e-mail a fost trimis la adresa pe care ați indicat-o. Dacă în câteva "
-"minute nu îl vedeți în mesaje primite, verificați dosarul SPAM. Dacă nu ați "
-"primit e-mailul, probabil că numele de utilizator și e-mailul pe care l-ați "
-"indicat sunt greșite. Contactați administratorul site-ului web.</p> <p>Acest"
-" e-mail conține un link către o pagină care vă permite să vă schimbați "
+"<p>Un e-mail a fost trimis la adresa pe care ai indicat-o. Dacă în câteva "
+"minute nu îl găsești în mesaje primite, verifică dosarul SPAM. Dacă nu ai "
+"primit e-mailul, probabil că numele de utilizator și e-mailul pe care l-ai "
+"indicat sunt greșite. Contactează administratorul site-ului web.</p> "
+"<p>Acest e-mail conține un link către o pagină care îți permite să schimbi "
 "parola. Acest link este valabil doar 48 de ore.</p> <p>Parola curentă este "
-"încă valabilă atâta timp cât nu o schimbați.</p>"
+"încă valabilă atâta timp cât nu o schimbi.</p>"
 
 #: jcommunity~prefs.admin.prefs.change
 msgctxt "jcommunity~prefs.admin.prefs.change"
 msgid "Modify preferences of jCommunity"
-msgstr "Editați preferințele jCommunity"
+msgstr "Editare preferințe jCommunity"
 
 #: jcommunity~prefs.group.jcommunity
 msgctxt "jcommunity~prefs.group.jcommunity"
@@ -863,14 +864,14 @@ msgid ""
 "you that the validation key he received has expired.</p>"
 msgstr ""
 "<p>Un e-mail cu o nouă cheie de validare va fi trimis utilizatorului „%s” "
-"care are un cont nevalidat. Utilizați această caracteristică când "
+"care are un cont nevalidat. Utilizează această caracteristică când "
 "utilizatorul v-a informat că cheia de validare pe care a primit-o a "
 "expirat.</p>"
 
 #: jcommunity~register.admin.resend.email.title
 msgctxt "jcommunity~register.admin.resend.email.title"
 msgid "Account creation: resend the validation email"
-msgstr "Creare contul: trimiteți din nou e-mailul de validare"
+msgstr "Creare cont: trimite din nou e-mailul de validare"
 
 #: jcommunity~register.cmdline.create.help.description
 msgctxt "jcommunity~register.cmdline.create.help.description"
@@ -895,7 +896,7 @@ msgstr "generează un link de resetare și îl trimite la e-mail"
 #: jcommunity~register.cmdline.create.help.option.verbose
 msgctxt "jcommunity~register.cmdline.create.help.option.verbose"
 msgid "enable verbose mode"
-msgstr "activați modul detaliat"
+msgstr "activează modul detaliat"
 
 #: jcommunity~register.cmdline.create.help.parameter.email
 msgctxt "jcommunity~register.cmdline.create.help.parameter.email"
@@ -937,6 +938,21 @@ msgstr ""
 "php cmdline.php jcommunity~user:create [-v] [--admin] [--reset] login email "
 "[password]"
 
+#: jcommunity~register.cmdline.delete.help.description
+msgctxt "jcommunity~register.cmdline.delete.help.description"
+msgid "Delete a user account"
+msgstr ""
+
+#: jcommunity~register.cmdline.delete.help.parameter.login
+msgctxt "jcommunity~register.cmdline.delete.help.parameter.login"
+msgid "The login of the account to delete"
+msgstr ""
+
+#: jcommunity~register.cmdline.delete.help.text
+msgctxt "jcommunity~register.cmdline.delete.help.text"
+msgid "Delete a user account"
+msgstr ""
+
 #: jcommunity~register.email.bad.format
 msgctxt "jcommunity~register.email.bad.format"
 msgid "Wrong email format"
@@ -945,7 +961,7 @@ msgstr "Format de e-mail greșit"
 #: jcommunity~register.form.create.submit
 msgctxt "jcommunity~register.form.create.submit"
 msgid "Create the account"
-msgstr "Creați contul"
+msgstr "Creează contul"
 
 #: jcommunity~register.form.create.text.html
 msgctxt "jcommunity~register.form.create.text.html"
@@ -954,14 +970,14 @@ msgid ""
 "sent to you with a link to confirm your registration. You could then "
 "identified yourself on the web site.</p>"
 msgstr ""
-"<p>Înregistrați-vă completând formularul următor.</p> <p>Vă va fi trimis un "
-"e-mail cu un link pentru a vă confirma înregistrarea. Vă puteți identifica "
-"apoi pe site-ul web.</p>"
+"<p>Înregistrează-te completând formularul următor.</p> <p>Va fi trimis un "
+"e-mail cu un link pentru a confirma înregistrarea. Te poți identifica apoi "
+"pe site-ul web.</p>"
 
 #: jcommunity~register.form.create.title
 msgctxt "jcommunity~register.form.create.title"
 msgid "Create an account"
-msgstr "Creați un cont"
+msgstr "Creează un cont"
 
 #: jcommunity~register.form.login.exists
 msgctxt "jcommunity~register.form.login.exists"
@@ -971,7 +987,7 @@ msgstr "Acest nume de utilizator există deja"
 #: jcommunity~register.mail.new.subject
 msgctxt "jcommunity~register.mail.new.subject"
 msgid "Activating your account on the web site %s"
-msgstr "Activarea contului dvs. pe site-ul web %s"
+msgstr "Activarea contului pe site-ul web %s"
 
 #: jcommunity~register.registration.cmdline.ok
 msgctxt "jcommunity~register.registration.cmdline.ok"
@@ -983,7 +999,7 @@ msgctxt "jcommunity~register.registration.confirm.alreadydone"
 msgid ""
 "Your account is already activated. You can identify yourself on the web "
 "site."
-msgstr "Contul dvs. este deja activat. Vă puteți identifica pe site-ul web."
+msgstr "Contul este deja activat. Te poți identifica pe site-ul web."
 
 #: jcommunity~register.registration.confirm.badkey
 msgctxt "jcommunity~register.registration.confirm.badkey"
@@ -994,7 +1010,7 @@ msgstr ""
 #: jcommunity~register.registration.confirm.badstatus
 msgctxt "jcommunity~register.registration.confirm.badstatus"
 msgid "Activation is not possible: your account is not a new one."
-msgstr "Activarea nu este posibilă: contul dvs. nu este unul nou."
+msgstr "Activarea nu este posibilă: contul nu este unul nou."
 
 #: jcommunity~register.registration.confirm.expiredkey
 msgctxt "jcommunity~register.registration.confirm.expiredkey"
@@ -1002,13 +1018,13 @@ msgid ""
 "Activation is not possible: the request has expired. Ask the administrator "
 "of the web site to activate your account"
 msgstr ""
-"Activarea nu este posibilă: solicitarea a expirat. Solicitați "
-"administratorului site-ului web să vă activeze contul"
+"Activarea nu este posibilă: solicitarea a expirat. Solicită "
+"administratorului site-ului web să activeze contul"
 
 #: jcommunity~register.registration.confirm.ok
 msgctxt "jcommunity~register.registration.confirm.ok"
 msgid "Your account is activated. You can identify yourself on the web site."
-msgstr "Contul dvs. este activat. Vă puteți identifica pe site-ul web."
+msgstr "Contul este activat. Te poți identifica pe site-ul web."
 
 #: jcommunity~register.registration.confirm.title
 msgctxt "jcommunity~register.registration.confirm.title"
@@ -1028,11 +1044,10 @@ msgid ""
 "containing a link on which you must click. Verify your spam folder if you "
 "don't see this email in your inbox.</p>"
 msgstr ""
-"<p>Contul dvs. este creat, dar înainte de a-l folosi, trebuie să vă "
-"confirmăm adresa de e-mail.</p> <p>Pentru a vă confirma e-mailul, tocmai "
-"v-am trimis un e-mail care conține un link pe care trebuie să faceți clic. "
-"Verificați dosarul de spam dacă nu vedeți acest e-mail în căsuța de mesaje "
-"primite.</p>"
+"<p>Contul este creat, dar înainte de a-l folosi, trebuie să confirmăm adresa"
+" de e-mail.</p> <p>Pentru a confirma e-mailul, tocmai am trimis un e-mail "
+"care conține un link pe care trebuie să faci clic. Verifică dosarul de spam "
+"dacă nu găsești acest e-mail în căsuța de mesaje primite.</p>"
 
 #: jcommunity~register.registration.waiting.title
 msgctxt "jcommunity~register.registration.waiting.title"

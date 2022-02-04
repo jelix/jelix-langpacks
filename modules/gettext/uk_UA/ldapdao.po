@@ -1,0 +1,77 @@
+# 
+# Translators:
+# Кадастр Муниципальный, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ldapdao-module 2.2 ldapdao\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-04 11:43++0100\n"
+"PO-Revision-Date: 2021-03-04 13:50+0000\n"
+"Last-Translator: Кадастр Муниципальный, 2022\n"
+"Language-Team: Ukrainian (Ukraine) (https://www.transifex.com/3liz-1/teams/62012/uk_UA/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: ldapdao~errors.bindUserDN.missing
+msgctxt "ldapdao~errors.bindUserDN.missing"
+msgid "no bindUserDN config parameter"
+msgstr "немає конфігураційного параметра bindUserDN"
+
+#: ldapdao~errors.db.profile.missing
+msgctxt "ldapdao~errors.db.profile.missing"
+msgid "(616)database profile name is missing"
+msgstr "(616)відсутня назва профілю бази даних"
+
+#: ldapdao~errors.extension.unloaded
+msgctxt "ldapdao~errors.extension.unloaded"
+msgid "(612)ldap extension unloaded"
+msgstr "(612)ldap розширення завантажене"
+
+#: ldapdao~errors.ldap.profile.missing
+msgctxt "ldapdao~errors.ldap.profile.missing"
+msgid "(615)ldap profile name is missing"
+msgstr "(615)назва профілю ldap відсутня"
+
+#: ldapdao~errors.object.user.unknown
+msgctxt "ldapdao~errors.object.user.unknown"
+msgid "(613)user object unknown"
+msgstr "(613)об'єкт користувача невідомий"
+
+#: ldapdao~errors.search.base.missing
+msgctxt "ldapdao~errors.search.base.missing"
+msgid "(610)ldap configuration: search base missing"
+msgstr "(610) конфігурація ldap: відсутня база пошуку"
+
+#: ldapdao~errors.search.filter.missing
+msgctxt "ldapdao~errors.search.filter.missing"
+msgid "(611)ldap configuration: search filter missing"
+msgstr "(611)Конфігурація ldap: відсутній фільтр пошуку"
+
+#: ldapdao~errors.searchUserFilter.missing
+msgctxt "ldapdao~errors.searchUserFilter.missing"
+msgid "no searchUserFilter config parameter"
+msgstr "немає параметра конфігурації searchUserFilter"
+
+#: ldapdao~errors.unsupported.password.change
+msgctxt "ldapdao~errors.unsupported.password.change"
+msgid "Password change is not supported"
+msgstr "Зміна пароля не підтримується"
+
+#: ldapdao~errors.unsupported.user.creation
+msgctxt "ldapdao~errors.unsupported.user.creation"
+msgid "Creation of an account is not supported"
+msgstr "Створення облікового запису не підтримується"
+
+#: ldapdao~errors.unsupported.user.listing
+msgctxt "ldapdao~errors.unsupported.user.listing"
+msgid "Users listing is not supported"
+msgstr "Список користувачів не підтримується"
+
+#: ldapdao~errors.user.login.unset
+msgctxt "ldapdao~errors.user.login.unset"
+msgid "(614)user identification unset"
+msgstr "(614)ідентифікацію користувача не встановлено"
