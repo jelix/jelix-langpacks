@@ -1,0 +1,80 @@
+# 
+# Translators:
+# Кадастр Муниципальный, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: jelix 1.7.8 master_admin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-04 11:32++0100\n"
+"PO-Revision-Date: 2021-07-23 16:39+0000\n"
+"Last-Translator: Кадастр Муниципальный, 2022\n"
+"Language-Team: Ukrainian (Ukraine) (https://www.transifex.com/3liz-1/teams/62012/uk_UA/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: master_admin~gui.dashboard.nowidget
+msgctxt "master_admin~gui.dashboard.nowidget"
+msgid ""
+"No widget for the dashboard. Simply click on one of the links in the menu."
+msgstr ""
+"Немає віджета для приладової панелі. Просто натисніть на одне з посилань у "
+"меню."
+
+#: master_admin~gui.dashboard.title
+msgctxt "master_admin~gui.dashboard.title"
+msgid "Dashboard"
+msgstr "Панель приладів"
+
+#: master_admin~gui.header.disconnect
+msgctxt "master_admin~gui.header.disconnect"
+msgid "Logout"
+msgstr "Вийти"
+
+#: master_admin~gui.header.title
+msgctxt "master_admin~gui.header.title"
+msgid "Administration"
+msgstr "Адміністрація"
+
+#: master_admin~gui.header.user
+msgctxt "master_admin~gui.header.user"
+msgid "User:"
+msgstr "Користувач:"
+
+#: master_admin~gui.header.your.account
+msgctxt "master_admin~gui.header.your.account"
+msgid "My account"
+msgstr "Мій акаунт"
+
+#: master_admin~gui.main.nocontent
+msgctxt "master_admin~gui.main.nocontent"
+msgid "No content. Click on one of the menu links."
+msgstr "Немає вмісту. Натисніть на одне з посилань меню."
+
+#: master_admin~gui.menu.item.crud
+msgctxt "master_admin~gui.menu.item.crud"
+msgid "Data management"
+msgstr ""
+
+#: master_admin~gui.menu.item.dashboard
+msgctxt "master_admin~gui.menu.item.dashboard"
+msgid "Dashboard"
+msgstr "Панель приладів"
+
+#: master_admin~gui.menu.item.refdata
+msgctxt "master_admin~gui.menu.item.refdata"
+msgid "Reference Data"
+msgstr "Довідкові дані"
+
+#: master_admin~gui.menu.item.system
+msgctxt "master_admin~gui.menu.item.system"
+msgid "System"
+msgstr "Система"
+
+#: master_admin~gui.message.admin.password
+msgctxt "master_admin~gui.message.admin.password"
+msgid "You have got the default password, you should change it immediatly."
+msgstr "У вас є пароль за замовчуванням, вам слід негайно його змінити."

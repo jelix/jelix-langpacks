@@ -1,14 +1,15 @@
 # 
 # Translators:
 # Laurent Jouanneau <dev@ljouanneau.com>, 2021
+# Igor Sorocean <sorocean.igor@gmail.com>, 2022
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: jelix 1.6.33 master_admin\n"
+"Project-Id-Version: jelix 1.7.8 master_admin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-23 18:31++0200\n"
+"POT-Creation-Date: 2022-02-04 11:32++0100\n"
 "PO-Revision-Date: 2021-07-23 16:39+0000\n"
-"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
+"Last-Translator: Igor Sorocean <sorocean.igor@gmail.com>, 2022\n"
 "Language-Team: Romanian (https://www.transifex.com/3liz-1/teams/62012/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +23,7 @@ msgid ""
 "No widget for the dashboard. Simply click on one of the links in the menu."
 msgstr ""
 "Nu există widget-uri pentru tabloul de bord. Pur și simplu faceți clic pe "
-"unul dintre linkurile din meniu."
+"unul dintre linkurile din meniu"
 
 #: master_admin~gui.dashboard.title
 msgctxt "master_admin~gui.dashboard.title"
@@ -53,6 +54,11 @@ msgstr "Contul meu"
 msgctxt "master_admin~gui.main.nocontent"
 msgid "No content. Click on one of the menu links."
 msgstr "Fără conținut de afișat. Selectați unul dintre elementele din meniu."
+
+#: master_admin~gui.menu.item.crud
+msgctxt "master_admin~gui.menu.item.crud"
+msgid "Data management"
+msgstr ""
 
 #: master_admin~gui.menu.item.dashboard
 msgctxt "master_admin~gui.menu.item.dashboard"

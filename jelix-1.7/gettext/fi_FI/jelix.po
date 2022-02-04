@@ -4,9 +4,9 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: jelix 1.6.33 jelix\n"
+"Project-Id-Version: jelix 1.7.8 jelix\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-23 18:31++0200\n"
+"POT-Creation-Date: 2022-02-04 11:32++0100\n"
 "PO-Revision-Date: 2021-07-23 16:39+0000\n"
 "Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
 "Language-Team: Finnish (https://www.transifex.com/3liz-1/teams/62012/fi/)\n"
@@ -425,6 +425,11 @@ msgctxt "jelix~crud.title.create"
 msgid "Create a new record"
 msgstr "Luo uusi tieto"
 
+#: jelix~crud.title.filter
+msgctxt "jelix~crud.title.filter"
+msgid "Search"
+msgstr ""
+
 #: jelix~crud.title.list
 msgctxt "jelix~crud.title.list"
 msgid "List"
@@ -434,6 +439,11 @@ msgstr "Luettelo"
 msgctxt "jelix~crud.title.pages"
 msgid "Pages"
 msgstr "Sivut"
+
+#: jelix~crud.title.results
+msgctxt "jelix~crud.title.results"
+msgid "Results (%s)"
+msgstr ""
 
 #: jelix~crud.title.update
 msgctxt "jelix~crud.title.update"
@@ -2203,6 +2213,11 @@ msgstr "Laita voimaan"
 msgctxt "jelix~ui.buttons.enabled"
 msgid "Enabled"
 msgstr "Voimassaoleva"
+
+#: jelix~ui.buttons.erase
+msgctxt "jelix~ui.buttons.erase"
+msgid "Erase"
+msgstr ""
 
 #: jelix~ui.buttons.export
 msgctxt "jelix~ui.buttons.export"

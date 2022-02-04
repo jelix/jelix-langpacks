@@ -4,9 +4,9 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: jelix 1.6.33 master_admin\n"
+"Project-Id-Version: jelix 1.7.8 master_admin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-23 18:31++0200\n"
+"POT-Creation-Date: 2022-02-04 11:32++0100\n"
 "PO-Revision-Date: 2021-07-23 16:39+0000\n"
 "Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
 "Language-Team: Slovak (https://www.transifex.com/3liz-1/teams/62012/sk/)\n"
@@ -53,6 +53,11 @@ msgstr "Môj účet"
 msgctxt "master_admin~gui.main.nocontent"
 msgid "No content. Click on one of the menu links."
 msgstr "Žiadny obsah. Kliknite na jeden z odkazov ponuky."
+
+#: master_admin~gui.menu.item.crud
+msgctxt "master_admin~gui.menu.item.crud"
+msgid "Data management"
+msgstr ""
 
 #: master_admin~gui.menu.item.dashboard
 msgctxt "master_admin~gui.menu.item.dashboard"

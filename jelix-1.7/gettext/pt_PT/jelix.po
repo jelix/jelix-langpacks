@@ -1,14 +1,15 @@
 # 
 # Translators:
 # Laurent Jouanneau <dev@ljouanneau.com>, 2021
+# José Macau <jose.macau@gmail.com>, 2022
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: jelix 1.6.33 jelix\n"
+"Project-Id-Version: jelix 1.7.8 jelix\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-23 18:31++0200\n"
+"POT-Creation-Date: 2022-02-04 11:32++0100\n"
 "PO-Revision-Date: 2021-07-23 16:39+0000\n"
-"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
+"Last-Translator: José Macau <jose.macau@gmail.com>, 2022\n"
 "Language-Team: Portuguese (https://www.transifex.com/3liz-1/teams/62012/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -118,7 +119,7 @@ msgstr "(613)objeto do utilizador desconhecido"
 #: jelix~auth.ldap.profile.missing
 msgctxt "jelix~auth.ldap.profile.missing"
 msgid "(615)profile name is missing"
-msgstr ""
+msgstr "(615)nome do perfil em falta"
 
 #: jelix~auth.ldap.search.base.missing
 msgctxt "jelix~auth.ldap.search.base.missing"
@@ -427,6 +428,11 @@ msgctxt "jelix~crud.title.create"
 msgid "Create a new record"
 msgstr "Criar um novo registo"
 
+#: jelix~crud.title.filter
+msgctxt "jelix~crud.title.filter"
+msgid "Search"
+msgstr ""
+
 #: jelix~crud.title.list
 msgctxt "jelix~crud.title.list"
 msgid "List"
@@ -436,6 +442,11 @@ msgstr "Listar"
 msgctxt "jelix~crud.title.pages"
 msgid "Pages"
 msgstr "Páginas"
+
+#: jelix~crud.title.results
+msgctxt "jelix~crud.title.results"
+msgid "Results (%s)"
+msgstr ""
 
 #: jelix~crud.title.update
 msgctxt "jelix~crud.title.update"
@@ -480,7 +491,7 @@ msgstr "(503)Operador fornecido \"%s\" inválido"
 #: jelix~dao.error.builder.notfound
 msgctxt "jelix~dao.error.builder.notfound"
 msgid "(505)Dao builder plugin \"%s\" is not found"
-msgstr ""
+msgstr "(505)plugin do construtor DAO \"%s\" não encontrado"
 
 #: jelix~dao.error.keys.missing
 msgctxt "jelix~dao.error.keys.missing"
@@ -546,6 +557,8 @@ msgid ""
 "(566)DAO %1$s, method %3$s, the type of the database used here is not "
 "allowed according to the definition of the condition (file %2$s)"
 msgstr ""
+"(566)DAO %1$s, método%3$s, o tipo de base de dados aqui utilizado não é "
+"permitido de acordo com a definição da condição (ficheiro %2$s)"
 
 #: jelix~daoxml.method.condition.driver.notallowed
 msgctxt "jelix~daoxml.method.condition.driver.notallowed"
@@ -553,6 +566,8 @@ msgid ""
 "(561)DAO %1$s, method %3$s, the driver of the database used here is not "
 "allowed according to the definition of the condition (file %2$s)"
 msgstr ""
+"(561)DAO %1$s, método %3$s, o driver da base de dados aqui utilizado não é "
+"permitido de acordo com a condição (ficheiro %2$s)"
 
 #: jelix~daoxml.method.condition.innotin.bad.expr
 msgctxt "jelix~daoxml.method.condition.innotin.bad.expr"
@@ -642,6 +657,8 @@ msgid ""
 "(563)DAO %1$s, method %3$s, unknown parameter %4$s in the orderitem tag "
 "(file %2$s)"
 msgstr ""
+"(563)DAO %1$s, método %3$s, parâmetro desconhecido %4$s na tag do item "
+"pedido (ficheiro%2$s)"
 
 #: jelix~daoxml.method.orderitem.property.missing
 msgctxt "jelix~daoxml.method.orderitem.property.missing"
@@ -771,6 +788,8 @@ msgid ""
 "(535)DAO %1$s, property %3$s non numeric cannot be auto incremented (file "
 "%2$s)"
 msgstr ""
+"(535)DAO %1$s, propriedade%3$s propriedade não numérica não pode ser "
+"incrementada automaticamente (ficheiro %2$s)"
 
 #: jelix~daoxml.property.imported.unknown.table
 msgctxt "jelix~daoxml.property.imported.unknown.table"
@@ -2028,7 +2047,7 @@ msgstr "Editar a imagem"
 #: jelix~jforms.upload.picture.edit.reset
 msgctxt "jelix~jforms.upload.picture.edit.reset"
 msgid "reset"
-msgstr "reiniciar"
+msgstr "Reiniciar"
 
 #: jelix~jforms.upload.picture.edit.rotateRight
 msgctxt "jelix~jforms.upload.picture.edit.rotateRight"
@@ -2212,6 +2231,11 @@ msgstr "Ativar"
 msgctxt "jelix~ui.buttons.enabled"
 msgid "Enabled"
 msgstr "Ativado"
+
+#: jelix~ui.buttons.erase
+msgctxt "jelix~ui.buttons.erase"
+msgid "Erase"
+msgstr ""
 
 #: jelix~ui.buttons.export
 msgctxt "jelix~ui.buttons.export"
