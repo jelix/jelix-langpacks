@@ -340,12 +340,12 @@ msgstr "Права на ресурси"
 #: jacl2db_admin~acl2.rights.link
 msgctxt "jacl2db_admin~acl2.rights.link"
 msgid "rights"
-msgstr "вірно"
+msgstr "Права"
 
 #: jacl2db_admin~acl2.rights.title
 msgctxt "jacl2db_admin~acl2.rights.title"
 msgid "Rights"
-msgstr "Вірно"
+msgstr "Права"
 
 #: jacl2db_admin~acl2.save.button
 msgctxt "jacl2db_admin~acl2.save.button"
@@ -380,7 +380,7 @@ msgstr "Групи"
 #: jacl2db_admin~acl2.table.th.rights
 msgctxt "jacl2db_admin~acl2.table.th.rights"
 msgid "Rights"
-msgstr "Вірно"
+msgstr "Права"
 
 #: jacl2db_admin~acl2.user.rightres.title
 msgctxt "jacl2db_admin~acl2.user.rightres.title"
