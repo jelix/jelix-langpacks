@@ -1,0 +1,57 @@
+# 
+# Translators:
+# Laurent Jouanneau <dev@ljouanneau.com>, 2022
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: jelix 1.8.0 jacl2db\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-21 16:28++0200\n"
+"PO-Revision-Date: 2022-07-21 14:29+0000\n"
+"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2022\n"
+"Language-Team: French (https://www.transifex.com/3liz-1/teams/62012/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: jacl2db~acl2db.acl.group.create
+msgctxt "jacl2db~acl2db.acl.group.create"
+msgid "Create a group"
+msgstr "Créer un groupe"
+
+#: jacl2db~acl2db.acl.group.delete
+msgctxt "jacl2db~acl2db.acl.group.delete"
+msgid "Delete a group"
+msgstr "Détruire un groupe"
+
+#: jacl2db~acl2db.acl.group.modify
+msgctxt "jacl2db~acl2db.acl.group.modify"
+msgid "Modify groups and their rights"
+msgstr "Modifier les groupes et leurs droits"
+
+#: jacl2db~acl2db.acl.group.view
+msgctxt "jacl2db~acl2db.acl.group.view"
+msgid "View groups and their rights"
+msgstr "Voir les groupes et leurs droits"
+
+#: jacl2db~acl2db.acl.grp.group.management
+msgctxt "jacl2db~acl2db.acl.grp.group.management"
+msgid "Users group rights management"
+msgstr "Gestion des droits des groupes d'utilisateurs"
+
+#: jacl2db~acl2db.acl.grp.user.management
+msgctxt "jacl2db~acl2db.acl.grp.user.management"
+msgid "Users rights management"
+msgstr "Gestion des droits des utilisateurs"
+
+#: jacl2db~acl2db.acl.user.modify
+msgctxt "jacl2db~acl2db.acl.user.modify"
+msgid "Modify user rights"
+msgstr "Modifier les droits des utilisateurs"
+
+#: jacl2db~acl2db.acl.user.view
+msgctxt "jacl2db~acl2db.acl.user.view"
+msgid "View user rights"
+msgstr "Voir les droits des utilisateurs"
