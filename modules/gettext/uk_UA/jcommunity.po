@@ -829,17 +829,17 @@ msgstr ""
 #: jcommunity~prefs.admin.prefs.change
 msgctxt "jcommunity~prefs.admin.prefs.change"
 msgid "Modify preferences of jCommunity"
-msgstr ""
+msgstr "Змінити параметри jCommunity"
 
 #: jcommunity~prefs.group.jcommunity
 msgctxt "jcommunity~prefs.group.jcommunity"
 msgid "jCommunity"
-msgstr ""
+msgstr "jCommunity"
 
 #: jcommunity~prefs.jcommunity.admin
 msgctxt "jcommunity~prefs.jcommunity.admin"
 msgid "jCommunity"
-msgstr ""
+msgstr "jCommunity"
 
 #: jcommunity~prefs.pref.registrationEnabled
 msgctxt "jcommunity~prefs.pref.registrationEnabled"
@@ -942,17 +942,17 @@ msgstr ""
 #: jcommunity~register.cmdline.delete.help.description
 msgctxt "jcommunity~register.cmdline.delete.help.description"
 msgid "Delete a user account"
-msgstr ""
+msgstr "Видалити обліковий запис користувача"
 
 #: jcommunity~register.cmdline.delete.help.parameter.login
 msgctxt "jcommunity~register.cmdline.delete.help.parameter.login"
 msgid "The login of the account to delete"
-msgstr ""
+msgstr "Логін облікового запису для видалення"
 
 #: jcommunity~register.cmdline.delete.help.text
 msgctxt "jcommunity~register.cmdline.delete.help.text"
 msgid "Delete a user account"
-msgstr ""
+msgstr "Видалити обліковий запис користувача"
 
 #: jcommunity~register.email.bad.format
 msgctxt "jcommunity~register.email.bad.format"
