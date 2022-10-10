@@ -1,6 +1,7 @@
 # 
 # Translators:
 # Laurent Jouanneau <dev@ljouanneau.com>, 2021
+# marcobra <marcobra.ubuntu@gmail.com>, 2022
 # 
 msgid ""
 msgstr ""
@@ -8,13 +9,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-04 11:32++0100\n"
 "PO-Revision-Date: 2021-07-23 16:39+0000\n"
-"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
+"Last-Translator: marcobra <marcobra.ubuntu@gmail.com>, 2022\n"
 "Language-Team: Italian (https://www.transifex.com/3liz-1/teams/62012/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: jelix~auth.acl.grp.user.management
 msgctxt "jelix~auth.acl.grp.user.management"
@@ -118,7 +119,7 @@ msgstr "(613)oggetto utente sconosciuto"
 #: jelix~auth.ldap.profile.missing
 msgctxt "jelix~auth.ldap.profile.missing"
 msgid "(615)profile name is missing"
-msgstr ""
+msgstr "(615)manca il nome del profilo"
 
 #: jelix~auth.ldap.search.base.missing
 msgctxt "jelix~auth.ldap.search.base.missing"
@@ -133,7 +134,7 @@ msgstr "(611)configurazione ldap: manca il filtro di ricerca"
 #: jelix~auth.ldap.user.login.unset
 msgctxt "jelix~auth.ldap.user.login.unset"
 msgid "(614)user identification unset"
-msgstr "(614)identificazione utante disattivata"
+msgstr "(614)identificazione utente disattivata"
 
 #: jelix~cache.directory.not.writable
 msgctxt "jelix~cache.directory.not.writable"
@@ -428,7 +429,7 @@ msgstr "Crea un record"
 #: jelix~crud.title.filter
 msgctxt "jelix~crud.title.filter"
 msgid "Search"
-msgstr ""
+msgstr "Cerca"
 
 #: jelix~crud.title.list
 msgctxt "jelix~crud.title.list"
@@ -443,7 +444,7 @@ msgstr "Pagine"
 #: jelix~crud.title.results
 msgctxt "jelix~crud.title.results"
 msgid "Results (%s)"
-msgstr ""
+msgstr "Risultati  (%s)"
 
 #: jelix~crud.title.update
 msgctxt "jelix~crud.title.update"
@@ -488,7 +489,7 @@ msgstr "(503)Operatore fornito non valido \"%s\""
 #: jelix~dao.error.builder.notfound
 msgctxt "jelix~dao.error.builder.notfound"
 msgid "(505)Dao builder plugin \"%s\" is not found"
-msgstr ""
+msgstr "(505) Il plugin Dao builder \"%s\" non è stato trovato"
 
 #: jelix~dao.error.keys.missing
 msgctxt "jelix~dao.error.keys.missing"
@@ -555,6 +556,8 @@ msgid ""
 "(566)DAO %1$s, method %3$s, the type of the database used here is not "
 "allowed according to the definition of the condition (file %2$s)"
 msgstr ""
+"(566)DAO %1$s, metodo %3$s, il tipo di database qui usato non è permesso "
+"secondo la definizione della condizione (file %2$s)"
 
 #: jelix~daoxml.method.condition.driver.notallowed
 msgctxt "jelix~daoxml.method.condition.driver.notallowed"
@@ -562,6 +565,8 @@ msgid ""
 "(561)DAO %1$s, method %3$s, the driver of the database used here is not "
 "allowed according to the definition of the condition (file %2$s)"
 msgstr ""
+"(561)DAO %1$s, metodo %3$s, il driver del database usato qui non è permesso "
+"secondo la definizione della condizione (file %2$s)"
 
 #: jelix~daoxml.method.condition.innotin.bad.expr
 msgctxt "jelix~daoxml.method.condition.innotin.bad.expr"
@@ -649,6 +654,8 @@ msgid ""
 "(563)DAO %1$s, method %3$s, unknown parameter %4$s in the orderitem tag "
 "(file %2$s)"
 msgstr ""
+"(563)DAO %1$s, metodo %3$s, parametro sconosciuto %4$s nel tag di "
+"ordinamento (file %2$s)"
 
 #: jelix~daoxml.method.orderitem.property.missing
 msgctxt "jelix~daoxml.method.orderitem.property.missing"
@@ -776,6 +783,8 @@ msgid ""
 "(535)DAO %1$s, property %3$s non numeric cannot be auto incremented (file "
 "%2$s)"
 msgstr ""
+"(535)DAO %1$s, proprietà %3$s non numerica non può essere auto incrementata "
+"(file %2$s)"
 
 #: jelix~daoxml.property.imported.unknown.table
 msgctxt "jelix~daoxml.property.imported.unknown.table"
@@ -2223,7 +2232,7 @@ msgstr "Abilitato"
 #: jelix~ui.buttons.erase
 msgctxt "jelix~ui.buttons.erase"
 msgid "Erase"
-msgstr ""
+msgstr "Elimina"
 
 #: jelix~ui.buttons.export
 msgctxt "jelix~ui.buttons.export"

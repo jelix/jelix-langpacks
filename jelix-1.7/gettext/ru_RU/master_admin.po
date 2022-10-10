@@ -1,6 +1,7 @@
 # 
 # Translators:
 # Laurent Jouanneau <dev@ljouanneau.com>, 2021
+# Кадастр Муниципальный, 2022
 # 
 msgid ""
 msgstr ""
@@ -8,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-04 11:32++0100\n"
 "PO-Revision-Date: 2021-07-23 16:39+0000\n"
-"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
+"Last-Translator: Кадастр Муниципальный, 2022\n"
 "Language-Team: Russian (https://www.transifex.com/3liz-1/teams/62012/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -55,7 +56,7 @@ msgstr "Нет содержимого для отображения. Выбер�
 #: master_admin~gui.menu.item.crud
 msgctxt "master_admin~gui.menu.item.crud"
 msgid "Data management"
-msgstr ""
+msgstr "Управление данными"
 
 #: master_admin~gui.menu.item.dashboard
 msgctxt "master_admin~gui.menu.item.dashboard"
@@ -65,7 +66,7 @@ msgstr "Панель"
 #: master_admin~gui.menu.item.refdata
 msgctxt "master_admin~gui.menu.item.refdata"
 msgid "Reference Data"
-msgstr ""
+msgstr "Справочные данные"
 
 #: master_admin~gui.menu.item.system
 msgctxt "master_admin~gui.menu.item.system"

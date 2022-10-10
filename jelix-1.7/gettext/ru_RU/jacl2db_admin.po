@@ -1,6 +1,7 @@
 # 
 # Translators:
 # Laurent Jouanneau <dev@ljouanneau.com>, 2021
+# Кадастр Муниципальный, 2022
 # 
 msgid ""
 msgstr ""
@@ -8,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-02-04 11:32++0100\n"
 "PO-Revision-Date: 2021-07-23 16:39+0000\n"
-"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
+"Last-Translator: Кадастр Муниципальный, 2022\n"
 "Language-Team: Russian (https://www.transifex.com/3liz-1/teams/62012/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,12 +60,12 @@ msgstr "Ресурсы"
 #: jacl2db_admin~acl2.col.resulting
 msgctxt "jacl2db_admin~acl2.col.resulting"
 msgid "Resulting rights for"
-msgstr ""
+msgstr "Полученные права на"
 
 #: jacl2db_admin~acl2.col.subjects
 msgctxt "jacl2db_admin~acl2.col.subjects"
 msgid "Rights"
-msgstr ""
+msgstr "Права"
 
 #: jacl2db_admin~acl2.col.users
 msgctxt "jacl2db_admin~acl2.col.users"
@@ -84,7 +85,7 @@ msgstr "Удалить"
 #: jacl2db_admin~acl2.delete.button.confirm.label
 msgctxt "jacl2db_admin~acl2.delete.button.confirm.label"
 msgid "Do you want to delete this group ?"
-msgstr ""
+msgstr "Вы хотите удалить эту группу?"
 
 #: jacl2db_admin~acl2.delete.group
 msgctxt "jacl2db_admin~acl2.delete.group"
@@ -94,12 +95,12 @@ msgstr "Удаление группы"
 #: jacl2db_admin~acl2.error.invalid.user
 msgctxt "jacl2db_admin~acl2.error.invalid.user"
 msgid "Invalid user"
-msgstr ""
+msgstr "Недействительный пользователь"
 
 #: jacl2db_admin~acl2.filter.group
 msgctxt "jacl2db_admin~acl2.filter.group"
 msgid "Group:"
-msgstr ""
+msgstr "Группа:"
 
 #: jacl2db_admin~acl2.filter.title
 msgctxt "jacl2db_admin~acl2.filter.title"
@@ -109,7 +110,7 @@ msgstr "Фильтр"
 #: jacl2db_admin~acl2.filter.word
 msgctxt "jacl2db_admin~acl2.filter.word"
 msgid "(part of) name:"
-msgstr ""
+msgstr "(часть) имени:"
 
 #: jacl2db_admin~acl2.global.rights
 msgctxt "jacl2db_admin~acl2.global.rights"
@@ -120,6 +121,7 @@ msgstr "глобальные"
 msgctxt "jacl2db_admin~acl2.group.help.rights.forbidden"
 msgid "forbidden right, even if an other group of the user authorizes it"
 msgstr ""
+"запрещенное право, даже если другая группа пользователей разрешает это"
 
 #: jacl2db_admin~acl2.group.help.rights.no
 msgctxt "jacl2db_admin~acl2.group.help.rights.no"
@@ -127,11 +129,14 @@ msgid ""
 "right not authorized by default, but it can be authorized in other groups of"
 " a user"
 msgstr ""
+"право не авторизовано по умолчанию, но может быть авторизовано в других "
+"группах пользователя"
 
 #: jacl2db_admin~acl2.group.help.rights.yes
 msgctxt "jacl2db_admin~acl2.group.help.rights.yes"
 msgid "authorized right, but it can be forbidden in an other group of a user"
 msgstr ""
+"авторизованное право, но может быть запрещено в другой группе пользователя"
 
 #: jacl2db_admin~acl2.group.name.id
 msgctxt "jacl2db_admin~acl2.group.name.id"
@@ -151,17 +156,17 @@ msgstr "Права на ресурсы для группы"
 #: jacl2db_admin~acl2.group.rights.forbidden
 msgctxt "jacl2db_admin~acl2.group.rights.forbidden"
 msgid "forbidden"
-msgstr ""
+msgstr "запрещенный"
 
 #: jacl2db_admin~acl2.group.rights.no
 msgctxt "jacl2db_admin~acl2.group.rights.no"
 msgid "no"
-msgstr ""
+msgstr "нет"
 
 #: jacl2db_admin~acl2.group.rights.yes
 msgctxt "jacl2db_admin~acl2.group.rights.yes"
 msgid "yes"
-msgstr ""
+msgstr "да"
 
 #: jacl2db_admin~acl2.groups.change.rights.link
 msgctxt "jacl2db_admin~acl2.groups.change.rights.link"
@@ -209,6 +214,8 @@ msgid ""
 "The user cannot be added to this group else nobody won't be able to change "
 "some rights"
 msgstr ""
+"Пользователь не может быть добавлен в эту группу, иначе никто не сможет "
+"изменить некоторые права"
 
 #: jacl2db_admin~acl2.message.addusertogroup.error.noacl.yourself
 msgctxt "jacl2db_admin~acl2.message.addusertogroup.error.noacl.yourself"
@@ -216,6 +223,8 @@ msgid ""
 "You cannot be added to this group else you won't be able to change some "
 "rights"
 msgstr ""
+"Вас нельзя добавить в эту группу, иначе вы не сможете изменить некоторые "
+"права"
 
 #: jacl2db_admin~acl2.message.group.create.ok
 msgctxt "jacl2db_admin~acl2.message.group.create.ok"
@@ -225,12 +234,12 @@ msgstr "Группа создана"
 #: jacl2db_admin~acl2.message.group.delete.error.noacl.anybody
 msgctxt "jacl2db_admin~acl2.message.group.delete.error.noacl.anybody"
 msgid "The group cannot be deleted, else nobody couldn't manage rights"
-msgstr ""
+msgstr "Вас нельзя добавлять в эту группу, иначе вы не можете изменить права"
 
 #: jacl2db_admin~acl2.message.group.delete.error.noacl.yourself
 msgctxt "jacl2db_admin~acl2.message.group.delete.error.noacl.yourself"
 msgid "The group cannot be deleted, else you couldn't manage rights"
-msgstr ""
+msgstr "Группа не может быть удалена, иначе вы не сможете управлять правами"
 
 #: jacl2db_admin~acl2.message.group.delete.ok
 msgctxt "jacl2db_admin~acl2.message.group.delete.ok"
@@ -258,6 +267,8 @@ msgid ""
 "The user cannot be removed from this group else nobody won't be able to "
 "change some rights"
 msgstr ""
+"Пользователь не может быть удален из этой группы, иначе никто не сможет "
+"изменить некоторые права"
 
 #: jacl2db_admin~acl2.message.removeuserfromgroup.error.noacl.yourself
 msgctxt "jacl2db_admin~acl2.message.removeuserfromgroup.error.noacl.yourself"
@@ -265,28 +276,38 @@ msgid ""
 "You cannot be removed from this group else you won't be able to change some "
 "rights"
 msgstr ""
+"Вы не можете быть удалены из этой группы, иначе вы не сможете изменить "
+"некоторые права"
 
 #: jacl2db_admin~acl2.message.savegrouprights.error.noacl.anybody
 msgctxt "jacl2db_admin~acl2.message.savegrouprights.error.noacl.anybody"
 msgid ""
 "Changes cannot be applied else nobody won't be able to change some rights"
 msgstr ""
+"Изменения не могут быть применены, иначе никто не сможет изменить некоторые "
+"права"
 
 #: jacl2db_admin~acl2.message.savegrouprights.error.noacl.yourself
 msgctxt "jacl2db_admin~acl2.message.savegrouprights.error.noacl.yourself"
 msgid "Changes cannot be applied else you won't be able to change some rights"
 msgstr ""
+"Изменения не могут быть применены, иначе вы не сможете изменить некоторые "
+"права"
 
 #: jacl2db_admin~acl2.message.saveuserrights.error.noacl.anybody
 msgctxt "jacl2db_admin~acl2.message.saveuserrights.error.noacl.anybody"
 msgid ""
 "Changes cannot be applied else nobody won't be able to change some rights"
 msgstr ""
+"Изменения не могут быть применены, иначе никто не сможет изменить некоторые "
+"права"
 
 #: jacl2db_admin~acl2.message.saveuserrights.error.noacl.yourself
 msgctxt "jacl2db_admin~acl2.message.saveuserrights.error.noacl.yourself"
 msgid "Changes cannot be applied else you won't be able to change some rights"
 msgstr ""
+"Изменения не могут быть применены, иначе вы не сможете изменить некоторые "
+"права"
 
 #: jacl2db_admin~acl2.message.user.rights.ok
 msgctxt "jacl2db_admin~acl2.message.user.rights.ok"

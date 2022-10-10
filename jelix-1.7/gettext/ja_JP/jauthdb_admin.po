@@ -1,6 +1,6 @@
 # 
 # Translators:
-# 山本　竜三 <ryu@yamakun.net>, 2021
+# yamamoto ryuzo <ryu@yamakun.net>, 2021
 # Laurent Jouanneau <dev@ljouanneau.com>, 2022
 # 
 msgid ""

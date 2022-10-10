@@ -58,7 +58,7 @@ msgstr "Fără conținut de afișat. Selectați unul dintre elementele din meniu
 #: master_admin~gui.menu.item.crud
 msgctxt "master_admin~gui.menu.item.crud"
 msgid "Data management"
-msgstr ""
+msgstr "Gestionare date"
 
 #: master_admin~gui.menu.item.dashboard
 msgctxt "master_admin~gui.menu.item.dashboard"
