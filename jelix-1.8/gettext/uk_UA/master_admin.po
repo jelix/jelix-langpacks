@@ -57,7 +57,7 @@ msgstr "Немає вмісту. Натисніть на одне з посил�
 #: master_admin~gui.menu.item.crud
 msgctxt "master_admin~gui.menu.item.crud"
 msgid "Data management"
-msgstr ""
+msgstr "Управління даними"
 
 #: master_admin~gui.menu.item.dashboard
 msgctxt "master_admin~gui.menu.item.dashboard"

@@ -427,7 +427,7 @@ msgstr "Створіть новий запис"
 #: jelix~crud.title.filter
 msgctxt "jelix~crud.title.filter"
 msgid "Search"
-msgstr ""
+msgstr "Пошук"
 
 #: jelix~crud.title.list
 msgctxt "jelix~crud.title.list"
@@ -442,7 +442,7 @@ msgstr "Сторінки"
 #: jelix~crud.title.results
 msgctxt "jelix~crud.title.results"
 msgid "Results (%s)"
-msgstr ""
+msgstr "Результати (%s)"
 
 #: jelix~crud.title.update
 msgctxt "jelix~crud.title.update"
