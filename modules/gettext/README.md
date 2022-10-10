@@ -6,8 +6,8 @@ into the gettext and locales directories.
 
 POT files must be generated directly from properties files of the original project.
 
-Be sure you have installed Transifex cli, but also PHP-cli and its mbstring extension
-(For example `apt-get install php7.3-cli php7.3-mbstring`).
+Be sure you have installed [Transifex cli](https://developers.transifex.com/docs/cli), but also PHP-cli and its mbstring extension
+(For example `apt-get install php8.1-cli php8.1-mbstring`).
 
 You also need to retrieve the source code of projects
 

@@ -2,37 +2,37 @@
 host = https://www.transifex.com
 lang_map = cs : cs_CZ, de : de_DE, el : el_GR, es : es_ES, eu : eu_ES, fi : fi_FI, fr : fr_FR, gl : gl_ES, hu_HU : hu_HU, it : it_IT, ja: ja_JP, nl : nl_NL, no : no_NO, pl_PL : pl_PL, pt_BR : pt_BR, pt : pt_PT, ro : ro_RO, ru : ru_RU, sv_SE : sv_SE, sl : sl_SI, sk : sk_SK
 
-[jelix.jacl2pot]
+[o:3liz-1:p:jelix:r:jacl2pot]
 file_filter = <lang>/jacl2.po
 source_file = pot/jacl2.pot
 source_lang = en
 type = PO
 
-[jelix.jacl2dbpot]
+[o:3liz-1:p:jelix:r:jacl2dbpot]
 file_filter = <lang>/jacl2db.po
 source_file = pot/jacl2db.pot
 source_lang = en
 type = PO
 
-[jelix.jacl2db_adminpot]
+[o:3liz-1:p:jelix:r:jacl2db_adminpot]
 file_filter = <lang>/jacl2db_admin.po
 source_file = pot/jacl2db_admin.pot
 source_lang = en
 type = PO
 
-[jelix.jauthdb_adminpot]
+[o:3liz-1:p:jelix:r:jauthdb_adminpot]
 file_filter = <lang>/jauthdb_admin.po
 source_file = pot/jauthdb_admin.pot
 source_lang = en
 type = PO
 
-[jelix.jelixpot]
+[o:3liz-1:p:jelix:r:jelixpot]
 file_filter = <lang>/jelix.po
 source_file = pot/jelix.pot
 source_lang = en
 type = PO
 
-[jelix.master_adminpot]
+[o:3liz-1:p:jelix:r:master_adminpot]
 file_filter = <lang>/master_admin.po
 source_file = pot/master_admin.pot
 source_lang = en
