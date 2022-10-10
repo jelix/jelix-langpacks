@@ -449,22 +449,22 @@ msgstr "format greșit al proprietății %s"
 #: jelix~dao.check.badtype
 msgctxt "jelix~dao.check.badtype"
 msgid "bad type on the property %s"
-msgstr ""
+msgstr "tip defect al proprietății %s"
 
 #: jelix~dao.check.maxlength.overflow
 msgctxt "jelix~dao.check.maxlength.overflow"
 msgid "property %s value is too high"
-msgstr ""
+msgstr "valoarea proprietății %s este prea mare"
 
 #: jelix~dao.check.minlength.overflow
 msgctxt "jelix~dao.check.minlength.overflow"
 msgid "property %s value is too low"
-msgstr ""
+msgstr "valoarea proprietății %s este prea mică"
 
 #: jelix~dao.check.required
 msgctxt "jelix~dao.check.required"
 msgid "property %s is missing"
-msgstr ""
+msgstr "proprietatea %s lipsește"
 
 #: jelix~dao.error.bad.operator
 msgctxt "jelix~dao.error.bad.operator"
@@ -474,7 +474,7 @@ msgstr ""
 #: jelix~dao.error.keys.missing
 msgctxt "jelix~dao.error.keys.missing"
 msgid "(501) Identifier is missing"
-msgstr ""
+msgstr "(501) Identificatorul lipsește"
 
 #: jelix~dao.error.property.unknown
 msgctxt "jelix~dao.error.property.unknown"
@@ -1096,7 +1096,7 @@ msgstr "Dec"
 #: jelix~db.error.connection
 msgctxt "jelix~db.error.connection"
 msgid "(402)error during the connection %s"
-msgstr ""
+msgstr "(402)eroare în timpul conexiunii %s"
 
 #: jelix~db.error.connection.closed
 msgctxt "jelix~db.error.connection.closed"
@@ -1303,17 +1303,17 @@ msgstr ""
 #: jelix~errors.mail.authenticate
 msgctxt "jelix~errors.mail.authenticate"
 msgid "(354)jMailer: SMTP Error: Could not authenticate."
-msgstr ""
+msgstr "(354)jMailer: Eroare SMTP: Nu s-a putut autentifica."
 
 #: jelix~errors.mail.connect_host
 msgctxt "jelix~errors.mail.connect_host"
 msgid "(358)SMTP Error: Could not connect to SMTP host."
-msgstr ""
+msgstr "(358) Eroare SMTP: Nu s-a putut conecta la gazda SMTP."
 
 #: jelix~errors.mail.data_not_accepted
 msgctxt "jelix~errors.mail.data_not_accepted"
 msgid "(357)SMTP Error: Data not accepted."
-msgstr ""
+msgstr "(357) Eroare SMTP: Datele nu sunt acceptate."
 
 #: jelix~errors.mail.encoding
 msgctxt "jelix~errors.mail.encoding"
@@ -1363,7 +1363,7 @@ msgstr ""
 #: jelix~errors.mail.signing
 msgctxt "jelix~errors.mail.signing"
 msgid "(362) Signing Error: %s"
-msgstr ""
+msgstr "(362) Eroare de semnare: %s"
 
 #: jelix~errors.module.unknown
 msgctxt "jelix~errors.module.unknown"
@@ -1598,13 +1598,14 @@ msgstr ""
 #: jelix~errors.unknown
 msgctxt "jelix~errors.unknown"
 msgid "(1)unknown error"
-msgstr ""
+msgstr "(1)eroare necunoscută"
 
 #: jelix~errors.urls.domain.void
 msgctxt "jelix~errors.urls.domain.void"
 msgid ""
 "(31)Unknow domain for jUrl. It should be indicated into the configuration"
 msgstr ""
+"(31)Domeniu necunoscut pentru jUrl. Ar trebui să fie indicat în configurație"
 
 #: jelix~errors.urls.engine.notfound
 msgctxt "jelix~errors.urls.engine.notfound"
