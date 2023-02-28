@@ -1,6 +1,6 @@
 # 
 # Translators:
-# trendspotter <jirka.p@volny.cz>, 2021
+# Jiří Podhorecký, 2021
 # Laurent Jouanneau <dev@ljouanneau.com>, 2022
 # 
 msgid ""
