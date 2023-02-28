@@ -1,7 +1,7 @@
 # 
 # Translators:
-# José Macau <jose.macau@gmail.com>, 2022
 # Laurent Jouanneau <dev@ljouanneau.com>, 2022
+# José Macau <jose.macau@gmail.com>, 2023
 # 
 msgid ""
 msgstr ""
@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-07-21 16:28++0200\n"
 "PO-Revision-Date: 2022-07-21 14:29+0000\n"
-"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2022\n"
+"Last-Translator: José Macau <jose.macau@gmail.com>, 2023\n"
 "Language-Team: Portuguese (https://www.transifex.com/3liz-1/teams/62012/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,6 +34,9 @@ msgid ""
 "(so anonymous users). It is not possible to add registered users in it, nor "
 "to set some specific rights."
 msgstr ""
+"O grupo 'anonymous' corresponde a todos os utilizadores que não são "
+"autenticados (ou seja, utilizadores anônimos). Nele não é possível adicionar"
+" utilizadores cadastrados, nem definir alguns direitos específicos."
 
 #: jacl2db_admin~acl2.anonymous.group.name
 msgctxt "jacl2db_admin~acl2.anonymous.group.name"
@@ -43,7 +46,7 @@ msgstr "Anónimo"
 #: jacl2db_admin~acl2.button.display
 msgctxt "jacl2db_admin~acl2.button.display"
 msgid "Display"
-msgstr ""
+msgstr "Apresentar"
 
 #: jacl2db_admin~acl2.col.groups
 msgctxt "jacl2db_admin~acl2.col.groups"
@@ -53,22 +56,22 @@ msgstr "Grupos"
 #: jacl2db_admin~acl2.col.groups.default
 msgctxt "jacl2db_admin~acl2.col.groups.default"
 msgid "Default group"
-msgstr ""
+msgstr "Grupo padrão"
 
 #: jacl2db_admin~acl2.col.groups.id
 msgctxt "jacl2db_admin~acl2.col.groups.id"
 msgid "Id"
-msgstr ""
+msgstr "Id"
 
 #: jacl2db_admin~acl2.col.groups.name
 msgctxt "jacl2db_admin~acl2.col.groups.name"
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: jacl2db_admin~acl2.col.groups.users_number
 msgctxt "jacl2db_admin~acl2.col.groups.users_number"
 msgid "Users number"
-msgstr ""
+msgstr "Número de utilizadores"
 
 #: jacl2db_admin~acl2.col.personnal.rights
 msgctxt "jacl2db_admin~acl2.col.personnal.rights"
@@ -98,7 +101,7 @@ msgstr "Permissões"
 #: jacl2db_admin~acl2.col.type
 msgctxt "jacl2db_admin~acl2.col.type"
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: jacl2db_admin~acl2.col.users
 msgctxt "jacl2db_admin~acl2.col.users"
@@ -108,12 +111,12 @@ msgstr "Utilizadores"
 #: jacl2db_admin~acl2.col.users.login
 msgctxt "jacl2db_admin~acl2.col.users.login"
 msgid "Login"
-msgstr ""
+msgstr "Utilizador"
 
 #: jacl2db_admin~acl2.col.users.name
 msgctxt "jacl2db_admin~acl2.col.users.name"
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: jacl2db_admin~acl2.create.group
 msgctxt "jacl2db_admin~acl2.create.group"
@@ -133,17 +136,17 @@ msgstr "Eliminar este grupo?"
 #: jacl2db_admin~acl2.delete.group
 msgctxt "jacl2db_admin~acl2.delete.group"
 msgid "Delete the group"
-msgstr ""
+msgstr "Eliminar grupo"
 
 #: jacl2db_admin~acl2.error.groupid.invalid
 msgctxt "jacl2db_admin~acl2.error.groupid.invalid"
 msgid "Group id is invalid"
-msgstr ""
+msgstr "O ID do grupo é inválido"
 
 #: jacl2db_admin~acl2.error.groupname.is.missing
 msgctxt "jacl2db_admin~acl2.error.groupname.is.missing"
 msgid "Group name is missing"
-msgstr ""
+msgstr "Nome do grupo em falta"
 
 #: jacl2db_admin~acl2.error.invalid.user
 msgctxt "jacl2db_admin~acl2.error.invalid.user"
@@ -163,7 +166,7 @@ msgstr "global"
 #: jacl2db_admin~acl2.group.copy.label
 msgctxt "jacl2db_admin~acl2.group.copy.label"
 msgid "Copy rights from the group:"
-msgstr ""
+msgstr " Copiar direitos a partir do grupo:"
 
 #: jacl2db_admin~acl2.group.help.rights.forbidden
 msgctxt "jacl2db_admin~acl2.group.help.rights.forbidden"
@@ -189,17 +192,17 @@ msgstr ""
 #: jacl2db_admin~acl2.group.id.help
 msgctxt "jacl2db_admin~acl2.group.id.help"
 msgid "only letters and numbers are authorized"
-msgstr ""
+msgstr "apenas letras e números são permitidos"
 
 #: jacl2db_admin~acl2.group.id.label
 msgctxt "jacl2db_admin~acl2.group.id.label"
 msgid "Group id:"
-msgstr ""
+msgstr "Id do grupo:"
 
 #: jacl2db_admin~acl2.group.name.label
 msgctxt "jacl2db_admin~acl2.group.name.label"
 msgid "Group name:"
-msgstr ""
+msgstr "Nome do grupo:"
 
 #: jacl2db_admin~acl2.group.rightres.title
 msgctxt "jacl2db_admin~acl2.group.rightres.title"
@@ -214,7 +217,7 @@ msgstr "Negada"
 #: jacl2db_admin~acl2.group.rights.label
 msgctxt "jacl2db_admin~acl2.group.rights.label"
 msgid "Group rights:"
-msgstr ""
+msgstr "Permissões do grupo:"
 
 #: jacl2db_admin~acl2.group.rights.no
 msgctxt "jacl2db_admin~acl2.group.rights.no"
@@ -232,26 +235,28 @@ msgid ""
 "The default groups are the groups in which any new user is automatically "
 "placed."
 msgstr ""
+"Os grupos padrão são os grupos nos quais qualquer novo utilizador é colocado"
+" automaticamente."
 
 #: jacl2db_admin~acl2.group.unknown
 msgctxt "jacl2db_admin~acl2.group.unknown"
 msgid "Unknown group"
-msgstr ""
+msgstr "Grupo desconhecido"
 
 #: jacl2db_admin~acl2.groups.back.to.list
 msgctxt "jacl2db_admin~acl2.groups.back.to.list"
 msgid "Return to the groups list"
-msgstr ""
+msgstr "Voltar à lista de grupos"
 
 #: jacl2db_admin~acl2.groups.back.to.rights.list
 msgctxt "jacl2db_admin~acl2.groups.back.to.rights.list"
 msgid "Return to the list of all groups rights"
-msgstr ""
+msgstr "Voltar à lista de todas as permissões de grupos"
 
 #: jacl2db_admin~acl2.groups.change.rights.link
 msgctxt "jacl2db_admin~acl2.groups.change.rights.link"
 msgid "Modify rights"
-msgstr ""
+msgstr "Modificar permissões"
 
 #: jacl2db_admin~acl2.groups.new.users.title
 msgctxt "jacl2db_admin~acl2.groups.new.users.title"
@@ -266,17 +271,17 @@ msgstr "Permissões dos grupos"
 #: jacl2db_admin~acl2.groups.rights.view.list
 msgctxt "jacl2db_admin~acl2.groups.rights.view.list"
 msgid "View of rights of all groups"
-msgstr ""
+msgstr "Visualizar permissões de todos os grupos"
 
 #: jacl2db_admin~acl2.groups.tab
 msgctxt "jacl2db_admin~acl2.groups.tab"
 msgid "Users groups"
-msgstr ""
+msgstr "Grupos de utilizadores"
 
 #: jacl2db_admin~acl2.groups.title
 msgctxt "jacl2db_admin~acl2.groups.title"
 msgid "Groups of users"
-msgstr ""
+msgstr "Grupos dos utilizadores"
 
 #: jacl2db_admin~acl2.has.rights.on.resources
 msgctxt "jacl2db_admin~acl2.has.rights.on.resources"
@@ -286,17 +291,17 @@ msgstr "Este utilizador tem permissões sobre alguns recursos"
 #: jacl2db_admin~acl2.link.return.to.rights
 msgctxt "jacl2db_admin~acl2.link.return.to.rights"
 msgid "Return to the group rights"
-msgstr ""
+msgstr "Voltar às permissões de grupo"
 
 #: jacl2db_admin~acl2.menu.item.groups
 msgctxt "jacl2db_admin~acl2.menu.item.groups"
 msgid "Groups"
-msgstr ""
+msgstr "Grupos"
 
 #: jacl2db_admin~acl2.menu.item.rights
 msgctxt "jacl2db_admin~acl2.menu.item.rights"
 msgid "Rights"
-msgstr ""
+msgstr "Permissões"
 
 #: jacl2db_admin~acl2.message.addusertogroup.error.noacl.anybody
 msgctxt "jacl2db_admin~acl2.message.addusertogroup.error.noacl.anybody"
@@ -349,7 +354,7 @@ msgstr "Permissões do grupo guardadas com sucesso"
 #: jacl2db_admin~acl2.message.group.setdefault.ok
 msgctxt "jacl2db_admin~acl2.message.group.setdefault.ok"
 msgid "The 'default' status of the group has changed"
-msgstr ""
+msgstr "O estado 'padrão' do grupo foi modificado"
 
 #: jacl2db_admin~acl2.message.groups.setdefault.ok
 msgctxt "jacl2db_admin~acl2.message.groups.setdefault.ok"
@@ -411,17 +416,17 @@ msgstr "Permissões guardadas com sucesso"
 #: jacl2db_admin~acl2.no.result.message
 msgctxt "jacl2db_admin~acl2.no.result.message"
 msgid "No results with given filters"
-msgstr ""
+msgstr "Sem resultados com os filtros aplicados"
 
 #: jacl2db_admin~acl2.no.rightres
 msgctxt "jacl2db_admin~acl2.no.rightres"
 msgid "No resources rights"
-msgstr ""
+msgstr "Sem permissões de recursos"
 
 #: jacl2db_admin~acl2.no.rights
 msgctxt "jacl2db_admin~acl2.no.rights"
 msgid "No rights"
-msgstr ""
+msgstr "Sem permissões"
 
 #: jacl2db_admin~acl2.remove.group.tooltip
 msgctxt "jacl2db_admin~acl2.remove.group.tooltip"
@@ -441,7 +446,7 @@ msgstr "Permissões"
 #: jacl2db_admin~acl2.rights.management.title
 msgctxt "jacl2db_admin~acl2.rights.management.title"
 msgid "Rights management"
-msgstr ""
+msgstr "Gestão de permissões"
 
 #: jacl2db_admin~acl2.rights.title
 msgctxt "jacl2db_admin~acl2.rights.title"
@@ -456,12 +461,12 @@ msgstr "Ver estas permissões"
 #: jacl2db_admin~acl2.show.button
 msgctxt "jacl2db_admin~acl2.show.button"
 msgid "Show"
-msgstr "Mostrar"
+msgstr "Apresentar"
 
 #: jacl2db_admin~acl2.special.rights
 msgctxt "jacl2db_admin~acl2.special.rights"
 msgid "resources"
-msgstr ""
+msgstr "Recursos"
 
 #: jacl2db_admin~acl2.table.th.groups
 msgctxt "jacl2db_admin~acl2.table.th.groups"
@@ -476,17 +481,17 @@ msgstr "Permissões"
 #: jacl2db_admin~acl2.type.all
 msgctxt "jacl2db_admin~acl2.type.all"
 msgid "All"
-msgstr ""
+msgstr "Todos"
 
 #: jacl2db_admin~acl2.type.group
 msgctxt "jacl2db_admin~acl2.type.group"
 msgid "Group"
-msgstr ""
+msgstr "Grupo"
 
 #: jacl2db_admin~acl2.type.user
 msgctxt "jacl2db_admin~acl2.type.user"
 msgid "User"
-msgstr ""
+msgstr "Utilizador"
 
 #: jacl2db_admin~acl2.user.rightres.title
 msgctxt "jacl2db_admin~acl2.user.rightres.title"
@@ -501,7 +506,7 @@ msgstr "Permissões sobre"
 #: jacl2db_admin~acl2.users.tab
 msgctxt "jacl2db_admin~acl2.users.tab"
 msgid "Users"
-msgstr ""
+msgstr "Utilizadores"
 
 #: jacl2db_admin~acl2.users.title
 msgctxt "jacl2db_admin~acl2.users.title"
