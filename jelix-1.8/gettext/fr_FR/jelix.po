@@ -1,14 +1,14 @@
 # 
 # Translators:
-# Laurent Jouanneau <dev@ljouanneau.com>, 2022
+# Laurent Jouanneau <dev@ljouanneau.com>, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: jelix 1.8.0 jelix\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-21 16:28++0200\n"
+"POT-Creation-Date: 2023-09-20 14:10++0200\n"
 "PO-Revision-Date: 2022-07-21 14:29+0000\n"
-"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2022\n"
+"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2023\n"
 "Language-Team: French (https://app.transifex.com/3liz-1/teams/62012/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2001,6 +2001,51 @@ msgstr "Mois"
 msgctxt "jelix~jforms.date.year.label"
 msgid "Year"
 msgstr "Année"
+
+#: jelix~jforms.password.editor.button.copy
+msgctxt "jelix~jforms.password.editor.button.copy"
+msgid "Copy"
+msgstr "Copier"
+
+#: jelix~jforms.password.editor.button.regenerate
+msgctxt "jelix~jforms.password.editor.button.regenerate"
+msgid "Regenerate"
+msgstr "Regénérer"
+
+#: jelix~jforms.password.editor.button.show
+msgctxt "jelix~jforms.password.editor.button.show"
+msgid "Show"
+msgstr "Montrer"
+
+#: jelix~jforms.password.not.strong.enough
+msgctxt "jelix~jforms.password.not.strong.enough"
+msgid "The password is not complex enough"
+msgstr "Le mot de passe n'est pas assez complexe"
+
+#: jelix~jforms.password.score.bad.password
+msgctxt "jelix~jforms.password.score.bad.password"
+msgid "Contains a highly used password"
+msgstr "Contient un mot de passe très utilisé"
+
+#: jelix~jforms.password.score.good
+msgctxt "jelix~jforms.password.score.good"
+msgid "Good"
+msgstr "Bon"
+
+#: jelix~jforms.password.score.poor
+msgctxt "jelix~jforms.password.score.poor"
+msgid "Too weak"
+msgstr "Très insuffisant"
+
+#: jelix~jforms.password.score.strong
+msgctxt "jelix~jforms.password.score.strong"
+msgid "Strong"
+msgstr "Très bon"
+
+#: jelix~jforms.password.score.weak
+msgctxt "jelix~jforms.password.score.weak"
+msgid "Weak"
+msgstr "Insuffisant"
 
 #: jelix~jforms.time.hour.label
 msgctxt "jelix~jforms.time.hour.label"

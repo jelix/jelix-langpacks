@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jelix 1.8.0 jelix\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-21 16:28++0200\n"
+"POT-Creation-Date: 2023-09-20 14:10++0200\n"
 "PO-Revision-Date: 2022-07-21 14:29+0000\n"
 "Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2022\n"
 "Language-Team: Hungarian (Hungary) (https://app.transifex.com/3liz-1/teams/62012/hu_HU/)\n"
@@ -1880,6 +1880,51 @@ msgstr "Hónap"
 msgctxt "jelix~jforms.date.year.label"
 msgid "Year"
 msgstr "Év"
+
+#: jelix~jforms.password.editor.button.copy
+msgctxt "jelix~jforms.password.editor.button.copy"
+msgid "Copy"
+msgstr ""
+
+#: jelix~jforms.password.editor.button.regenerate
+msgctxt "jelix~jforms.password.editor.button.regenerate"
+msgid "Regenerate"
+msgstr ""
+
+#: jelix~jforms.password.editor.button.show
+msgctxt "jelix~jforms.password.editor.button.show"
+msgid "Show"
+msgstr ""
+
+#: jelix~jforms.password.not.strong.enough
+msgctxt "jelix~jforms.password.not.strong.enough"
+msgid "The password is not complex enough"
+msgstr ""
+
+#: jelix~jforms.password.score.bad.password
+msgctxt "jelix~jforms.password.score.bad.password"
+msgid "Contains a highly used password"
+msgstr ""
+
+#: jelix~jforms.password.score.good
+msgctxt "jelix~jforms.password.score.good"
+msgid "Good"
+msgstr ""
+
+#: jelix~jforms.password.score.poor
+msgctxt "jelix~jforms.password.score.poor"
+msgid "Too weak"
+msgstr ""
+
+#: jelix~jforms.password.score.strong
+msgctxt "jelix~jforms.password.score.strong"
+msgid "Strong"
+msgstr ""
+
+#: jelix~jforms.password.score.weak
+msgctxt "jelix~jforms.password.score.weak"
+msgid "Weak"
+msgstr ""
 
 #: jelix~jforms.time.hour.label
 msgctxt "jelix~jforms.time.hour.label"
