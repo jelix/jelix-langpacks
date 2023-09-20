@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jcommunity 1.3 jcommunity\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-30 15:20++0200\n"
+"POT-Creation-Date: 2023-09-20 14:11++0200\n"
 "PO-Revision-Date: 2021-02-26 17:29+0000\n"
 "Last-Translator: yamamoto ryuzo <ryu@yamakun.net>, 2022\n"
 "Language-Team: Japanese (https://app.transifex.com/3liz-1/teams/62012/ja/)\n"
@@ -382,6 +382,19 @@ msgstr "‎パスワードをリセットする‎"
 msgctxt "jcommunity~login.startpage.youcan"
 msgid "You can:"
 msgstr "‎できます：‎"
+
+#: jcommunity~mail.account.change.notification.body.html
+msgctxt "jcommunity~mail.account.change.notification.body.html"
+msgid ""
+"<p>Hello,</p>\n"
+"\n"
+" <p>The user {$userName} has made some changes <a href=\"{$profilLink}\">into his profile</a>.</p> <p>Regards.</p>"
+msgstr ""
+
+#: jcommunity~mail.account.change.notification.subject
+msgctxt "jcommunity~mail.account.change.notification.subject"
+msgid "Changes into the profile of %s on the web site %s"
+msgstr ""
 
 #: jcommunity~mail.password.admin.reset.body.html
 msgctxt "jcommunity~mail.password.admin.reset.body.html"
@@ -787,10 +800,6 @@ msgid ""
 "allows you to change your password. This link is valid only few hours.</p> "
 "<p>The current password is still valid as long as you don't change it.</p>"
 msgstr ""
-"<p>‎指定したアドレスにメールが送信されました。数分で受信トレイに表示されない場合は、迷惑メール "
-"フォルダを確認してください。メールを受信しなかった場合は、ログインと送信したメールが無効である可能性があります。Web "
-"サイト管理者に問い合わせてください。‎</p> <p>‎このメールには、パスワードを変更できるページへのリンクが含まれています。このリンクは 48 "
-"時間のみ有効です。‎</p> <p>‎現在のパスワードは、変更しない限り有効です。‎</p>"
 
 #: jcommunity~prefs.admin.prefs.change
 msgctxt "jcommunity~prefs.admin.prefs.change"

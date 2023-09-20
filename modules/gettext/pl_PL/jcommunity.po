@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jcommunity 1.3 jcommunity\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-30 15:20++0200\n"
+"POT-Creation-Date: 2023-09-20 14:11++0200\n"
 "PO-Revision-Date: 2021-02-26 17:29+0000\n"
 "Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
 "Language-Team: Polish (Poland) (https://app.transifex.com/3liz-1/teams/62012/pl_PL/)\n"
@@ -390,6 +390,19 @@ msgstr "Zresetować swoje hasło"
 msgctxt "jcommunity~login.startpage.youcan"
 msgid "You can:"
 msgstr "Możesz:"
+
+#: jcommunity~mail.account.change.notification.body.html
+msgctxt "jcommunity~mail.account.change.notification.body.html"
+msgid ""
+"<p>Hello,</p>\n"
+"\n"
+" <p>The user {$userName} has made some changes <a href=\"{$profilLink}\">into his profile</a>.</p> <p>Regards.</p>"
+msgstr ""
+
+#: jcommunity~mail.account.change.notification.subject
+msgctxt "jcommunity~mail.account.change.notification.subject"
+msgid "Changes into the profile of %s on the web site %s"
+msgstr ""
 
 #: jcommunity~mail.password.admin.reset.body.html
 msgctxt "jcommunity~mail.password.admin.reset.body.html"
@@ -820,13 +833,6 @@ msgid ""
 "allows you to change your password. This link is valid only few hours.</p> "
 "<p>The current password is still valid as long as you don't change it.</p>"
 msgstr ""
-"<p>E-mail został wysłany na podany przez Ciebie adres. Jeśli nie pojawi się "
-"w skrzynce odbiorczej w ciągu kilku minut, sprawdź folder ze spamem. Jeśli "
-"nie otrzymałeś e-maila, być może login i podany adres e-mail są "
-"nieprawidłowe. Skontaktuj się z administratorem serwisu WWW.</p> <p>Ten "
-"e-mail zawiera łącze do strony, która umożliwia zmianę hasła. Ten link jest "
-"ważny tylko 48 godzin.</p> <p>Bieżące hasło jest nadal ważne, o ile go nie "
-"zmienisz.</p>"
 
 #: jcommunity~prefs.admin.prefs.change
 msgctxt "jcommunity~prefs.admin.prefs.change"
