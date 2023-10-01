@@ -7,8 +7,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2023-09-20 14:11++0200\n"
-"PO-Revision-Date: 2023-09-20 14:11++0200\n"
+"POT-Creation-Date: 2023-10-01 18:05++0200\n"
+"PO-Revision-Date: 2023-10-01 18:05++0200\n"
 "Language: \n"
 
 #: jcommunity~account.admin.link.account.resent.validation.email
@@ -173,7 +173,7 @@ msgstr ""
 
 #: jcommunity~account.form.password.help
 msgctxt "jcommunity~account.form.password.help"
-msgid "The password length must be above 8 characters"
+msgid "The password length must be above 12 characters"
 msgstr ""
 
 #: jcommunity~account.form.requestdate
@@ -681,6 +681,11 @@ msgstr ""
 #: jcommunity~password.mail.pwd.change.subject
 msgctxt "jcommunity~password.mail.pwd.change.subject"
 msgid "Request about a password reset on %s"
+msgstr ""
+
+#: jcommunity~password.page.title
+msgctxt "jcommunity~password.page.title"
+msgid "Your account"
 msgstr ""
 
 #: jcommunity~password.reset.cmdline.error

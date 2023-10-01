@@ -1,14 +1,14 @@
 # 
 # Translators:
-# Laurent Jouanneau <dev@ljouanneau.com>, 2021
+# Laurent Jouanneau <dev@ljouanneau.com>, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: jcommunity 1.3 jcommunity\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-20 14:11++0200\n"
+"POT-Creation-Date: 2023-10-01 18:05++0200\n"
 "PO-Revision-Date: 2021-02-26 17:29+0000\n"
-"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
+"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2023\n"
 "Language-Team: Polish (Poland) (https://app.transifex.com/3liz-1/teams/62012/pl_PL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -190,8 +190,8 @@ msgstr "Powtórz hasło"
 
 #: jcommunity~account.form.password.help
 msgctxt "jcommunity~account.form.password.help"
-msgid "The password length must be above 8 characters"
-msgstr "Hasło musi zawierać więcej niż 8 znaków"
+msgid "The password length must be above 12 characters"
+msgstr "Hasło musi zawierać więcej niż 12 znaków"
 
 #: jcommunity~account.form.requestdate
 msgctxt "jcommunity~account.form.requestdate"
@@ -796,6 +796,11 @@ msgstr "Resetowanie hasła"
 msgctxt "jcommunity~password.mail.pwd.change.subject"
 msgid "Request about a password reset on %s"
 msgstr "Poproś o zresetowanie hasła dla %s"
+
+#: jcommunity~password.page.title
+msgctxt "jcommunity~password.page.title"
+msgid "Your account"
+msgstr ""
 
 #: jcommunity~password.reset.cmdline.error
 msgctxt "jcommunity~password.reset.cmdline.error"

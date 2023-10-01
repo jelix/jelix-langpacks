@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jcommunity 1.3 jcommunity\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-20 14:11++0200\n"
+"POT-Creation-Date: 2023-10-01 18:05++0200\n"
 "PO-Revision-Date: 2021-02-26 17:29+0000\n"
 "Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2021\n"
 "Language-Team: Spanish (https://app.transifex.com/3liz-1/teams/62012/es/)\n"
@@ -184,7 +184,7 @@ msgstr ""
 
 #: jcommunity~account.form.password.help
 msgctxt "jcommunity~account.form.password.help"
-msgid "The password length must be above 8 characters"
+msgid "The password length must be above 12 characters"
 msgstr ""
 
 #: jcommunity~account.form.requestdate
@@ -717,6 +717,11 @@ msgstr ""
 #: jcommunity~password.mail.pwd.change.subject
 msgctxt "jcommunity~password.mail.pwd.change.subject"
 msgid "Request about a password reset on %s"
+msgstr ""
+
+#: jcommunity~password.page.title
+msgctxt "jcommunity~password.page.title"
+msgid "Your account"
 msgstr ""
 
 #: jcommunity~password.reset.cmdline.error
