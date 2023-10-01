@@ -1,7 +1,7 @@
 # 
 # Translators:
 # Laurent Jouanneau <dev@ljouanneau.com>, 2022
-# Igor Sorocean <sorocean.igor@gmail.com>, 2022
+# Igor Sorocean <sorocean.igor@gmail.com>, 2023
 # 
 msgid ""
 msgstr ""
@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-20 14:10++0200\n"
 "PO-Revision-Date: 2022-07-21 14:29+0000\n"
-"Last-Translator: Igor Sorocean <sorocean.igor@gmail.com>, 2022\n"
+"Last-Translator: Igor Sorocean <sorocean.igor@gmail.com>, 2023\n"
 "Language-Team: Romanian (https://app.transifex.com/3liz-1/teams/62012/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -506,7 +506,7 @@ msgstr ""
 #: jelix~daoxml.file.unknown
 msgctxt "jelix~daoxml.file.unknown"
 msgid "(510)Unknown dao file (%s)"
-msgstr ""
+msgstr "(510)Fișier dao necunoscut (%s)"
 
 #: jelix~daoxml.forbidden.attr
 msgctxt "jelix~daoxml.forbidden.attr"
@@ -707,7 +707,7 @@ msgstr ""
 #: jelix~daoxml.primarykey.missing
 msgctxt "jelix~daoxml.primarykey.missing"
 msgid "(523)DAO %1$s, primary key name is missing (file %2$s)"
-msgstr ""
+msgstr "(523)DAO %1$s, numele cheii primare lipsește (fișierul %2$s)"
 
 #: jelix~daoxml.properties.missing
 msgctxt "jelix~daoxml.properties.missing"
@@ -1162,12 +1162,12 @@ msgstr ""
 #: jelix~db.error.query.bad
 msgctxt "jelix~db.error.query.bad"
 msgid "(403)invalid query (%s)"
-msgstr ""
+msgstr "(403)interogare greșită(%s)"
 
 #: jelix~errors.action.unknown
 msgctxt "jelix~errors.action.unknown"
 msgid "(131)Unknown action \"%s\""
-msgstr ""
+msgstr "(131)Acțiunenecunoscută „%s”"
 
 #: jelix~errors.ad.controller.class.unknown
 msgctxt "jelix~errors.ad.controller.class.unknown"
@@ -1223,22 +1223,22 @@ msgstr ""
 #: jelix~errors.cli.param.missing
 msgctxt "jelix~errors.cli.param.missing"
 msgid "(41)Missing parameter \"%s\""
-msgstr ""
+msgstr "(41)Lipsește parametrul „%s”"
 
 #: jelix~errors.cli.two.many.parameters
 msgctxt "jelix~errors.cli.two.many.parameters"
 msgid "(44)Too many parameters"
-msgstr ""
+msgstr "(44) Prea mulți parametri"
 
 #: jelix~errors.cli.unknown.command
 msgctxt "jelix~errors.cli.unknown.command"
 msgid "(40)Unknown command \"%s\""
-msgstr ""
+msgstr "(40)Comandă necunoscută „%s”"
 
 #: jelix~errors.cli.unknown.option
 msgctxt "jelix~errors.cli.unknown.option"
 msgid "(43)Unknown option \"%s\""
-msgstr ""
+msgstr "(43)Opțiune necunoscută „%s”"
 
 #: jelix~errors.datetime.invalid
 msgctxt "jelix~errors.datetime.invalid"
@@ -1258,7 +1258,7 @@ msgstr ""
 #: jelix~errors.file.directory.cannot.remove.fs.root
 msgctxt "jelix~errors.file.directory.cannot.remove.fs.root"
 msgid "(25)Can't delete the filesystem's root directory"
-msgstr ""
+msgstr "(25)Nu se poate șterge directorul rădăcină al sistemului de fișiere"
 
 #: jelix~errors.file.directory.notexists
 msgctxt "jelix~errors.file.directory.notexists"
@@ -1273,7 +1273,7 @@ msgstr ""
 #: jelix~errors.file.notexists
 msgctxt "jelix~errors.file.notexists"
 msgid "(23)The file %s doesn't exists"
-msgstr ""
+msgstr "(23)Fișierul %s nu există"
 
 #: jelix~errors.file.write.error
 msgctxt "jelix~errors.file.write.error"
@@ -1299,6 +1299,8 @@ msgstr ""
 msgctxt "jelix~errors.jsession.name.invalid"
 msgid "(90)Session name cannot be empty and only accepts alpha-numeric chars."
 msgstr ""
+"(90)Numele sesiunii nu poate fi necompletat și acceptă doar caractere "
+"alfanumerice."
 
 #: jelix~errors.locale.key.file.unknown
 msgctxt "jelix~errors.locale.key.file.unknown"
@@ -1322,7 +1324,7 @@ msgstr ""
 #: jelix~errors.ltx2pdf.exec
 msgctxt "jelix~errors.ltx2pdf.exec"
 msgid "(120) %s has returned: %s"
-msgstr ""
+msgstr "(120) %s a întors: %s"
 
 #: jelix~errors.mail.authenticate
 msgctxt "jelix~errors.mail.authenticate"
@@ -1342,12 +1344,12 @@ msgstr "(357) Eroare SMTP: Datele nu sunt acceptate."
 #: jelix~errors.mail.encoding
 msgctxt "jelix~errors.mail.encoding"
 msgid "(361)jMailer: Unknown encoding: %s"
-msgstr ""
+msgstr "(361)jMailer: codificare necunoscută: %s"
 
 #: jelix~errors.mail.execute
 msgctxt "jelix~errors.mail.execute"
 msgid "(352)jMailer: Could not execute: %s"
-msgstr ""
+msgstr "(352)jMailer: Nu s-a putut executa: %s"
 
 #: jelix~errors.mail.file_access
 msgctxt "jelix~errors.mail.file_access"
@@ -1367,7 +1369,7 @@ msgstr ""
 #: jelix~errors.mail.instantiate
 msgctxt "jelix~errors.mail.instantiate"
 msgid "(353)jMailer: Could not instantiate mail function.."
-msgstr ""
+msgstr "(353)jMailer: Nu s-a putut instanția funcția de e-mail.."
 
 #: jelix~errors.mail.mailer_not_supported
 msgctxt "jelix~errors.mail.mailer_not_supported"
@@ -1378,6 +1380,8 @@ msgstr ""
 msgctxt "jelix~errors.mail.provide_address"
 msgid "(350)jMailer: You must provide at least one recipient email address."
 msgstr ""
+"(350)jMailer: trebuie să furnizezi cel puțin o adresă de e-mail a "
+"destinatarului."
 
 #: jelix~errors.mail.recipients_failed
 msgctxt "jelix~errors.mail.recipients_failed"
@@ -1392,7 +1396,7 @@ msgstr "(362) Eroare de semnare: %s"
 #: jelix~errors.module.unknown
 msgctxt "jelix~errors.module.unknown"
 msgid "(136)Unknown module \"%s\""
-msgstr ""
+msgstr "(136)Modul necunoscut „%s”"
 
 #: jelix~errors.module.untrusted
 msgctxt "jelix~errors.module.untrusted"
@@ -1445,17 +1449,17 @@ msgstr ""
 #: jelix~errors.repredirect.empty.url
 msgctxt "jelix~errors.repredirect.empty.url"
 msgid "(153) Impossible to do redirection: empty url"
-msgstr ""
+msgstr "(153) Imposibil de făcut redirecționare: url gol"
 
 #: jelix~errors.repxml.invalid.content
 msgctxt "jelix~errors.repxml.invalid.content"
 msgid "(151) Invalid xml content for xml response"
-msgstr ""
+msgstr "(151) Conținut XML nevalid pentru răspunsul XML"
 
 #: jelix~errors.repxml.no.content
 msgctxt "jelix~errors.repxml.no.content"
 msgid "(150) Undefined content for xml response"
-msgstr ""
+msgstr "(150) Conținut nedefinit pentru răspunsul xml"
 
 #: jelix~errors.response.missing
 msgctxt "jelix~errors.response.missing"
@@ -1480,13 +1484,14 @@ msgstr ""
 #: jelix~errors.selector.module.unknown
 msgctxt "jelix~errors.selector.module.unknown"
 msgid "(18)Unknown module in the selector \"%s\""
-msgstr ""
+msgstr "(18)Modul necunoscut în selectorul „%s”"
 
 #: jelix~errors.tech
 msgctxt "jelix~errors.tech"
 msgid ""
 "(2)There is a technic error on the site. Please try connect to it later."
 msgstr ""
+"(2) Există o eroare tehnică pe site. Încearcă să te conectezi mai târziu."
 
 #: jelix~errors.tpl.not.found
 msgctxt "jelix~errors.tpl.not.found"
@@ -1675,7 +1680,7 @@ msgstr ""
 #: jelix~formserr.datatype.unknown
 msgctxt "jelix~formserr.datatype.unknown"
 msgid "(804) unknown datatype %1$s  on %2$s (file %3$s)"
-msgstr ""
+msgstr "(804) tip de date necunoscut %1$s pe %2$s (fișierul %3$s)"
 
 #: jelix~formserr.defaultvalues.not.allowed
 msgctxt "jelix~formserr.defaultvalues.not.allowed"
@@ -1718,7 +1723,7 @@ msgstr ""
 #: jelix~formserr.js.err.file.upload
 msgctxt "jelix~formserr.js.err.file.upload"
 msgid "Technical error during the upload of \"%s\""
-msgstr ""
+msgstr "Eroare tehnică la încărcarea „%s”"
 
 #: jelix~formserr.js.err.invalid
 msgctxt "jelix~formserr.js.err.invalid"
@@ -1728,12 +1733,12 @@ msgstr "Câmpul \"%s\" este greșit"
 #: jelix~formserr.js.err.invalid.file.size
 msgctxt "jelix~formserr.js.err.invalid.file.size"
 msgid "The file given for \"%s\" has a wrong size"
-msgstr ""
+msgstr "Fișierul dat pentru „%s” are o dimensiune greșită"
 
 #: jelix~formserr.js.err.invalid.file.type
 msgctxt "jelix~formserr.js.err.invalid.file.type"
 msgid "The file given for \"%s\" has a wrong type"
-msgstr ""
+msgstr "Fișierul dat pentru „%s” are un tip greșit"
 
 #: jelix~formserr.js.err.required
 msgctxt "jelix~formserr.js.err.required"
@@ -1772,7 +1777,7 @@ msgstr ""
 #: jelix~formserr.tag.missing
 msgctxt "jelix~formserr.tag.missing"
 msgid "(800) %1$s is missing (file %2$s)"
-msgstr ""
+msgstr "(800) %1$s lipsește (fișierul %2$s)"
 
 #: jelix~formserr.unknown.control
 msgctxt "jelix~formserr.unknown.control"
@@ -1809,7 +1814,7 @@ msgstr "Jelix"
 #: jelix~jelix.framework.slogan
 msgctxt "jelix~jelix.framework.slogan"
 msgid "Jelix, a framework for PHP"
-msgstr ""
+msgstr "Jelix, un framework pentru PHP"
 
 #: jelix~jelix.newapp.h1
 msgctxt "jelix~jelix.newapp.h1"
@@ -1844,47 +1849,47 @@ msgstr "An"
 #: jelix~jforms.password.editor.button.copy
 msgctxt "jelix~jforms.password.editor.button.copy"
 msgid "Copy"
-msgstr ""
+msgstr "Copiere"
 
 #: jelix~jforms.password.editor.button.regenerate
 msgctxt "jelix~jforms.password.editor.button.regenerate"
 msgid "Regenerate"
-msgstr ""
+msgstr "Regenerare"
 
 #: jelix~jforms.password.editor.button.show
 msgctxt "jelix~jforms.password.editor.button.show"
 msgid "Show"
-msgstr ""
+msgstr "Afişare"
 
 #: jelix~jforms.password.not.strong.enough
 msgctxt "jelix~jforms.password.not.strong.enough"
 msgid "The password is not complex enough"
-msgstr ""
+msgstr "Parola nu este suficient de complexă"
 
 #: jelix~jforms.password.score.bad.password
 msgctxt "jelix~jforms.password.score.bad.password"
 msgid "Contains a highly used password"
-msgstr ""
+msgstr "Conține o parolă utilizată frecvent"
 
 #: jelix~jforms.password.score.good
 msgctxt "jelix~jforms.password.score.good"
 msgid "Good"
-msgstr ""
+msgstr "Bună"
 
 #: jelix~jforms.password.score.poor
 msgctxt "jelix~jforms.password.score.poor"
 msgid "Too weak"
-msgstr ""
+msgstr "Prea slabă"
 
 #: jelix~jforms.password.score.strong
 msgctxt "jelix~jforms.password.score.strong"
 msgid "Strong"
-msgstr ""
+msgstr "Puternică"
 
 #: jelix~jforms.password.score.weak
 msgctxt "jelix~jforms.password.score.weak"
 msgid "Weak"
-msgstr ""
+msgstr "Slabă"
 
 #: jelix~jforms.time.hour.label
 msgctxt "jelix~jforms.time.hour.label"
