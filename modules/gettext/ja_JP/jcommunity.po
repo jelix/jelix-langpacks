@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jcommunity 1.3 jcommunity\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-01 18:05++0200\n"
+"POT-Creation-Date: 2023-10-06 16:32++0200\n"
 "PO-Revision-Date: 2021-02-26 17:29+0000\n"
 "Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2023\n"
 "Language-Team: Japanese (https://app.transifex.com/3liz-1/teams/62012/ja/)\n"
@@ -765,6 +765,11 @@ msgstr "‎パスワードのリセット‎"
 msgctxt "jcommunity~password.mail.pwd.change.subject"
 msgid "Request about a password reset on %s"
 msgstr "‎パスワードのリセットに関する要求‎%s"
+
+#: jcommunity~password.page.create.title
+msgctxt "jcommunity~password.page.create.title"
+msgid "Registration"
+msgstr ""
 
 #: jcommunity~password.page.title
 msgctxt "jcommunity~password.page.title"
