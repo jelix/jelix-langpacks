@@ -789,7 +789,7 @@ msgstr "Požadavek na obnovení hesla u %s"
 #: jcommunity~password.page.create.title
 msgctxt "jcommunity~password.page.create.title"
 msgid "Registration"
-msgstr ""
+msgstr "Registrace"
 
 #: jcommunity~password.page.title
 msgctxt "jcommunity~password.page.title"

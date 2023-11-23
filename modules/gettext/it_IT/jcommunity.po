@@ -1,8 +1,8 @@
 # 
 # Translators:
 # Flavio, 2021
-# marcobra <marcobra.ubuntu@gmail.com>, 2022
 # Laurent Jouanneau <dev@ljouanneau.com>, 2023
+# marcobra <marcobra.ubuntu@gmail.com>, 2023
 # 
 msgid ""
 msgstr ""
@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-10-06 16:32++0200\n"
 "PO-Revision-Date: 2021-02-26 17:29+0000\n"
-"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2023\n"
+"Last-Translator: marcobra <marcobra.ubuntu@gmail.com>, 2023\n"
 "Language-Team: Italian (https://app.transifex.com/3liz-1/teams/62012/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -400,11 +400,14 @@ msgid ""
 "\n"
 " <p>The user {$userName} has made some changes <a href=\"{$profilLink}\">into his profile</a>.</p> <p>Regards.</p>"
 msgstr ""
+"<p>Ciao,</p>\n"
+"\n"
+" <p>L'utente {$userName} ha fatto alcune modifiche <a href=\"{$profilLink}\">nel suo profilo</a>.</p> <p>Saluti.</p>"
 
 #: jcommunity~mail.account.change.notification.subject
 msgctxt "jcommunity~mail.account.change.notification.subject"
 msgid "Changes into the profile of %s on the web site %s"
-msgstr ""
+msgstr "Cambiamenti nel profilo di %s sul sito web %s"
 
 #: jcommunity~mail.password.admin.reset.body.html
 msgctxt "jcommunity~mail.password.admin.reset.body.html"
@@ -802,12 +805,12 @@ msgstr "Richiedi di resettare la password su %s"
 #: jcommunity~password.page.create.title
 msgctxt "jcommunity~password.page.create.title"
 msgid "Registration"
-msgstr ""
+msgstr "Registrazione"
 
 #: jcommunity~password.page.title
 msgctxt "jcommunity~password.page.title"
 msgid "Your account"
-msgstr ""
+msgstr "Il tuo account"
 
 #: jcommunity~password.reset.cmdline.error
 msgctxt "jcommunity~password.reset.cmdline.error"
@@ -844,6 +847,13 @@ msgid ""
 "allows you to change your password. This link is valid only few hours.</p> "
 "<p>The current password is still valid as long as you don't change it.</p>"
 msgstr ""
+"<p>La mail è stata spedita all'indirizzo che hai fornito. Se non la vedi "
+"nella tua casella di posta in pochi minuti, verifica la tua cartella spam. "
+"Se non ricevi l'email, forse il login e la e-mail che hai fornito non sono "
+"validi. Contattare l'amministratore del sito web.</p> <p>Questa e-mail "
+"contiene un link a una pagina che consente di modificare la tua password. "
+"Questo link è valido solo poche ore.</p> <p>La password corrente è ancora "
+"valida, purché non la cambi.</p>"
 
 #: jcommunity~prefs.admin.prefs.change
 msgctxt "jcommunity~prefs.admin.prefs.change"
