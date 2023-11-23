@@ -1978,47 +1978,47 @@ msgstr "Ano"
 #: jelix~jforms.password.editor.button.copy
 msgctxt "jelix~jforms.password.editor.button.copy"
 msgid "Copy"
-msgstr ""
+msgstr "Copiar"
 
 #: jelix~jforms.password.editor.button.regenerate
 msgctxt "jelix~jforms.password.editor.button.regenerate"
 msgid "Regenerate"
-msgstr ""
+msgstr "Regenerar"
 
 #: jelix~jforms.password.editor.button.show
 msgctxt "jelix~jforms.password.editor.button.show"
 msgid "Show"
-msgstr ""
+msgstr "Apresentar"
 
 #: jelix~jforms.password.not.strong.enough
 msgctxt "jelix~jforms.password.not.strong.enough"
 msgid "The password is not complex enough"
-msgstr ""
+msgstr "A palavra-passe não tem complexidade suficiente"
 
 #: jelix~jforms.password.score.bad.password
 msgctxt "jelix~jforms.password.score.bad.password"
 msgid "Contains a highly used password"
-msgstr ""
+msgstr "Contem uma palavra-passe muito utilizada"
 
 #: jelix~jforms.password.score.good
 msgctxt "jelix~jforms.password.score.good"
 msgid "Good"
-msgstr ""
+msgstr "Boa"
 
 #: jelix~jforms.password.score.poor
 msgctxt "jelix~jforms.password.score.poor"
 msgid "Too weak"
-msgstr ""
+msgstr "Muito fraca"
 
 #: jelix~jforms.password.score.strong
 msgctxt "jelix~jforms.password.score.strong"
 msgid "Strong"
-msgstr ""
+msgstr "Forte"
 
 #: jelix~jforms.password.score.weak
 msgctxt "jelix~jforms.password.score.weak"
 msgid "Weak"
-msgstr ""
+msgstr "Fraca"
 
 #: jelix~jforms.time.hour.label
 msgctxt "jelix~jforms.time.hour.label"
