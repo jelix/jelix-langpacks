@@ -3,14 +3,15 @@
 # Ludovico <frateludovico@gmail.com>, 2022
 # Laurent Jouanneau <dev@ljouanneau.com>, 2022
 # marcobra <marcobra.ubuntu@gmail.com>, 2023
+# Ulisse Cavallini <github@cavallini.anonaddy.com>, 2023
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: jelix 1.8.0 jacl2db_admin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-20 14:10++0200\n"
+"POT-Creation-Date: 2023-12-12 17:13++0100\n"
 "PO-Revision-Date: 2022-07-21 14:29+0000\n"
-"Last-Translator: marcobra <marcobra.ubuntu@gmail.com>, 2023\n"
+"Last-Translator: Ulisse Cavallini <github@cavallini.anonaddy.com>, 2023\n"
 "Language-Team: Italian (https://app.transifex.com/3liz-1/teams/62012/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -432,6 +433,11 @@ msgstr "Nessun diritto sulle risorse"
 msgctxt "jacl2db_admin~acl2.no.rights"
 msgid "No rights"
 msgstr "Nessun diritto"
+
+#: jacl2db_admin~acl2.profile.link
+msgctxt "jacl2db_admin~acl2.profile.link"
+msgid "profile"
+msgstr "profilo"
 
 #: jacl2db_admin~acl2.remove.group.tooltip
 msgctxt "jacl2db_admin~acl2.remove.group.tooltip"
