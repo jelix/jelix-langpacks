@@ -7,8 +7,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2023-11-23 15:44++0100\n"
-"PO-Revision-Date: 2023-11-23 15:44++0100\n"
+"POT-Creation-Date: 2024-01-16 11:12++0000\n"
+"PO-Revision-Date: 2024-01-16 11:12++0000\n"
 "Language: \n"
 
 #: jcommunity~account.admin.link.account.resent.validation.email
@@ -156,6 +156,11 @@ msgctxt "jcommunity~account.form.login"
 msgid "Username"
 msgstr ""
 
+#: jcommunity~account.form.login_or_email
+msgctxt "jcommunity~account.form.login_or_email"
+msgid "Username or email"
+msgstr ""
+
 #: jcommunity~account.form.nickname
 msgctxt "jcommunity~account.form.nickname"
 msgid "Displayed name"
@@ -248,7 +253,7 @@ msgstr ""
 
 #: jcommunity~login.access.forbidden.authenticated
 msgctxt "jcommunity~login.access.forbidden.authenticated"
-msgid "You cannot access to this page because your are connected."
+msgid "You cannot access to this page because you are connected."
 msgstr ""
 
 #: jcommunity~login.access.forbidden.badstatus
@@ -661,6 +666,11 @@ msgstr ""
 #: jcommunity~password.form.create.title
 msgctxt "jcommunity~password.form.create.title"
 msgid "Account creation"
+msgstr ""
+
+#: jcommunity~password.form.login-email.text.html
+msgctxt "jcommunity~password.form.login-email.text.html"
+msgid "<p>If you have forgotten your password, fill the following form with your login or email.</p> <p>An email will be sent with a link to a page allowing you to choose a new password.</p>"
 msgstr ""
 
 #: jcommunity~password.form.submit
