@@ -1,10 +1,14 @@
 # 
+# Translators:
+# Jože Detečnik <joze.detecnik@3tav.si>, 2024
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: jcommunity 1.3 jcommunity\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-06 16:32++0200\n"
+"POT-Creation-Date: 2024-01-16 11:12++0000\n"
 "PO-Revision-Date: 2021-02-26 17:29+0000\n"
+"Last-Translator: Jože Detečnik <joze.detecnik@3tav.si>, 2024\n"
 "Language-Team: Slovenian (https://app.transifex.com/3liz-1/teams/62012/sl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,57 +19,57 @@ msgstr ""
 #: jcommunity~account.admin.link.account.resent.validation.email
 msgctxt "jcommunity~account.admin.link.account.resent.validation.email"
 msgid "Resend the validation email"
-msgstr ""
+msgstr "Pošlji potrditveno sporočilo"
 
 #: jcommunity~account.admin.link.account.reset.password
 msgctxt "jcommunity~account.admin.link.account.reset.password"
 msgid "Reset his password"
-msgstr ""
+msgstr "Ponastavi geslo"
 
 #: jcommunity~account.back.to.account
 msgctxt "jcommunity~account.back.to.account"
 msgid "Back to your profile"
-msgstr ""
+msgstr "Nazaj na profil"
 
 #: jcommunity~account.cancel.and.back.to.account
 msgctxt "jcommunity~account.cancel.and.back.to.account"
 msgid "Cancel and back to your profile"
-msgstr ""
+msgstr "Prekini in nazaj v profil"
 
 #: jcommunity~account.duration.day
 msgctxt "jcommunity~account.duration.day"
 msgid "day"
-msgstr ""
+msgstr "dan"
 
 #: jcommunity~account.duration.days
 msgctxt "jcommunity~account.duration.days"
 msgid "days"
-msgstr ""
+msgstr "dnevi"
 
 #: jcommunity~account.duration.hour
 msgctxt "jcommunity~account.duration.hour"
 msgid "hour"
-msgstr ""
+msgstr "ura"
 
 #: jcommunity~account.duration.hours
 msgctxt "jcommunity~account.duration.hours"
 msgid "hours"
-msgstr ""
+msgstr "ure"
 
 #: jcommunity~account.duration.minute
 msgctxt "jcommunity~account.duration.minute"
 msgid "minute"
-msgstr ""
+msgstr "minuta"
 
 #: jcommunity~account.duration.minutes
 msgctxt "jcommunity~account.duration.minutes"
 msgid "minutes"
-msgstr ""
+msgstr "minute"
 
 #: jcommunity~account.error.dup.nickname
 msgctxt "jcommunity~account.error.dup.nickname"
 msgid "The displayed name is already used by another user"
-msgstr ""
+msgstr "Uporabniško ime že obstaja"
 
 #: jcommunity~account.form.admin.create.emailsent
 msgctxt "jcommunity~account.form.admin.create.emailsent"
@@ -84,12 +88,12 @@ msgstr ""
 #: jcommunity~account.form.cancel
 msgctxt "jcommunity~account.form.cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Prekini"
 
 #: jcommunity~account.form.captcha
 msgctxt "jcommunity~account.form.captcha"
 msgid "Are you a human?"
-msgstr ""
+msgstr "Ali ste človek?"
 
 #: jcommunity~account.form.createdate
 msgctxt "jcommunity~account.form.createdate"
@@ -136,72 +140,77 @@ msgstr ""
 #: jcommunity~account.form.delete.account.submit
 msgctxt "jcommunity~account.form.delete.account.submit"
 msgid "Delete"
-msgstr ""
+msgstr "Izbriši"
 
 #: jcommunity~account.form.delete.account.title
 msgctxt "jcommunity~account.form.delete.account.title"
 msgid "Deleting your account"
-msgstr ""
+msgstr "Izbriši svoj račun"
 
 #: jcommunity~account.form.edit.profile.title
 msgctxt "jcommunity~account.form.edit.profile.title"
 msgid "Editing your profile"
-msgstr ""
+msgstr "Urejanje profila"
 
 #: jcommunity~account.form.email
 msgctxt "jcommunity~account.form.email"
 msgid "Email"
-msgstr ""
+msgstr "e-pošta"
 
 #: jcommunity~account.form.keyactivate
 msgctxt "jcommunity~account.form.keyactivate"
 msgid "Request key"
-msgstr ""
+msgstr "Zahtevaj ključ"
 
 #: jcommunity~account.form.login
 msgctxt "jcommunity~account.form.login"
 msgid "Username"
-msgstr ""
+msgstr "Uporabniško ime"
+
+#: jcommunity~account.form.login_or_email
+msgctxt "jcommunity~account.form.login_or_email"
+msgid "Username or email"
+msgstr "Uporabniško ime ali e-pošta"
 
 #: jcommunity~account.form.nickname
 msgctxt "jcommunity~account.form.nickname"
 msgid "Displayed name"
-msgstr ""
+msgstr "Prikazano ime"
 
 #: jcommunity~account.form.password
 msgctxt "jcommunity~account.form.password"
 msgid "Password"
-msgstr ""
+msgstr "Geslo"
 
 #: jcommunity~account.form.password.confirm
 msgctxt "jcommunity~account.form.password.confirm"
 msgid "Retype the password"
-msgstr ""
+msgstr "Ponovi geslo"
 
 #: jcommunity~account.form.password.help
 msgctxt "jcommunity~account.form.password.help"
 msgid "The password length must be above 12 characters"
-msgstr ""
+msgstr "Dolžina gesla je nad 12 znakov"
 
 #: jcommunity~account.form.requestdate
 msgctxt "jcommunity~account.form.requestdate"
 msgid "Request date"
-msgstr ""
+msgstr "Datum zahteve"
 
 #: jcommunity~account.form.status
 msgctxt "jcommunity~account.form.status"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: jcommunity~account.form.status.deactivate
 msgctxt "jcommunity~account.form.status.deactivate"
 msgid "Deactivated"
-msgstr ""
+msgstr "Deaktivirano"
 
 #: jcommunity~account.form.status.deleted
 msgctxt "jcommunity~account.form.status.deleted"
 msgid "Deleted"
-msgstr ""
+msgstr "Izbrisano"
 
 #: jcommunity~account.form.status.newuser
 msgctxt "jcommunity~account.form.status.newuser"
@@ -226,22 +235,22 @@ msgstr ""
 #: jcommunity~account.form.submit
 msgctxt "jcommunity~account.form.submit"
 msgid "Save"
-msgstr ""
+msgstr "Shrani"
 
 #: jcommunity~account.link.account.change.password
 msgctxt "jcommunity~account.link.account.change.password"
 msgid "Change your password"
-msgstr ""
+msgstr "Sprememba gesla"
 
 #: jcommunity~account.link.account.delete
 msgctxt "jcommunity~account.link.account.delete"
 msgid "Delete your account"
-msgstr ""
+msgstr "Izbriši svoj račun"
 
 #: jcommunity~account.link.profile.edit
 msgctxt "jcommunity~account.link.profile.edit"
 msgid "Edit your profile"
-msgstr ""
+msgstr "Urejanje profila"
 
 #: jcommunity~account.profile.of
 msgctxt "jcommunity~account.profile.of"
@@ -251,11 +260,11 @@ msgstr ""
 #: jcommunity~account.unknown.user
 msgctxt "jcommunity~account.unknown.user"
 msgid "Unknown user"
-msgstr ""
+msgstr "Neprepoznan uporabnik"
 
 #: jcommunity~login.access.forbidden.authenticated
 msgctxt "jcommunity~login.access.forbidden.authenticated"
-msgid "You cannot access to this page because your are connected."
+msgid "You cannot access to this page because you are connected."
 msgstr ""
 
 #: jcommunity~login.access.forbidden.badstatus
@@ -272,7 +281,7 @@ msgstr ""
 #: jcommunity~login.access.not.available
 msgctxt "jcommunity~login.access.not.available"
 msgid "Page not available"
-msgstr ""
+msgstr "Stran ni na voljo"
 
 #: jcommunity~login.access.title
 msgctxt "jcommunity~login.access.title"
@@ -282,7 +291,7 @@ msgstr ""
 #: jcommunity~login.back.to.login
 msgctxt "jcommunity~login.back.to.login"
 msgid "Back to the login form"
-msgstr ""
+msgstr "Nazaj na prijavo"
 
 #: jcommunity~login.cancel.and.back.to.login
 msgctxt "jcommunity~login.cancel.and.back.to.login"
@@ -292,7 +301,7 @@ msgstr ""
 #: jcommunity~login.error
 msgctxt "jcommunity~login.error"
 msgid "Unknown username or wrong password"
-msgstr ""
+msgstr "Nepoznan uporabnik ali neustrezno geslo"
 
 #: jcommunity~login.error.no.after_login
 msgctxt "jcommunity~login.error.no.after_login"
@@ -312,72 +321,72 @@ msgstr ""
 #: jcommunity~login.form.remember.me
 msgctxt "jcommunity~login.form.remember.me"
 msgid "Remember me"
-msgstr ""
+msgstr "Zapomni si me"
 
 #: jcommunity~login.form.submit
 msgctxt "jcommunity~login.form.submit"
 msgid "Sign in"
-msgstr ""
+msgstr "Prijava"
 
 #: jcommunity~login.login.account
 msgctxt "jcommunity~login.login.account"
 msgid "Your account"
-msgstr ""
+msgstr "Uporabniški račun"
 
 #: jcommunity~login.login.password.reset
 msgctxt "jcommunity~login.login.password.reset"
 msgid "I forgot my password"
-msgstr ""
+msgstr "Pozabljeno geslo"
 
 #: jcommunity~login.login.title
 msgctxt "jcommunity~login.login.title"
 msgid "Sign in"
-msgstr ""
+msgstr "Prijava"
 
 #: jcommunity~login.logout
 msgctxt "jcommunity~login.logout"
 msgid "Sign out"
-msgstr ""
+msgstr "Odjava"
 
 #: jcommunity~login.startpage.account.create
 msgctxt "jcommunity~login.startpage.account.create"
 msgid "Create an account"
-msgstr ""
+msgstr "Ustvari račun"
 
 #: jcommunity~login.startpage.account.view
 msgctxt "jcommunity~login.startpage.account.view"
 msgid "View your profile"
-msgstr ""
+msgstr "Pregled profila"
 
 #: jcommunity~login.startpage.connected
 msgctxt "jcommunity~login.startpage.connected"
 msgid "You are connected."
-msgstr ""
+msgstr "Povezava vzpostavljena."
 
 #: jcommunity~login.startpage.login
 msgctxt "jcommunity~login.startpage.login"
 msgid "Sign in"
-msgstr ""
+msgstr "Prijava"
 
 #: jcommunity~login.startpage.logout
 msgctxt "jcommunity~login.startpage.logout"
 msgid "Sign out"
-msgstr ""
+msgstr "Odjava"
 
 #: jcommunity~login.startpage.not.connected
 msgctxt "jcommunity~login.startpage.not.connected"
 msgid "You are not connected."
-msgstr ""
+msgstr "Niste povezani."
 
 #: jcommunity~login.startpage.password.reset
 msgctxt "jcommunity~login.startpage.password.reset"
 msgid "Reset your password"
-msgstr ""
+msgstr "Ponastavitev gesla"
 
 #: jcommunity~login.startpage.youcan
 msgctxt "jcommunity~login.startpage.youcan"
 msgid "You can:"
-msgstr ""
+msgstr "Možnosti:"
 
 #: jcommunity~mail.account.change.notification.body.html
 msgctxt "jcommunity~mail.account.change.notification.body.html"
@@ -529,7 +538,7 @@ msgstr ""
 #: jcommunity~password.change.cmdline.help.parameter.login
 msgctxt "jcommunity~password.change.cmdline.help.parameter.login"
 msgid "The user login."
-msgstr ""
+msgstr "Uporabnik prijavljen."
 
 #: jcommunity~password.change.cmdline.help.parameter.password
 msgctxt "jcommunity~password.change.cmdline.help.parameter.password"
@@ -557,12 +566,12 @@ msgstr ""
 #: jcommunity~password.form.change.current.password.label
 msgctxt "jcommunity~password.form.change.current.password.label"
 msgid "Your current password"
-msgstr ""
+msgstr "Trenutno geslo"
 
 #: jcommunity~password.form.change.error.admin.badloginemail
 msgctxt "jcommunity~password.form.change.error.admin.badloginemail"
 msgid "The username or his email is unknown"
-msgstr ""
+msgstr "Neprepoznano uporabniško ime oziroma e-pošta"
 
 #: jcommunity~password.form.change.error.admin.badstatus
 msgctxt "jcommunity~password.form.change.error.admin.badstatus"
@@ -625,22 +634,22 @@ msgstr ""
 #: jcommunity~password.form.change.password.label
 msgctxt "jcommunity~password.form.change.password.label"
 msgid "Your new password"
-msgstr ""
+msgstr "Novo geslo"
 
 #: jcommunity~password.form.change.reset.ok
 msgctxt "jcommunity~password.form.change.reset.ok"
 msgid "The new password is now saved. You can sign in now."
-msgstr ""
+msgstr "Novo geslo je shranjeno. Lahko se prijavite."
 
 #: jcommunity~password.form.change.submit
 msgctxt "jcommunity~password.form.change.submit"
 msgid "Change"
-msgstr ""
+msgstr "Spremeni"
 
 #: jcommunity~password.form.change.text.html
 msgctxt "jcommunity~password.form.change.text.html"
 msgid "<p>Indicate your new password.</p>"
-msgstr ""
+msgstr "<p>Označi novo geslo.</p>"
 
 #: jcommunity~password.form.change.title
 msgctxt "jcommunity~password.form.change.title"
@@ -684,11 +693,19 @@ msgstr ""
 #: jcommunity~password.form.create.text.html
 msgctxt "jcommunity~password.form.create.text.html"
 msgid "<p>Indicate your new password.</p>"
-msgstr ""
+msgstr "<p>Označi novo geslo.</p>"
 
 #: jcommunity~password.form.create.title
 msgctxt "jcommunity~password.form.create.title"
 msgid "Account creation"
+msgstr ""
+
+#: jcommunity~password.form.login-email.text.html
+msgctxt "jcommunity~password.form.login-email.text.html"
+msgid ""
+"<p>If you have forgotten your password, fill the following form with your "
+"login or email.</p> <p>An email will be sent with a link to a page allowing "
+"you to choose a new password.</p>"
 msgstr ""
 
 #: jcommunity~password.form.submit
@@ -718,12 +735,12 @@ msgstr ""
 #: jcommunity~password.page.create.title
 msgctxt "jcommunity~password.page.create.title"
 msgid "Registration"
-msgstr ""
+msgstr "Registracija"
 
 #: jcommunity~password.page.title
 msgctxt "jcommunity~password.page.title"
 msgid "Your account"
-msgstr ""
+msgstr "Uporabniški račun"
 
 #: jcommunity~password.reset.cmdline.error
 msgctxt "jcommunity~password.reset.cmdline.error"
@@ -951,7 +968,7 @@ msgstr ""
 #: jcommunity~register.registration.title
 msgctxt "jcommunity~register.registration.title"
 msgid "Registration"
-msgstr ""
+msgstr "Registracija"
 
 #: jcommunity~register.registration.waiting.text.html
 msgctxt "jcommunity~register.registration.waiting.text.html"
@@ -965,4 +982,4 @@ msgstr ""
 #: jcommunity~register.registration.waiting.title
 msgctxt "jcommunity~register.registration.waiting.title"
 msgid "Registration"
-msgstr ""
+msgstr "Registracija"

@@ -1,14 +1,15 @@
 # 
 # Translators:
 # Laurent Jouanneau <dev@ljouanneau.com>, 2022
+# Jože Detečnik <joze.detecnik@3tav.si>, 2024
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: jelix 1.8.0 jelix\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-20 14:10++0200\n"
+"POT-Creation-Date: 2023-12-12 17:13++0100\n"
 "PO-Revision-Date: 2022-07-21 14:29+0000\n"
-"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2022\n"
+"Last-Translator: Jože Detečnik <joze.detecnik@3tav.si>, 2024\n"
 "Language-Team: Slovenian (https://app.transifex.com/3liz-1/teams/62012/sl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -381,7 +382,7 @@ msgstr ""
 #: jelix~crud.confirm.deletion
 msgctxt "jelix~crud.confirm.deletion"
 msgid "Are you sure to want to delete this record?"
-msgstr ""
+msgstr "Želite izbrisati zapis?"
 
 #: jelix~crud.link.create.record
 msgctxt "jelix~crud.link.create.record"
