@@ -2322,12 +2322,12 @@ msgstr ""
 #: jelix~ui.buttons.open
 msgctxt "jelix~ui.buttons.open"
 msgid "Open"
-msgstr ""
+msgstr "Odpri"
 
 #: jelix~ui.buttons.paste
 msgctxt "jelix~ui.buttons.paste"
 msgid "Paste"
-msgstr ""
+msgstr "Prilepi"
 
 #: jelix~ui.buttons.previous
 msgctxt "jelix~ui.buttons.previous"
@@ -2342,17 +2342,17 @@ msgstr ""
 #: jelix~ui.buttons.publish
 msgctxt "jelix~ui.buttons.publish"
 msgid "Publish"
-msgstr ""
+msgstr "Objavi"
 
 #: jelix~ui.buttons.refuse
 msgctxt "jelix~ui.buttons.refuse"
 msgid "Refuse"
-msgstr ""
+msgstr "Zavrni"
 
 #: jelix~ui.buttons.restore
 msgctxt "jelix~ui.buttons.restore"
 msgid "Restore"
-msgstr ""
+msgstr "Obnovi"
 
 #: jelix~ui.buttons.right
 msgctxt "jelix~ui.buttons.right"
@@ -2362,7 +2362,7 @@ msgstr ""
 #: jelix~ui.buttons.save
 msgctxt "jelix~ui.buttons.save"
 msgid "Save"
-msgstr ""
+msgstr "Shrani"
 
 #: jelix~ui.buttons.search
 msgctxt "jelix~ui.buttons.search"
@@ -2372,12 +2372,12 @@ msgstr "Išči"
 #: jelix~ui.buttons.select
 msgctxt "jelix~ui.buttons.select"
 msgid "Select"
-msgstr ""
+msgstr "Izberi"
 
 #: jelix~ui.buttons.selected
 msgctxt "jelix~ui.buttons.selected"
 msgid "Selected"
-msgstr ""
+msgstr "Izbrano"
 
 #: jelix~ui.buttons.send
 msgctxt "jelix~ui.buttons.send"
@@ -2392,12 +2392,12 @@ msgstr ""
 #: jelix~ui.buttons.show
 msgctxt "jelix~ui.buttons.show"
 msgid "Show"
-msgstr ""
+msgstr "Prikaži"
 
 #: jelix~ui.buttons.split
 msgctxt "jelix~ui.buttons.split"
 msgid "Split"
-msgstr ""
+msgstr "Razdeli"
 
 #: jelix~ui.buttons.test
 msgctxt "jelix~ui.buttons.test"
@@ -2407,17 +2407,17 @@ msgstr ""
 #: jelix~ui.buttons.trash
 msgctxt "jelix~ui.buttons.trash"
 msgid "Trash"
-msgstr ""
+msgstr "Koš"
 
 #: jelix~ui.buttons.unlock
 msgctxt "jelix~ui.buttons.unlock"
 msgid "Unlock"
-msgstr ""
+msgstr "Odkleni"
 
 #: jelix~ui.buttons.unlocked
 msgctxt "jelix~ui.buttons.unlocked"
 msgid "Unlocked"
-msgstr ""
+msgstr "Odklenjeno"
 
 #: jelix~ui.buttons.up
 msgctxt "jelix~ui.buttons.up"
@@ -2427,12 +2427,12 @@ msgstr ""
 #: jelix~ui.buttons.update
 msgctxt "jelix~ui.buttons.update"
 msgid "Update"
-msgstr ""
+msgstr "Posodobi"
 
 #: jelix~ui.buttons.upload
 msgctxt "jelix~ui.buttons.upload"
 msgid "Upload"
-msgstr ""
+msgstr "Naloži"
 
 #: jelix~ui.buttons.valid
 msgctxt "jelix~ui.buttons.valid"
@@ -2472,17 +2472,17 @@ msgstr ""
 #: jelix~ui.buttons.yes
 msgctxt "jelix~ui.buttons.yes"
 msgid "Yes"
-msgstr ""
+msgstr "Da"
 
 #: jelix~ui.messages.author
 msgctxt "jelix~ui.messages.author"
 msgid "Author"
-msgstr ""
+msgstr "Avtor"
 
 #: jelix~ui.messages.comment
 msgctxt "jelix~ui.messages.comment"
 msgid "Comment"
-msgstr ""
+msgstr "Komentar"
 
 #: jelix~ui.messages.desc
 msgctxt "jelix~ui.messages.desc"
@@ -2492,12 +2492,12 @@ msgstr "Opis"
 #: jelix~ui.messages.error
 msgctxt "jelix~ui.messages.error"
 msgid "Error"
-msgstr ""
+msgstr "Napaka"
 
 #: jelix~ui.messages.name
 msgctxt "jelix~ui.messages.name"
 msgid "Name"
-msgstr ""
+msgstr "Naziv"
 
 #: jelix~ui.messages.none
 msgctxt "jelix~ui.messages.none"
@@ -2517,12 +2517,12 @@ msgstr ""
 #: jelix~ui.title.confirm
 msgctxt "jelix~ui.title.confirm"
 msgid "Confirmed"
-msgstr ""
+msgstr "Potrjeno"
 
 #: jelix~ui.title.help
 msgctxt "jelix~ui.title.help"
 msgid "Help"
-msgstr ""
+msgstr "Pomoč"
 
 #: jelix~ui.title.offlineElements
 msgctxt "jelix~ui.title.offlineElements"
