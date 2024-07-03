@@ -45,17 +45,17 @@ msgstr ""
 #: jelix~auth.acl.users.create
 msgctxt "jelix~auth.acl.users.create"
 msgid "Create a new user"
-msgstr ""
+msgstr "Nov uporabnik"
 
 #: jelix~auth.acl.users.delete
 msgctxt "jelix~auth.acl.users.delete"
 msgid "Delete a user"
-msgstr ""
+msgstr "Izbriši uporabnika"
 
 #: jelix~auth.acl.users.list
 msgctxt "jelix~auth.acl.users.list"
 msgid "View list of users"
-msgstr ""
+msgstr "Seznam uporabnikov"
 
 #: jelix~auth.acl.users.modify
 msgctxt "jelix~auth.acl.users.modify"
@@ -1866,47 +1866,47 @@ msgstr ""
 #: jelix~jforms.password.score.good
 msgctxt "jelix~jforms.password.score.good"
 msgid "Good"
-msgstr ""
+msgstr "Dobro"
 
 #: jelix~jforms.password.score.poor
 msgctxt "jelix~jforms.password.score.poor"
 msgid "Too weak"
-msgstr ""
+msgstr "Prešibko"
 
 #: jelix~jforms.password.score.strong
 msgctxt "jelix~jforms.password.score.strong"
 msgid "Strong"
-msgstr ""
+msgstr "Močno"
 
 #: jelix~jforms.password.score.weak
 msgctxt "jelix~jforms.password.score.weak"
 msgid "Weak"
-msgstr ""
+msgstr "Šibko"
 
 #: jelix~jforms.time.hour.label
 msgctxt "jelix~jforms.time.hour.label"
 msgid "Hour"
-msgstr ""
+msgstr "Ura"
 
 #: jelix~jforms.time.minutes.label
 msgctxt "jelix~jforms.time.minutes.label"
 msgid "Minutes"
-msgstr ""
+msgstr "Minute"
 
 #: jelix~jforms.time.seconds.label
 msgctxt "jelix~jforms.time.seconds.label"
 msgid "Seconds"
-msgstr ""
+msgstr "Sekunde"
 
 #: jelix~jforms.upload.choice.del
 msgctxt "jelix~jforms.upload.choice.del"
 msgid "Delete"
-msgstr ""
+msgstr "Izbriši"
 
 #: jelix~jforms.upload.choice.keep
 msgctxt "jelix~jforms.upload.choice.keep"
 msgid "Keep"
-msgstr ""
+msgstr "Obdrži"
 
 #: jelix~jforms.upload.choice.keep.empty
 msgctxt "jelix~jforms.upload.choice.keep.empty"
@@ -2302,22 +2302,22 @@ msgstr ""
 #: jelix~ui.buttons.new
 msgctxt "jelix~ui.buttons.new"
 msgid "New"
-msgstr ""
+msgstr "Novo"
 
 #: jelix~ui.buttons.next
 msgctxt "jelix~ui.buttons.next"
 msgid "Next"
-msgstr ""
+msgstr "Naslednji"
 
 #: jelix~ui.buttons.no
 msgctxt "jelix~ui.buttons.no"
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #: jelix~ui.buttons.ok
 msgctxt "jelix~ui.buttons.ok"
 msgid "Ok"
-msgstr ""
+msgstr "V redu"
 
 #: jelix~ui.buttons.open
 msgctxt "jelix~ui.buttons.open"
@@ -2437,17 +2437,17 @@ msgstr "Naloži"
 #: jelix~ui.buttons.valid
 msgctxt "jelix~ui.buttons.valid"
 msgid "Valid"
-msgstr ""
+msgstr "Veljavno"
 
 #: jelix~ui.buttons.visible
 msgctxt "jelix~ui.buttons.visible"
 msgid "Visible"
-msgstr ""
+msgstr "Vidno"
 
 #: jelix~ui.buttons.warning
 msgctxt "jelix~ui.buttons.warning"
 msgid "Warning"
-msgstr ""
+msgstr "Opozorilo"
 
 #: jelix~ui.buttons.way_down
 msgctxt "jelix~ui.buttons.way_down"
@@ -2467,7 +2467,7 @@ msgstr ""
 #: jelix~ui.buttons.way_up
 msgctxt "jelix~ui.buttons.way_up"
 msgid "Way up"
-msgstr ""
+msgstr "Navzgor"
 
 #: jelix~ui.buttons.yes
 msgctxt "jelix~ui.buttons.yes"
@@ -2512,7 +2512,7 @@ msgstr "Naslov"
 #: jelix~ui.title.actions
 msgctxt "jelix~ui.title.actions"
 msgid "actions"
-msgstr ""
+msgstr "ukazi"
 
 #: jelix~ui.title.confirm
 msgctxt "jelix~ui.title.confirm"
