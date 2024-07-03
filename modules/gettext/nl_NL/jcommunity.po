@@ -482,7 +482,7 @@ msgstr ""
 "<p>Als dit verzoek een fout is of als u het niet wilt bevestigen, negeert u deze e-mail.\n"
 "Uw wachtwoord wordt niet gewijzigd.</p>\n"
 "\n"
-"<p>Graag tot ziens op {$domain_name}{ $basePath}!</p>"
+"<p>Graag tot ziens op {$domain_name}{$basePath}!</p>"
 
 #: jcommunity~mail.password.reset.subject
 msgctxt "jcommunity~mail.password.reset.subject"
