@@ -327,17 +327,17 @@ msgstr ""
 #: jelix~captcha.response.2
 msgctxt "jelix~captcha.response.2"
 msgid "ten"
-msgstr ""
+msgstr "deset"
 
 #: jelix~captcha.response.3
 msgctxt "jelix~captcha.response.3"
 msgid "fifteen"
-msgstr ""
+msgstr "petnajst"
 
 #: jelix~captcha.response.4
 msgctxt "jelix~captcha.response.4"
 msgid "twenty"
-msgstr ""
+msgstr "dvajset"
 
 #: jelix~captcha.response.5
 msgctxt "jelix~captcha.response.5"
@@ -347,7 +347,7 @@ msgstr ""
 #: jelix~captcha.response.6
 msgctxt "jelix~captcha.response.6"
 msgid "white"
-msgstr ""
+msgstr "bela"
 
 #: jelix~captcha.response.7
 msgctxt "jelix~captcha.response.7"
@@ -367,17 +367,17 @@ msgstr ""
 #: jelix~common.none
 msgctxt "jelix~common.none"
 msgid "none"
-msgstr ""
+msgstr "nič"
 
 #: jelix~common.unknown
 msgctxt "jelix~common.unknown"
 msgid "unknown"
-msgstr ""
+msgstr "nepoznan"
 
 #: jelix~common.version
 msgctxt "jelix~common.version"
 msgid "version"
-msgstr ""
+msgstr "Različica"
 
 #: jelix~crud.confirm.deletion
 msgctxt "jelix~crud.confirm.deletion"
@@ -387,62 +387,62 @@ msgstr "Želite izbrisati zapis?"
 #: jelix~crud.link.create.record
 msgctxt "jelix~crud.link.create.record"
 msgid "Create a new record"
-msgstr ""
+msgstr "Ustvari nov zapis"
 
 #: jelix~crud.link.delete.record
 msgctxt "jelix~crud.link.delete.record"
 msgid "Delete"
-msgstr ""
+msgstr "Izbriši"
 
 #: jelix~crud.link.edit.record
 msgctxt "jelix~crud.link.edit.record"
 msgid "Edit"
-msgstr ""
+msgstr "Uredi"
 
 #: jelix~crud.link.return.to.list
 msgctxt "jelix~crud.link.return.to.list"
 msgid "Return to the list"
-msgstr ""
+msgstr "Vrni na seznam"
 
 #: jelix~crud.link.view.record
 msgctxt "jelix~crud.link.view.record"
 msgid "View"
-msgstr ""
+msgstr "Pogled"
 
 #: jelix~crud.title.create
 msgctxt "jelix~crud.title.create"
 msgid "Create a new record"
-msgstr ""
+msgstr "Ustvari nov zapis"
 
 #: jelix~crud.title.filter
 msgctxt "jelix~crud.title.filter"
 msgid "Search"
-msgstr ""
+msgstr "Iskanje"
 
 #: jelix~crud.title.list
 msgctxt "jelix~crud.title.list"
 msgid "List"
-msgstr ""
+msgstr "Seznam"
 
 #: jelix~crud.title.pages
 msgctxt "jelix~crud.title.pages"
 msgid "Pages"
-msgstr ""
+msgstr "Strani"
 
 #: jelix~crud.title.results
 msgctxt "jelix~crud.title.results"
 msgid "Results (%s)"
-msgstr ""
+msgstr "Rezultat (%s)"
 
 #: jelix~crud.title.update
 msgctxt "jelix~crud.title.update"
 msgid "Edit of a record"
-msgstr ""
+msgstr "Urejanje zapisa"
 
 #: jelix~crud.title.view
 msgctxt "jelix~crud.title.view"
 msgid "Record details"
-msgstr ""
+msgstr "Podrobnosti"
 
 #: jelix~dao.check.badformat
 msgctxt "jelix~dao.check.badformat"
@@ -773,17 +773,17 @@ msgstr ""
 #: jelix~date_time.day.0.label
 msgctxt "jelix~date_time.day.0.label"
 msgid "Sunday"
-msgstr ""
+msgstr "Nedelja"
 
 #: jelix~date_time.day.0.shortlabel
 msgctxt "jelix~date_time.day.0.shortlabel"
 msgid "Sun"
-msgstr ""
+msgstr "Ned"
 
 #: jelix~date_time.day.1.label
 msgctxt "jelix~date_time.day.1.label"
 msgid "Monday"
-msgstr ""
+msgstr "Ponedeljek"
 
 #: jelix~date_time.day.1.ordinal
 msgctxt "jelix~date_time.day.1.ordinal"
@@ -793,7 +793,7 @@ msgstr ""
 #: jelix~date_time.day.1.shortlabel
 msgctxt "jelix~date_time.day.1.shortlabel"
 msgid "Mon"
-msgstr ""
+msgstr "Pon"
 
 #: jelix~date_time.day.10.ordinal
 msgctxt "jelix~date_time.day.10.ordinal"
@@ -848,7 +848,7 @@ msgstr ""
 #: jelix~date_time.day.2.label
 msgctxt "jelix~date_time.day.2.label"
 msgid "Tuesday"
-msgstr ""
+msgstr "Torek"
 
 #: jelix~date_time.day.2.ordinal
 msgctxt "jelix~date_time.day.2.ordinal"
@@ -858,7 +858,7 @@ msgstr ""
 #: jelix~date_time.day.2.shortlabel
 msgctxt "jelix~date_time.day.2.shortlabel"
 msgid "Tue"
-msgstr ""
+msgstr "Tor"
 
 #: jelix~date_time.day.20.ordinal
 msgctxt "jelix~date_time.day.20.ordinal"
@@ -913,7 +913,7 @@ msgstr ""
 #: jelix~date_time.day.3.label
 msgctxt "jelix~date_time.day.3.label"
 msgid "Wednesday"
-msgstr ""
+msgstr "Sreda"
 
 #: jelix~date_time.day.3.ordinal
 msgctxt "jelix~date_time.day.3.ordinal"
@@ -923,7 +923,7 @@ msgstr ""
 #: jelix~date_time.day.3.shortlabel
 msgctxt "jelix~date_time.day.3.shortlabel"
 msgid "Wed"
-msgstr ""
+msgstr "Sre"
 
 #: jelix~date_time.day.30.ordinal
 msgctxt "jelix~date_time.day.30.ordinal"
@@ -938,7 +938,7 @@ msgstr ""
 #: jelix~date_time.day.4.label
 msgctxt "jelix~date_time.day.4.label"
 msgid "Thursday"
-msgstr ""
+msgstr "Četrtek"
 
 #: jelix~date_time.day.4.ordinal
 msgctxt "jelix~date_time.day.4.ordinal"
@@ -948,12 +948,12 @@ msgstr ""
 #: jelix~date_time.day.4.shortlabel
 msgctxt "jelix~date_time.day.4.shortlabel"
 msgid "Thu"
-msgstr ""
+msgstr "Tor"
 
 #: jelix~date_time.day.5.label
 msgctxt "jelix~date_time.day.5.label"
 msgid "Friday"
-msgstr ""
+msgstr "Petek"
 
 #: jelix~date_time.day.5.ordinal
 msgctxt "jelix~date_time.day.5.ordinal"
@@ -963,12 +963,12 @@ msgstr ""
 #: jelix~date_time.day.5.shortlabel
 msgctxt "jelix~date_time.day.5.shortlabel"
 msgid "Fri"
-msgstr ""
+msgstr "Pet"
 
 #: jelix~date_time.day.6.label
 msgctxt "jelix~date_time.day.6.label"
 msgid "Saturday"
-msgstr ""
+msgstr "Sobota"
 
 #: jelix~date_time.day.6.ordinal
 msgctxt "jelix~date_time.day.6.ordinal"
@@ -978,7 +978,7 @@ msgstr ""
 #: jelix~date_time.day.6.shortlabel
 msgctxt "jelix~date_time.day.6.shortlabel"
 msgid "Sat"
-msgstr ""
+msgstr "Sob"
 
 #: jelix~date_time.day.7.ordinal
 msgctxt "jelix~date_time.day.7.ordinal"
@@ -998,7 +998,7 @@ msgstr ""
 #: jelix~date_time.month.01.label
 msgctxt "jelix~date_time.month.01.label"
 msgid "January"
-msgstr ""
+msgstr "Januar"
 
 #: jelix~date_time.month.01.shortlabel
 msgctxt "jelix~date_time.month.01.shortlabel"
@@ -1008,7 +1008,7 @@ msgstr ""
 #: jelix~date_time.month.02.label
 msgctxt "jelix~date_time.month.02.label"
 msgid "February"
-msgstr ""
+msgstr "Februar"
 
 #: jelix~date_time.month.02.shortlabel
 msgctxt "jelix~date_time.month.02.shortlabel"
@@ -1018,7 +1018,7 @@ msgstr ""
 #: jelix~date_time.month.03.label
 msgctxt "jelix~date_time.month.03.label"
 msgid "March"
-msgstr ""
+msgstr "Marec"
 
 #: jelix~date_time.month.03.shortlabel
 msgctxt "jelix~date_time.month.03.shortlabel"
@@ -1038,17 +1038,17 @@ msgstr ""
 #: jelix~date_time.month.05.label
 msgctxt "jelix~date_time.month.05.label"
 msgid "May"
-msgstr ""
+msgstr "Maj"
 
 #: jelix~date_time.month.05.shortlabel
 msgctxt "jelix~date_time.month.05.shortlabel"
 msgid "May"
-msgstr ""
+msgstr "Maj"
 
 #: jelix~date_time.month.06.label
 msgctxt "jelix~date_time.month.06.label"
 msgid "June"
-msgstr ""
+msgstr "Junij"
 
 #: jelix~date_time.month.06.shortlabel
 msgctxt "jelix~date_time.month.06.shortlabel"
@@ -1058,7 +1058,7 @@ msgstr ""
 #: jelix~date_time.month.07.label
 msgctxt "jelix~date_time.month.07.label"
 msgid "July"
-msgstr ""
+msgstr "Julij"
 
 #: jelix~date_time.month.07.shortlabel
 msgctxt "jelix~date_time.month.07.shortlabel"
@@ -1068,12 +1068,12 @@ msgstr ""
 #: jelix~date_time.month.08.label
 msgctxt "jelix~date_time.month.08.label"
 msgid "August"
-msgstr ""
+msgstr "Avgust"
 
 #: jelix~date_time.month.08.shortlabel
 msgctxt "jelix~date_time.month.08.shortlabel"
 msgid "Aug"
-msgstr ""
+msgstr "Avg"
 
 #: jelix~date_time.month.09.label
 msgctxt "jelix~date_time.month.09.label"
@@ -1088,12 +1088,12 @@ msgstr ""
 #: jelix~date_time.month.10.label
 msgctxt "jelix~date_time.month.10.label"
 msgid "October"
-msgstr ""
+msgstr "Oktober"
 
 #: jelix~date_time.month.10.shortlabel
 msgctxt "jelix~date_time.month.10.shortlabel"
 msgid "Oct"
-msgstr ""
+msgstr "Okt"
 
 #: jelix~date_time.month.11.label
 msgctxt "jelix~date_time.month.11.label"
@@ -2042,17 +2042,17 @@ msgstr ""
 #: jelix~ui.buttons.accept
 msgctxt "jelix~ui.buttons.accept"
 msgid "Accept"
-msgstr ""
+msgstr "Sprejmi"
 
 #: jelix~ui.buttons.add
 msgctxt "jelix~ui.buttons.add"
 msgid "Add"
-msgstr ""
+msgstr "Dodaj"
 
 #: jelix~ui.buttons.back
 msgctxt "jelix~ui.buttons.back"
 msgid "Back"
-msgstr ""
+msgstr "Nazaj"
 
 #: jelix~ui.buttons.browse
 msgctxt "jelix~ui.buttons.browse"
@@ -2062,57 +2062,57 @@ msgstr ""
 #: jelix~ui.buttons.calendar
 msgctxt "jelix~ui.buttons.calendar"
 msgid "Calendar"
-msgstr ""
+msgstr "Koledar"
 
 #: jelix~ui.buttons.cancel
 msgctxt "jelix~ui.buttons.cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Prekini"
 
 #: jelix~ui.buttons.clone
 msgctxt "jelix~ui.buttons.clone"
 msgid "Close"
-msgstr ""
+msgstr "Zapri"
 
 #: jelix~ui.buttons.close
 msgctxt "jelix~ui.buttons.close"
 msgid "Close"
-msgstr ""
+msgstr "Zapri"
 
 #: jelix~ui.buttons.comments
 msgctxt "jelix~ui.buttons.comments"
 msgid "Comments"
-msgstr ""
+msgstr "Komentarji"
 
 #: jelix~ui.buttons.confirm
 msgctxt "jelix~ui.buttons.confirm"
 msgid "Confirm"
-msgstr ""
+msgstr "Potrdi"
 
 #: jelix~ui.buttons.copy
 msgctxt "jelix~ui.buttons.copy"
 msgid "Copy"
-msgstr ""
+msgstr "Kopiraj"
 
 #: jelix~ui.buttons.cut
 msgctxt "jelix~ui.buttons.cut"
 msgid "Cut"
-msgstr ""
+msgstr "Izreži"
 
 #: jelix~ui.buttons.delete
 msgctxt "jelix~ui.buttons.delete"
 msgid "Delete"
-msgstr ""
+msgstr "Izbriši"
 
 #: jelix~ui.buttons.disable
 msgctxt "jelix~ui.buttons.disable"
 msgid "Disable"
-msgstr ""
+msgstr "Onemogoči"
 
 #: jelix~ui.buttons.disabled
 msgctxt "jelix~ui.buttons.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Onemogočeno"
 
 #: jelix~ui.buttons.down
 msgctxt "jelix~ui.buttons.down"
@@ -2122,7 +2122,7 @@ msgstr ""
 #: jelix~ui.buttons.download
 msgctxt "jelix~ui.buttons.download"
 msgid "Download"
-msgstr ""
+msgstr "Prenos"
 
 #: jelix~ui.buttons.emptyTrash
 msgctxt "jelix~ui.buttons.emptyTrash"
@@ -2132,12 +2132,12 @@ msgstr ""
 #: jelix~ui.buttons.enable
 msgctxt "jelix~ui.buttons.enable"
 msgid "Enable"
-msgstr ""
+msgstr "Omogoči"
 
 #: jelix~ui.buttons.enabled
 msgctxt "jelix~ui.buttons.enabled"
 msgid "Enabled"
-msgstr ""
+msgstr "Omogočeno"
 
 #: jelix~ui.buttons.erase
 msgctxt "jelix~ui.buttons.erase"
@@ -2147,7 +2147,7 @@ msgstr ""
 #: jelix~ui.buttons.export
 msgctxt "jelix~ui.buttons.export"
 msgid "Export"
-msgstr ""
+msgstr "Izvoz"
 
 #: jelix~ui.buttons.first
 msgctxt "jelix~ui.buttons.first"
@@ -2157,7 +2157,7 @@ msgstr ""
 #: jelix~ui.buttons.help
 msgctxt "jelix~ui.buttons.help"
 msgid "Help"
-msgstr ""
+msgstr "Pomoč"
 
 #: jelix~ui.buttons.hidden
 msgctxt "jelix~ui.buttons.hidden"
@@ -2167,7 +2167,7 @@ msgstr ""
 #: jelix~ui.buttons.history
 msgctxt "jelix~ui.buttons.history"
 msgid "History"
-msgstr ""
+msgstr "Zgodovina"
 
 #: jelix~ui.buttons.hot
 msgctxt "jelix~ui.buttons.hot"
@@ -2177,12 +2177,12 @@ msgstr ""
 #: jelix~ui.buttons.import
 msgctxt "jelix~ui.buttons.import"
 msgid "Import"
-msgstr ""
+msgstr "Uvoz"
 
 #: jelix~ui.buttons.important
 msgctxt "jelix~ui.buttons.important"
 msgid "Important"
-msgstr ""
+msgstr "Pomembno"
 
 #: jelix~ui.buttons.informations
 msgctxt "jelix~ui.buttons.informations"
@@ -2192,7 +2192,7 @@ msgstr ""
 #: jelix~ui.buttons.last
 msgctxt "jelix~ui.buttons.last"
 msgid "Last"
-msgstr ""
+msgstr "Zadnji"
 
 #: jelix~ui.buttons.left
 msgctxt "jelix~ui.buttons.left"
@@ -2217,22 +2217,22 @@ msgstr ""
 #: jelix~ui.buttons.login
 msgctxt "jelix~ui.buttons.login"
 msgid "Login"
-msgstr ""
+msgstr "Prijava"
 
 #: jelix~ui.buttons.logout
 msgctxt "jelix~ui.buttons.logout"
 msgid "Logout"
-msgstr ""
+msgstr "Odjava"
 
 #: jelix~ui.buttons.mail
 msgctxt "jelix~ui.buttons.mail"
 msgid "e-mail"
-msgstr ""
+msgstr "e-pošta"
 
 #: jelix~ui.buttons.merge
 msgctxt "jelix~ui.buttons.merge"
 msgid "Merge"
-msgstr ""
+msgstr "Spoji"
 
 #: jelix~ui.buttons.mergetobottom
 msgctxt "jelix~ui.buttons.mergetobottom"
@@ -2257,7 +2257,7 @@ msgstr ""
 #: jelix~ui.buttons.more
 msgctxt "jelix~ui.buttons.more"
 msgid "More"
-msgstr ""
+msgstr "Več"
 
 #: jelix~ui.buttons.move_10_down
 msgctxt "jelix~ui.buttons.move_10_down"
@@ -2332,12 +2332,12 @@ msgstr "Prilepi"
 #: jelix~ui.buttons.previous
 msgctxt "jelix~ui.buttons.previous"
 msgid "Previous"
-msgstr ""
+msgstr "Prejšnji"
 
 #: jelix~ui.buttons.propose
 msgctxt "jelix~ui.buttons.propose"
 msgid "Propose"
-msgstr ""
+msgstr "Predlog"
 
 #: jelix~ui.buttons.publish
 msgctxt "jelix~ui.buttons.publish"
@@ -2357,7 +2357,7 @@ msgstr "Obnovi"
 #: jelix~ui.buttons.right
 msgctxt "jelix~ui.buttons.right"
 msgid "Right"
-msgstr ""
+msgstr "Desno"
 
 #: jelix~ui.buttons.save
 msgctxt "jelix~ui.buttons.save"
@@ -2382,12 +2382,12 @@ msgstr "Izbrano"
 #: jelix~ui.buttons.send
 msgctxt "jelix~ui.buttons.send"
 msgid "Send"
-msgstr ""
+msgstr "Pošlji"
 
 #: jelix~ui.buttons.sendbymail
 msgctxt "jelix~ui.buttons.sendbymail"
 msgid "Send by email"
-msgstr ""
+msgstr "Pošlji po elektronski pošti"
 
 #: jelix~ui.buttons.show
 msgctxt "jelix~ui.buttons.show"
