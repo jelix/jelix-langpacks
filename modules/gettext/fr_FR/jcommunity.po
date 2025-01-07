@@ -1,6 +1,7 @@
 # 
 # Translators:
 # Laurent Jouanneau <dev@ljouanneau.com>, 2024
+# etrimaille <gustrimaille@yahoo.fr>, 2024
 # 
 msgid ""
 msgstr ""
@@ -8,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-16 11:12++0000\n"
 "PO-Revision-Date: 2021-02-26 17:29+0000\n"
-"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2024\n"
+"Last-Translator: etrimaille <gustrimaille@yahoo.fr>, 2024\n"
 "Language-Team: French (https://app.transifex.com/3liz-1/teams/62012/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -299,7 +300,7 @@ msgstr "Page non disponible."
 #: jcommunity~login.access.title
 msgctxt "jcommunity~login.access.title"
 msgid "Page access"
-msgstr "Accés"
+msgstr "Accès"
 
 #: jcommunity~login.back.to.login
 msgctxt "jcommunity~login.back.to.login"

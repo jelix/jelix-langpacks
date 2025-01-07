@@ -1,6 +1,7 @@
 # 
 # Translators:
 # Laurent Jouanneau <dev@ljouanneau.com>, 2024
+# Adrian Kowalski <ad.kowalski@gmail.com>, 2024
 # 
 msgid ""
 msgstr ""
@@ -8,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-16 11:12++0000\n"
 "PO-Revision-Date: 2021-02-26 17:29+0000\n"
-"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2024\n"
+"Last-Translator: Adrian Kowalski <ad.kowalski@gmail.com>, 2024\n"
 "Language-Team: Polish (Poland) (https://app.transifex.com/3liz-1/teams/62012/pl_PL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -176,7 +177,7 @@ msgstr "Nazwa użytkownika"
 #: jcommunity~account.form.login_or_email
 msgctxt "jcommunity~account.form.login_or_email"
 msgid "Username or email"
-msgstr ""
+msgstr "Nazwa użytkownika lub adres e-mail"
 
 #: jcommunity~account.form.nickname
 msgctxt "jcommunity~account.form.nickname"
@@ -403,11 +404,14 @@ msgid ""
 "\n"
 " <p>The user {$userName} has made some changes <a href=\"{$profilLink}\">into his profile</a>.</p> <p>Regards.</p>"
 msgstr ""
+"<p>Cześć,</p>\n"
+"\n"
+"<p>Użytkownik {$userName} wprowadził pewne zmiany <a href=\"{$profilLink}\">w swoim profilu</a>.</p> <p>Pozdrawiam.</p>"
 
 #: jcommunity~mail.account.change.notification.subject
 msgctxt "jcommunity~mail.account.change.notification.subject"
 msgid "Changes into the profile of %s on the web site %s"
-msgstr ""
+msgstr "Zmiany w profilu %s na stronie internetowej %s"
 
 #: jcommunity~mail.password.admin.reset.body.html
 msgctxt "jcommunity~mail.password.admin.reset.body.html"
@@ -781,6 +785,9 @@ msgid ""
 "login or email.</p> <p>An email will be sent with a link to a page allowing "
 "you to choose a new password.</p>"
 msgstr ""
+"<p>Jeśli zapomniałeś swojego hasła, wypełnij poniższy formularz podając swój"
+" login oraz adres e-mail.</p> <p>E-mail zostanie wysłany do Ciebie wraz z "
+"odnośnikiem do strony pozwalającej na wybranie nowego hasła.</p>"
 
 #: jcommunity~password.form.submit
 msgctxt "jcommunity~password.form.submit"
@@ -813,12 +820,12 @@ msgstr "Poproś o zresetowanie hasła dla %s"
 #: jcommunity~password.page.create.title
 msgctxt "jcommunity~password.page.create.title"
 msgid "Registration"
-msgstr ""
+msgstr "Rejestracja"
 
 #: jcommunity~password.page.title
 msgctxt "jcommunity~password.page.title"
 msgid "Your account"
-msgstr ""
+msgstr "Twoje konto"
 
 #: jcommunity~password.reset.cmdline.error
 msgctxt "jcommunity~password.reset.cmdline.error"
@@ -856,6 +863,13 @@ msgid ""
 "allows you to change your password. This link is valid only few hours.</p> "
 "<p>The current password is still valid as long as you don't change it.</p>"
 msgstr ""
+"<p>E-mail został wysłany na podany przez Ciebie adres. Jeśli nie pojawi się "
+"w skrzynce odbiorczej w ciągu kilku minut, sprawdź folder ze spamem. Jeśli "
+"nie otrzymałeś e-maila, być może login i podany adres e-mail są "
+"nieprawidłowe. Skontaktuj się z administratorem serwisu WWW.</p> <p>Ten "
+"e-mail zawiera łącze do strony, która umożliwia zmianę hasła. Ten link jest "
+"ważny tylko 48 godzin.</p> <p>Bieżące hasło jest nadal ważne, o ile go nie "
+"zmienisz.</p>"
 
 #: jcommunity~prefs.admin.prefs.change
 msgctxt "jcommunity~prefs.admin.prefs.change"
@@ -971,17 +985,17 @@ msgstr ""
 #: jcommunity~register.cmdline.delete.help.description
 msgctxt "jcommunity~register.cmdline.delete.help.description"
 msgid "Delete a user account"
-msgstr ""
+msgstr "Usuń konto użytkownika"
 
 #: jcommunity~register.cmdline.delete.help.parameter.login
 msgctxt "jcommunity~register.cmdline.delete.help.parameter.login"
 msgid "The login of the account to delete"
-msgstr ""
+msgstr "Login konta do usunięcia"
 
 #: jcommunity~register.cmdline.delete.help.text
 msgctxt "jcommunity~register.cmdline.delete.help.text"
 msgid "Delete a user account"
-msgstr ""
+msgstr "Usuń konto użytkownika"
 
 #: jcommunity~register.email.bad.format
 msgctxt "jcommunity~register.email.bad.format"
