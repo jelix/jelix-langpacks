@@ -7,8 +7,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-01-16 11:12++0000\n"
-"PO-Revision-Date: 2024-01-16 11:12++0000\n"
+"POT-Creation-Date: 2025-05-06 13:12++0000\n"
+"PO-Revision-Date: 2025-05-06 13:12++0000\n"
 "Language: \n"
 
 #: jcommunity~account.admin.link.account.resent.validation.email
@@ -541,6 +541,11 @@ msgstr ""
 #: jcommunity~password.change.cmdline.success
 msgctxt "jcommunity~password.change.cmdline.success"
 msgid "Password changed successfully."
+msgstr ""
+
+#: jcommunity~password.form.admin.force.change.text
+msgctxt "jcommunity~password.form.admin.force.change.text"
+msgid "You have the default password. You must change it immediately."
 msgstr ""
 
 #: jcommunity~password.form.change.current.password.label
