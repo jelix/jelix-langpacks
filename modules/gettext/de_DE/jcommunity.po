@@ -1,7 +1,7 @@
 # 
 # Translators:
-# meyerlor <sn1ks@utok-gaming.de>, 2025
 # Laurent Jouanneau <dev@ljouanneau.com>, 2025
+# meyerlor <sn1ks@utok-gaming.de>, 2025
 # 
 msgid ""
 msgstr ""
@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-12 13:18++0000\n"
 "PO-Revision-Date: 2021-02-26 17:29+0000\n"
-"Last-Translator: Laurent Jouanneau <dev@ljouanneau.com>, 2025\n"
+"Last-Translator: meyerlor <sn1ks@utok-gaming.de>, 2025\n"
 "Language-Team: German (https://app.transifex.com/3liz-1/teams/62012/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -504,7 +504,7 @@ msgstr ""
 "<p>Guten Tag,\n"
 "\n"
 "<p>Der Administrator der Seite <a href=\"{$website_uri}\" class=\"notexpandlink\"> {$domain_name}{$basePath}</a> hat einen Account für dich erstellt mit dem Usernamen <em>\"{$user->login}\"</em>.</p>\n"
-"<p>Bevor du den Account nutzen kannst solltest du die Registrierung aberschließen, indem du ein Passwort setzt. Klicke hierfür einfach auf <a href=\"{$confirmation_link}\">diesen Link</a>. Der Link ist  {$validationKeyTTL} gültig. </p>\n"
+"<p>Bevor du den Account nutzen kannst, solltest du die Registrierung aberschließen, indem du ein Passwort setzt. Klicke hierfür einfach auf <a href=\"{$confirmation_link}\">diesen Link</a>. Der Link ist  {$validationKeyTTL} gültig. </p>\n"
 "<p>Bis demnächst auf  {$domain_name}{$basePath}!</p>"
 
 #: jcommunity~mail.registration.body.html
@@ -578,7 +578,7 @@ msgstr ""
 #: jcommunity~password.change.cmdline.error.unknown
 msgctxt "jcommunity~password.change.cmdline.error.unknown"
 msgid "Unknown user, please submit a valid user as a parameter."
-msgstr ""
+msgstr "Unbekannter Username, bitte gib eine bestehenden Usernamen ein."
 
 #: jcommunity~password.change.cmdline.help.description
 msgctxt "jcommunity~password.change.cmdline.help.description"
@@ -600,11 +600,15 @@ msgctxt "jcommunity~password.change.cmdline.help.parameter.password"
 msgid ""
 "The new password to set. If not given, a random password will be defined."
 msgstr ""
+"Das neue Passwort - wenn keines vergeben wird, wird ein zufälliges Passwort "
+"generiert."
 
 #: jcommunity~password.change.cmdline.help.text
 msgctxt "jcommunity~password.change.cmdline.help.text"
 msgid "The password can be given otherwise it will be defined randomly."
 msgstr ""
+"Das neue Passwort kann vergeben werden - wenn keines vergeben wird, wird ein"
+" zufälliges Passwort generiert."
 
 #: jcommunity~password.change.cmdline.help.usage
 msgctxt "jcommunity~password.change.cmdline.help.usage"
@@ -612,6 +616,8 @@ msgid ""
 "usage: php cmdline.php jcommunity~reset_pass:change [--force] login "
 "[password]"
 msgstr ""
+"Verwendung: php cmdline.php jcommunity~reset_pass:change [--force] login "
+"[password]"
 
 #: jcommunity~password.change.cmdline.success
 msgctxt "jcommunity~password.change.cmdline.success"
@@ -632,6 +638,7 @@ msgstr "Der Nutzername bzw. die Mailadresse ist unbekannt"
 msgctxt "jcommunity~password.form.change.error.admin.badstatus"
 msgid "Password change is not allowed because of the account status."
 msgstr ""
+"Es ist aufgrund des Account-Statuses nicht möglich, das Passwort zu ändern."
 
 #: jcommunity~password.form.change.error.admin.smtperror
 msgctxt "jcommunity~password.form.change.error.admin.smtperror"
@@ -639,11 +646,13 @@ msgid ""
 "There was an error during the mail sending. Please retry later or contact "
 "the administrator."
 msgstr ""
+"Fehler beim Senden der E-Mail. Bitte versuche es später erneut oder "
+"kontaktiere einen Administrator."
 
 #: jcommunity~password.form.change.error.alreadydone
 msgctxt "jcommunity~password.form.change.error.alreadydone"
 msgid "Sorry, there is no request for a password change."
-msgstr ""
+msgstr "Es gibt keinen offenen Antrag, das Passwort zu ändern."
 
 #: jcommunity~password.form.change.error.badcurrentpwd
 msgctxt "jcommunity~password.form.change.error.badcurrentpwd"
@@ -656,6 +665,8 @@ msgid ""
 "Password change is not possible: the username or the request key is not "
 "valid."
 msgstr ""
+"Passwort ändern nicht möglich: Der Username oder der Request-Key ist nicht "
+"valide."
 
 #: jcommunity~password.form.change.error.badloginemail
 msgctxt "jcommunity~password.form.change.error.badloginemail"
@@ -666,6 +677,7 @@ msgstr "Der Nutzername oder die Mailadresse ist unbekannt"
 msgctxt "jcommunity~password.form.change.error.badstatus"
 msgid "Password change is not allowed because of your account status."
 msgstr ""
+"Wegen deines Account-Statuses ist es nicht möglich, das Passwort zu ändern."
 
 #: jcommunity~password.form.change.error.expiredkey
 msgctxt "jcommunity~password.form.change.error.expiredkey"
@@ -673,6 +685,8 @@ msgid ""
 "Password change is not possible: the request has expired. Do an other "
 "request."
 msgstr ""
+"Es ist nicht möglich, das Passwort zu ändern, weilndie Anfrage verfallen "
+"ist. Fordere erneut einen Passwortwechsel an."
 
 #: jcommunity~password.form.change.error.smtperror
 msgctxt "jcommunity~password.form.change.error.smtperror"
@@ -680,6 +694,8 @@ msgid ""
 "There was an error during the mail sending. Please retry later or contact "
 "the administrator."
 msgstr ""
+"Es gab einen Fehler beim versenden der Mail. Bitte versuche es später erneut"
+" oder kontaktiere den Administrator"
 
 #: jcommunity~password.form.change.ok
 msgctxt "jcommunity~password.form.change.ok"
@@ -699,7 +715,7 @@ msgstr "Das neue Passwort wurde gespeichert. Du kannst dich jetzt einloggen"
 #: jcommunity~password.form.change.submit
 msgctxt "jcommunity~password.form.change.submit"
 msgid "Change"
-msgstr ""
+msgstr "Ändern"
 
 #: jcommunity~password.form.change.text.html
 msgctxt "jcommunity~password.form.change.text.html"
@@ -714,12 +730,12 @@ msgstr "Passwort ändern"
 #: jcommunity~password.form.create.error.alreadydone
 msgctxt "jcommunity~password.form.create.error.alreadydone"
 msgid "Sorry, there is no request for a password creation."
-msgstr ""
+msgstr "Entschuldigen, aber es wurde kein neues Passwort angefordert."
 
 #: jcommunity~password.form.create.error.badcurrentpwd
 msgctxt "jcommunity~password.form.create.error.badcurrentpwd"
 msgid "The password does not match the current password"
-msgstr ""
+msgstr "Das Passwort entspricht nicht dem aktuellem Passwort."
 
 #: jcommunity~password.form.create.error.badkey
 msgctxt "jcommunity~password.form.create.error.badkey"
@@ -727,16 +743,18 @@ msgid ""
 "Password creation is not possible: the username or the request key is not "
 "valid."
 msgstr ""
+"Passwortvergabe nicht möglich: DeUsername oder der Anforderungsschlüssel ist"
+" nicht gültig"
 
 #: jcommunity~password.form.create.error.badloginemail
 msgctxt "jcommunity~password.form.create.error.badloginemail"
 msgid "We don't know the username or the email you give"
-msgstr ""
+msgstr "Die Emailadresse/Username ist nicht bekannt."
 
 #: jcommunity~password.form.create.error.badstatus
 msgctxt "jcommunity~password.form.create.error.badstatus"
 msgid "Password creation is not allowed because of your account status."
-msgstr ""
+msgstr "Passwortvergabe ist aufgrund mangelnder Rechte nicht erlaubt."
 
 #: jcommunity~password.form.create.error.expiredkey
 msgctxt "jcommunity~password.form.create.error.expiredkey"
@@ -744,6 +762,8 @@ msgid ""
 "Password creation is not possible: the request has expired. Contact an "
 "administrator"
 msgstr ""
+"Passwortvergabe ist nicht möglich, weil der Link abgelaufen ist. Kontaktiere"
+" den Administrator."
 
 #: jcommunity~password.form.create.text.html
 msgctxt "jcommunity~password.form.create.text.html"
@@ -769,7 +789,7 @@ msgstr ""
 #: jcommunity~password.form.submit
 msgctxt "jcommunity~password.form.submit"
 msgid "Send the email"
-msgstr ""
+msgstr "Schicke die E-Mail"
 
 #: jcommunity~password.form.text.html
 msgctxt "jcommunity~password.form.text.html"
@@ -791,42 +811,43 @@ msgstr "Zurücksetzen deines Passworts"
 #: jcommunity~password.mail.pwd.change.subject
 msgctxt "jcommunity~password.mail.pwd.change.subject"
 msgid "Request about a password reset on %s"
-msgstr ""
+msgstr "Angefragte Passwortänderung auf %s"
 
 #: jcommunity~password.page.create.title
 msgctxt "jcommunity~password.page.create.title"
 msgid "Registration"
-msgstr ""
+msgstr "Registrierung"
 
 #: jcommunity~password.page.title
 msgctxt "jcommunity~password.page.title"
 msgid "Your account"
-msgstr ""
+msgstr "Dein Account"
 
 #: jcommunity~password.reset.cmdline.error
 msgctxt "jcommunity~password.reset.cmdline.error"
 msgid "There was an error during the password resetting."
-msgstr ""
+msgstr "Es gab einen Fehler beim zurücksetzen des Passworts"
 
 #: jcommunity~password.reset.cmdline.help.description
 msgctxt "jcommunity~password.reset.cmdline.help.description"
 msgid "Send an email with a password reset link to an user."
 msgstr ""
+"Schicke eine Mail mit dem Link zum zurücksetzen des Passworts an den User."
 
 #: jcommunity~password.reset.cmdline.help.parameter.login
 msgctxt "jcommunity~password.reset.cmdline.help.parameter.login"
 msgid "the user's login"
-msgstr ""
+msgstr "Der Loginname des Users"
 
 #: jcommunity~password.reset.cmdline.help.usage
 msgctxt "jcommunity~password.reset.cmdline.help.usage"
 msgid "usage: php cmdline.php jcommunity~reset_pass:reset login"
-msgstr ""
+msgstr "Verwendung: php cmdline.php jcommunity~reset_pass:reset login"
 
 #: jcommunity~password.reset.cmdline.mail.undefined
 msgctxt "jcommunity~password.reset.cmdline.mail.undefined"
 msgid "User's email is not defined."
-msgstr ""
+msgstr "Der User hat keine Mailadresse eingetragen."
 
 #: jcommunity~password.waiting.text.html
 msgctxt "jcommunity~password.waiting.text.html"
@@ -849,32 +870,32 @@ msgstr ""
 #: jcommunity~prefs.admin.prefs.change
 msgctxt "jcommunity~prefs.admin.prefs.change"
 msgid "Modify preferences of jCommunity"
-msgstr ""
+msgstr "Passt die Einstellungen von jCommunity an"
 
 #: jcommunity~prefs.group.jcommunity
 msgctxt "jcommunity~prefs.group.jcommunity"
 msgid "jCommunity"
-msgstr ""
+msgstr "jCommunity"
 
 #: jcommunity~prefs.jcommunity.admin
 msgctxt "jcommunity~prefs.jcommunity.admin"
 msgid "jCommunity"
-msgstr ""
+msgstr "jCommunity"
 
 #: jcommunity~prefs.pref.registrationEnabled
 msgctxt "jcommunity~prefs.pref.registrationEnabled"
 msgid "An unknown user can create a new account"
-msgstr "Ein unbekannter Benutzer kann ein neues Konto erstellen"
+msgstr "Unbekannte User können ein neues Konto erstellen"
 
 #: jcommunity~prefs.pref.resetPasswordEnabled
 msgctxt "jcommunity~prefs.pref.resetPasswordEnabled"
 msgid "A user can reset password when he forget it"
-msgstr ""
+msgstr "Ein User kann das Passwort zurücksetzen, wenn es vergessen wurde."
 
 #: jcommunity~register.admin.resend.email.done.text.html
 msgctxt "jcommunity~register.admin.resend.email.done.text.html"
 msgid "<p>The email has been sent to the user.</p>"
-msgstr ""
+msgstr "<p>Eine Mail wurde an den User gesendet.</p>"
 
 #: jcommunity~register.admin.resend.email.text.html
 msgctxt "jcommunity~register.admin.resend.email.text.html"
@@ -883,46 +904,50 @@ msgid ""
 "have a non-validated account. Use this feature when the user has informed "
 "you that the validation key he received has expired.</p>"
 msgstr ""
+"<p>Schickt eine Email mit einem Validierugnsschlüssel an den User '%s' um "
+"den Nicht-Validierten Account zu aktivieren. Nutze diese Option, wenn ein "
+"früher versendeter Validierungsschlüssel bereits abgelaufen ist."
 
 #: jcommunity~register.admin.resend.email.title
 msgctxt "jcommunity~register.admin.resend.email.title"
 msgid "Account creation: resend the validation email"
-msgstr ""
+msgstr "Sende die Validierungsmail erneut"
 
 #: jcommunity~register.cmdline.create.help.description
 msgctxt "jcommunity~register.cmdline.create.help.description"
 msgid "Creates a new user account"
-msgstr ""
+msgstr "Erstelle einen neuem Account"
 
 #: jcommunity~register.cmdline.create.help.option.admin
 msgctxt "jcommunity~register.cmdline.create.help.option.admin"
 msgid "add the new user to \"admins\" group"
-msgstr ""
+msgstr "Füge den User zur \"admins\" Gruppe hinzu"
 
 #: jcommunity~register.cmdline.create.help.option.noerror
 msgctxt "jcommunity~register.cmdline.create.help.option.noerror"
 msgid "Do not output an error if the user already exists"
-msgstr ""
+msgstr "Unterdrücke eine Fehlermeldung, falls der Username bereits existiert."
 
 #: jcommunity~register.cmdline.create.help.option.reset
 msgctxt "jcommunity~register.cmdline.create.help.option.reset"
 msgid "generates a reset link and send it to email"
 msgstr ""
+"Generiere einen Reset-Link und sende ihn an die hinterlegte Mailadresse"
 
 #: jcommunity~register.cmdline.create.help.option.verbose
 msgctxt "jcommunity~register.cmdline.create.help.option.verbose"
 msgid "enable verbose mode"
-msgstr ""
+msgstr "Aktiviere den ausführlichen Output (Verbose)"
 
 #: jcommunity~register.cmdline.create.help.parameter.email
 msgctxt "jcommunity~register.cmdline.create.help.parameter.email"
 msgid "The new user's email"
-msgstr ""
+msgstr "Mailadresse des neuen Users"
 
 #: jcommunity~register.cmdline.create.help.parameter.login
 msgctxt "jcommunity~register.cmdline.create.help.parameter.login"
 msgid "The new user's login"
-msgstr ""
+msgstr "Login-Name des neuen Users"
 
 #: jcommunity~register.cmdline.create.help.parameter.password
 msgctxt "jcommunity~register.cmdline.create.help.parameter.password"
@@ -930,6 +955,9 @@ msgid ""
 "The new user's password, if not defined and '--reset' flag is not given, the"
 " password will be generated randomly and reported via the command line"
 msgstr ""
+"Das neue Userpasswort. Wenn keines festgelegt wird und die '--reset' Option "
+"nicht gesetzt wird, wird ein zufälliges Passwort generiert und in der "
+"Kommandozeile angezeigt."
 
 #: jcommunity~register.cmdline.create.help.text
 msgctxt "jcommunity~register.cmdline.create.help.text"
@@ -938,6 +966,10 @@ msgid ""
 " so the user can define it himself. It the user already exists, it fails, "
 "unless you give the option '--no-error-if-exists'."
 msgstr ""
+"Das Passwort kann entweder vergeben, zufällig generiert oder via Token per "
+"Mail vom User selbst vergeben werden. Wenn du User bereits existiert, wird "
+"der Befehl fehlschlagen, außer die Option '--no-error-if-exists' wird "
+"verwendet."
 
 #: jcommunity~register.cmdline.create.help.usage
 msgctxt "jcommunity~register.cmdline.create.help.usage"
@@ -945,31 +977,33 @@ msgid ""
 "php cmdline.php jcommunity~user:create [-v] [--admin] [--reset] login email "
 "[password]"
 msgstr ""
+"php cmdline.php jcommunity~user:create [-v] [--admin] [--reset] login email "
+"[password]"
 
 #: jcommunity~register.cmdline.delete.help.description
 msgctxt "jcommunity~register.cmdline.delete.help.description"
 msgid "Delete a user account"
-msgstr ""
+msgstr "Lösche einen Useraccount"
 
 #: jcommunity~register.cmdline.delete.help.parameter.login
 msgctxt "jcommunity~register.cmdline.delete.help.parameter.login"
 msgid "The login of the account to delete"
-msgstr ""
+msgstr "Der Loginname des zu löschenden Accounts."
 
 #: jcommunity~register.cmdline.delete.help.text
 msgctxt "jcommunity~register.cmdline.delete.help.text"
 msgid "Delete a user account"
-msgstr ""
+msgstr "Lösche einen Useraccount"
 
 #: jcommunity~register.email.bad.format
 msgctxt "jcommunity~register.email.bad.format"
 msgid "Wrong email format"
-msgstr ""
+msgstr "Falsches Emailformat"
 
 #: jcommunity~register.form.create.submit
 msgctxt "jcommunity~register.form.create.submit"
 msgid "Create the account"
-msgstr ""
+msgstr "Erstelle den Account"
 
 #: jcommunity~register.form.create.text.html
 msgctxt "jcommunity~register.form.create.text.html"
@@ -978,11 +1012,14 @@ msgid ""
 "sent to you with a link to confirm your registration. You could then "
 "identified yourself on the web site.</p>"
 msgstr ""
+"<p>Registriere dich, in dem du das folgende Formular ausfüllst.</p> <p>Eine "
+"Bestätigungsmail mit einem Link wird dann an dich gesendet werden, um die "
+"Registrierung abzuschließen."
 
 #: jcommunity~register.form.create.title
 msgctxt "jcommunity~register.form.create.title"
 msgid "Create an account"
-msgstr ""
+msgstr "Erstelle einen Account"
 
 #: jcommunity~register.form.login.exists
 msgctxt "jcommunity~register.form.login.exists"
@@ -992,29 +1029,30 @@ msgstr "Dieser Benutzername ist bereits in Verwendung"
 #: jcommunity~register.mail.new.subject
 msgctxt "jcommunity~register.mail.new.subject"
 msgid "Activating your account on the web site %s"
-msgstr ""
+msgstr "Aktivierung deines Accounts auf %s"
 
 #: jcommunity~register.registration.cmdline.ok
 msgctxt "jcommunity~register.registration.cmdline.ok"
 msgid "User successfully created."
-msgstr ""
+msgstr "User erfolgreich erstellt"
 
 #: jcommunity~register.registration.confirm.alreadydone
 msgctxt "jcommunity~register.registration.confirm.alreadydone"
 msgid ""
 "Your account is already activated. You can identify yourself on the web "
 "site."
-msgstr ""
+msgstr "Dein Account wurde bereits aktiviert - du kannst dich anmelden!"
 
 #: jcommunity~register.registration.confirm.badkey
 msgctxt "jcommunity~register.registration.confirm.badkey"
 msgid "Activation is not possible: the key or the username is invalid."
 msgstr ""
+"Aktivierung ist nicht möglich: Der Schlüssel oder der Username ist ungültig."
 
 #: jcommunity~register.registration.confirm.badstatus
 msgctxt "jcommunity~register.registration.confirm.badstatus"
 msgid "Activation is not possible: your account is not a new one."
-msgstr ""
+msgstr "Aktivierung ist nicht möglich: Der Account besteht bereits"
 
 #: jcommunity~register.registration.confirm.expiredkey
 msgctxt "jcommunity~register.registration.confirm.expiredkey"
@@ -1022,16 +1060,18 @@ msgid ""
 "Activation is not possible: the request has expired. Ask the administrator "
 "of the web site to activate your account"
 msgstr ""
+"Aktivierung ist nicht möglich: Der Link ist abgelaufen. Frage den "
+"Administrator der Seite nach einer neuen Aktivierungsmail!"
 
 #: jcommunity~register.registration.confirm.ok
 msgctxt "jcommunity~register.registration.confirm.ok"
 msgid "Your account is activated. You can identify yourself on the web site."
-msgstr ""
+msgstr "Dein Account ist aktiviert. Du kannst dich auf der Seite einloggen!"
 
 #: jcommunity~register.registration.confirm.title
 msgctxt "jcommunity~register.registration.confirm.title"
 msgid "Activation of your account"
-msgstr ""
+msgstr "Aktivierung deines Accounts"
 
 #: jcommunity~register.registration.title
 msgctxt "jcommunity~register.registration.title"
@@ -1046,6 +1086,10 @@ msgid ""
 "containing a link on which you must click. Verify your spam folder if you "
 "don't see this email in your inbox.</p>"
 msgstr ""
+"<p>Dein Account wurde aktiviert, aber bevor du ihn benutzen kannst, müssen "
+"wir deine Mailadresse verifizieren.</p> <p>Dazu haben wir dir gerade eine "
+"Mail geschickt mit einem Link. Falls du die Mail nicht in deinem Postfach "
+"siehst, überprüfe deinen Spamordner!</p>"
 
 #: jcommunity~register.registration.waiting.title
 msgctxt "jcommunity~register.registration.waiting.title"

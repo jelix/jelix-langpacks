@@ -155,7 +155,7 @@ msgstr "(911) eroare la apelarea funcției %s: %s"
 #: jelix~cache.error.driver.missing
 msgctxt "jelix~cache.error.driver.missing"
 msgid "(900) profile name '%s': cache driver '%s' not found"
-msgstr ""
+msgstr "(900) numele profilului '%s': driver cache '%s' nu a fost găsit"
 
 #: jelix~cache.error.driver.nohost
 msgctxt "jelix~cache.error.driver.nohost"
@@ -1138,7 +1138,7 @@ msgstr ""
 #: jelix~db.error.driver.notfound
 msgctxt "jelix~db.error.driver.notfound"
 msgid "(408)jDb driver \"%s\" is not found"
-msgstr ""
+msgstr "(408) driver-ul jDb \"%s\" nu a fost găsit"
 
 #: jelix~db.error.feature.unsupported
 msgctxt "jelix~db.error.feature.unsupported"
@@ -1148,17 +1148,17 @@ msgstr ""
 #: jelix~db.error.invalid.param
 msgctxt "jelix~db.error.invalid.param"
 msgid "(413) An invalid argument was supplied to the query"
-msgstr ""
+msgstr "(413) Un argument nevalid a fost furnizat la interogare"
 
 #: jelix~db.error.no.database.name
 msgctxt "jelix~db.error.no.database.name"
 msgid "(412) No database defined in the profile \"%s\"?"
-msgstr ""
+msgstr "(412) Nicio bază de date definită în profilul \"%s\"?"
 
 #: jelix~db.error.nofunction
 msgctxt "jelix~db.error.nofunction"
 msgid "(405)jDb:  %s extension is not installed in PHP"
-msgstr ""
+msgstr "(405) Extensia jDb:  %s nu este instalată în PHP "
 
 #: jelix~db.error.query.bad
 msgctxt "jelix~db.error.query.bad"
@@ -1264,7 +1264,7 @@ msgstr "(25)Nu se poate șterge directorul rădăcină al sistemului de fișiere
 #: jelix~errors.file.directory.notexists
 msgctxt "jelix~errors.file.directory.notexists"
 msgid "(20)The given directory [%s] does not exists"
-msgstr ""
+msgstr "(20) Dosarul dat [%s] nu există"
 
 #: jelix~errors.file.directory.notwritable
 msgctxt "jelix~errors.file.directory.notwritable"
@@ -1294,7 +1294,7 @@ msgstr ""
 #: jelix~errors.inifile.write.error
 msgctxt "jelix~errors.inifile.write.error"
 msgid "(24)Error while writing ini file %s"
-msgstr ""
+msgstr "(24) Eroare la scrierea fișierului ini %s"
 
 #: jelix~errors.jsession.name.invalid
 msgctxt "jelix~errors.jsession.name.invalid"
@@ -1355,7 +1355,7 @@ msgstr "(352)jMailer: Nu s-a putut executa: %s"
 #: jelix~errors.mail.file_access
 msgctxt "jelix~errors.mail.file_access"
 msgid "(359)jMailer: Could not access file: %s"
-msgstr ""
+msgstr "(359) JMailer: nu a putut accesa fișierul: %s"
 
 #: jelix~errors.mail.file_open
 msgctxt "jelix~errors.mail.file_open"
@@ -1402,7 +1402,7 @@ msgstr "(136)Modul necunoscut „%s”"
 #: jelix~errors.module.untrusted
 msgctxt "jelix~errors.module.untrusted"
 msgid "(130)Module \"%s\" is unknown or disabled"
-msgstr ""
+msgstr "(130) Modulul „%s” este necunoscut sau dezactivat"
 
 #: jelix~errors.plugin.unregister
 msgctxt "jelix~errors.plugin.unregister"
@@ -1417,7 +1417,7 @@ msgstr ""
 #: jelix~errors.profile.unknown
 msgctxt "jelix~errors.profile.unknown"
 msgid "(500)Unknown profile \"%s\" for \"%s\""
-msgstr ""
+msgstr "(500) Profil necunoscut \"%s\" pentru \"%s\""
 
 #: jelix~errors.profile.use.default
 msgctxt "jelix~errors.profile.use.default"
@@ -1762,6 +1762,7 @@ msgstr ""
 msgctxt "jelix~formserr.namespace.wrong"
 msgid "(809)The document \"%s\" is not a form or the namespace is invalid"
 msgstr ""
+"(809) Documentul \"%s\" nu este un formular sau spațiul de nume este nevalid"
 
 #: jelix~formserr.no.child.control
 msgctxt "jelix~formserr.no.child.control"
@@ -1771,7 +1772,7 @@ msgstr ""
 #: jelix~formserr.notunique.tag
 msgctxt "jelix~formserr.notunique.tag"
 msgid "(817) tag %1$s must be unique (file %2$s)"
-msgstr ""
+msgstr "(817) eticheta %1$s trebuie să fie unică (fișierul %2$s)"
 
 #: jelix~formserr.selected.attribute.not.allowed
 msgctxt "jelix~formserr.selected.attribute.not.allowed"
@@ -1798,12 +1799,12 @@ msgstr ""
 #: jelix~formserr.unknown.control2
 msgctxt "jelix~formserr.unknown.control2"
 msgid "(831) The control \"%1$s\" doesn't exist in the form \"%2$s\""
-msgstr ""
+msgstr "(831) Controlul \"%1$s\" nu există în formularul \"%2$s\""
 
 #: jelix~formserr.unknown.tag
 msgctxt "jelix~formserr.unknown.tag"
 msgid "(801) unknown tag %1$s  (file %2$s)"
-msgstr ""
+msgstr "(801) Etichetă necunoscută %1$s (fișierul %2$s)"
 
 #: jelix~formserr.value.not.array
 msgctxt "jelix~formserr.value.not.array"
