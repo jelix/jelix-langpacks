@@ -1,4 +1,3 @@
-# 
 # Translators:
 # Flavio, 2021
 # marcobra <marcobra.ubuntu@gmail.com>, 2024

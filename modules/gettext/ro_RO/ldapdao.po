@@ -1,4 +1,3 @@
-# 
 # Translators:
 # Igor Sorocean <sorocean.igor@gmail.com>, 2021
 # 

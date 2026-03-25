@@ -39,7 +39,7 @@ Updating translated strings
 When some new translations are available in Transifex, you can import them
 into the locales directory.
 
-First retrieve translated string from Transifex, it updates po files:
+First, retrieve translated strings from Transifex, so it updates po files:
 
 ```
 ./update_from_transifex.sh
@@ -51,13 +51,13 @@ Then execute this script:
 ./convert_to_properties.sh /path/to/project/.jelixlocales.ini the_module_name
 ```
 
-It updates `.properties` files  into the `locales/` directory from `po` files.
+It updates `.properties` files into the `locales/` directory from `po` files.
 
 
 Adding a new language
 ---------------------
 
-A contributor have translated locales into a new language on Transifex.
+A contributor has translated locales into a new language on Transifex.
 To retrieve them:
 
 - Add the locale into the `lang_map` into .tx/config

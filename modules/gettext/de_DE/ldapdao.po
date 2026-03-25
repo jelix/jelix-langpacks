@@ -1,4 +1,3 @@
-# 
 # Translators:
 # meyerlor <sn1ks@utok-gaming.de>, 2025
 # 
@@ -19,27 +18,27 @@ msgstr ""
 #: ldapdao~errors.bindUserDN.missing
 msgctxt "ldapdao~errors.bindUserDN.missing"
 msgid "no bindUserDN config parameter"
-msgstr ""
+msgstr "kein 'bindUserDN' Konfigurations-Parameter"
 
 #: ldapdao~errors.db.profile.missing
 msgctxt "ldapdao~errors.db.profile.missing"
 msgid "(616)database profile name is missing"
-msgstr ""
+msgstr "(616) Datenbankprofilname fehlt"
 
 #: ldapdao~errors.extension.unloaded
 msgctxt "ldapdao~errors.extension.unloaded"
 msgid "(612)ldap extension unloaded"
-msgstr ""
+msgstr "(612) LDAP-Erweiterung nicht geladen"
 
 #: ldapdao~errors.ldap.profile.missing
 msgctxt "ldapdao~errors.ldap.profile.missing"
 msgid "(615)ldap profile name is missing"
-msgstr ""
+msgstr "(615) LDAP Profilname fehlt"
 
 #: ldapdao~errors.object.user.unknown
 msgctxt "ldapdao~errors.object.user.unknown"
 msgid "(613)user object unknown"
-msgstr ""
+msgstr "(613) Nutzerobjekt unbekannt"
 
 #: ldapdao~errors.search.base.missing
 msgctxt "ldapdao~errors.search.base.missing"

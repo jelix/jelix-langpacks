@@ -1,4 +1,3 @@
-# 
 # Translators:
 # Кадастр Муниципальный, 2022
 # Laurent Jouanneau <dev@ljouanneau.com>, 2025
