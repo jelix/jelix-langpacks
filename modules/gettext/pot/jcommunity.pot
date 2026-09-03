@@ -7,8 +7,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-06-23 09:37++0000\n"
-"PO-Revision-Date: 2026-06-23 09:37++0000\n"
+"POT-Creation-Date: 2026-09-03 14:20++0000\n"
+"PO-Revision-Date: 2026-09-03 14:20++0000\n"
 "Language: \n"
 
 #: jcommunity~account.admin.link.account.resent.validation.email
@@ -868,6 +868,11 @@ msgctxt "jcommunity~register.cmdline.import.help.description"
 msgid "Import some user account from a CSV file"
 msgstr ""
 
+#: jcommunity~register.cmdline.import.help.option.dryRun
+msgctxt "jcommunity~register.cmdline.import.help.option.dryRun"
+msgid "Import simulation"
+msgstr ""
+
 #: jcommunity~register.cmdline.import.help.option.enclosure
 msgctxt "jcommunity~register.cmdline.import.help.option.enclosure"
 msgid "Character used to enclose fields in the CSV file."
@@ -931,6 +936,36 @@ msgstr ""
 #: jcommunity~register.cmdline.import.notice.login.imported
 msgctxt "jcommunity~register.cmdline.import.notice.login.imported"
 msgid "line %s: %s - imported."
+msgstr ""
+
+#: jcommunity~register.cmdline.import.results.account.existing.count
+msgctxt "jcommunity~register.cmdline.import.results.account.existing.count"
+msgid "Ignored existing accounts count: %s"
+msgstr ""
+
+#: jcommunity~register.cmdline.import.results.dryrun.account.existing.count
+msgctxt "jcommunity~register.cmdline.import.results.dryrun.account.existing.count"
+msgid "Account that will be ignored because they exists: %s"
+msgstr ""
+
+#: jcommunity~register.cmdline.import.results.dryrun.imported.account.count
+msgctxt "jcommunity~register.cmdline.import.results.dryrun.imported.account.count"
+msgid "Account that could be imported: %s"
+msgstr ""
+
+#: jcommunity~register.cmdline.import.results.dryrun.message
+msgctxt "jcommunity~register.cmdline.import.results.dryrun.message"
+msgid "Import SIMULATION done."
+msgstr ""
+
+#: jcommunity~register.cmdline.import.results.imported.account.count
+msgctxt "jcommunity~register.cmdline.import.results.imported.account.count"
+msgid "Imported account count: %s"
+msgstr ""
+
+#: jcommunity~register.cmdline.import.results.message
+msgctxt "jcommunity~register.cmdline.import.results.message"
+msgid "Import done."
 msgstr ""
 
 #: jcommunity~register.email.bad.format
